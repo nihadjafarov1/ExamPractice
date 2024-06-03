@@ -1,0 +1,1813 @@
+1. Robotların hazırlanmasında hansı əsas qanunlardan istifadə olunur:
+1. Robotlar insana zərər verməməlidirlər. 2. Robotlar insanın bütün komandalarına
+tabe olmamalıdırlar. 3. Robotlar öz təhlükəsizliyinin qayğısına qalmalıdırlar.
+A) 1 2 3
+B) 1 3
+C) 1 2
+D) hamısı
+E) heç biri
+2. Biliklərin təsviri modelləri hansılardır
+A) Konseptual və emprik
+B) Emprik
+C) Deklorativ və prosedur
+D) Prosedur
+E) Deklorativ
+3. Kompüterin istifadə etdiyi informasiya hansıdır.
+A) Deklorativ və prosedur
+B) Deklorativ
+C) Prosedur
+D) Verilənlər
+E) Biliklər
+4. Qurğuya görə intellektual sistemlər hansı hissələrə bölünür.
+A) robotlar və görmə sistemləri
+B) ekspert sistemləri, obrazların tanınması
+C) neyron şəbəkələri və verilənlər bazası
+D) neyron şəbəkələri və biliklər bazası
+E) neyron şəbəkələri ekspert sistemləri
+5. Süni intellektin tədqiqatında hansı sahələr əsas götürülür. 1. Yaradıcı proseslərin
+imitasiyası. 2. Ünsiyyət sistemləri. 3. Robotlar. 4. EHM-in intellektuallaşdırılması.
+5. Verilənlər bazası. 6. Görmə sistemləri. 7. Planlaşdırma məsələləri.
+A) hamısı
+B) 1 3 4
+C) 2 5 6 7
+D) 2 5 6
+E) 1 3 6
+6. Computing hərfi mənada tərcümədə hansı mənanı verir.
+A) hesablama
+B) çevik
+C) sərt
+D) əməliyyat
+E) kompüter
+7. Hansı proqramlaşdırma dilləri süni intellektual sistemlərin yaradılmasında daha
+çox istifadə olunur.
+A) Prolog, Lisp
+B) C++, Java
+C) Matlab, Lisp
+D) Matlab, Prolog
+E) Prolog, C
+8. Görmənin qavranması və tanınma modelini kim təklif etmişdir?
+A) F. Rozenblat
+B) K. Şennon
+C) A) Samuel
+D) İ.M. Seçenov
+E) Alan Turinq
+9.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) İstehsalın idarə edilməsi
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+10.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) İstehsal daxili planlaşdırma və proqnozlaşdırma
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+11.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Marketinq vəsatışın idarə edilməsi
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+12.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Maliyyə menecmenti
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+13.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Risk menecmenti
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+14.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Bank sahəsi
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+15.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Ticarət
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+16.İntelektual sistemin tətbiqini iqtisadiyyat və biznesdə perspektiv sahələri
+bunlardan hansıdır?
+A) Fond biriqadası
+B) İnformasiyanın toplanması
+C) İnformasiyanın emalı
+D) İnformasiyanın öturulməsi
+E) İnformasiyanın kodlaşdırılması
+17.Ümumiyyətlə intellektual sistemlər əsasən hansı sahədə daha çox istifadə
+olunur?
+A) Marketinqdə
+B) Texniniki araşdırmalar
+C) Tarixdə
+D) Fiziki hadisələrin araşdirilmasinda
+E) kimyevi proseslərin təhlilində
+18.Neyron şəbəkələr daha cox harda istifadə olunur
+A) Valyuta bazarinda
+B) Satişin təhlilində
+C) Komersiya fəaliyyetində
+D) İşkuzar aləmində
+E) Firmalarda
+19.Ekspert sistemlər daha cox harda istifade olunur?
+A) Firmalarda persanalin secilməsində
+B) Maaliyyə araşdirmalarinda
+C) ixtisasli kadr hazirliqinda
+D) İxtisas secimində
+E) Kommensiya fəaliyytində
+20. Ekspert sistemlər daha cox harda istifade olunur?
+A) firma ucun strateji qerarlarin qebul edilməsində
+B) Firmada monitorun fəaliyyətində
+C) Maliyyə fəaliyyətində
+D) Tədris proseslərində
+E) İnstisaslaşmanin sisteminin təşkilində
+21.İntellektual sistemler bu texnologiyalardan hamsindan tetbiqi daha porspaktivli
+hesab olunur?
+A) Nanotexnologiyada
+B) Qida texnologiyasinda
+C) Yüngül sənae texnologiyasinda
+D) Maşin qayirma texnologiyasinda
+E) Tezgahqayirma texnologiyasinda
+22.İqtisadi məsələlərin həllinə yönələn intellektual sistem bulardan hansına
+aiddir?
+A) Tətbiq olunma sahəsinə görə
+B) Qurğuya görə
+C) Məsələlərin həllinə görə
+D) Heç birnə görə
+E) Hamsına görə
+23.Marketinq tədqiqatları üçün hazırlanan sistem əlamətlərinə görə təsnifləşdirilən
+bu sistemlərdən hansına aiddir:
+A) Tətbiq olunan sahəsinə görə
+B) Quruluşa görə
+C) Məsələnin həllinə görə
+D) Heç birinə görə
+E) Hamısına görə
+24.Diaqnostika edən sistem əlamətlərinə görə təsnif olunan bu sistemlərdən
+hansina aiddir:
+A) firma ucun strateji qerarlarin qebul edilməsində
+B) Firmada monitorun fəaliyyətində
+C) Maliyyə fəaliyyətində
+D) Tədris proseslərində
+E) İnstisaslaşmanin sisteminin təşkilində
+25.Amerika Birləşmiş Ştatları intellektual sistem aparatların satışından əldə
+olunan 870 milliyon dollar məblağində gəlir neçənci ildə olmusdur?
+A) 1989
+B) 1990
+C) 1995
+D) 2000
+E) 2005
+26.İntellektual sistem və aparatların satışından ABŞ əldə olunan gəlir 1,1 milyard
+dollar olmuşdur .Bu neçənci ildə olmuşdur?
+A) 1990
+B) 1995
+C) 2000
+D) 2005
+E) 2010
+27.Ekspert sistemlər intellektual sistemin nece bir sahəsidir?
+A) İnkişaf edən
+B) Sabit qalan
+C) Tənəzzul edən
+D) Asılı olmayan
+E) asılı olan
+28.İntellektual sistemlərdə ekspert hansi məsələni həll edir?
+A) Riyazi üsulla həll olunmayan məsələni həll edir
+B) Fiziki hadisələri təhlil edir
+C) Şəraiti qiymətləndirir
+D) Təsuratı nəticələndirir
+E) İnformasiyanı sistemləşdirir
+29.Vəzifələrini müvəffəqiyyətlə yerinə yetirə bilməsi üçün ekspertin hansı cəhti
+vacibdir?
+A) Təcrübəsi
+B) Biliyi
+C) Çalişqanlığı
+D) Təvəzukarlığı
+E) İnadkarlığı
+30.1990-cı ilin əvvəllərin İKT sahəsində hansı yeni elm yaranmağa başladı?
+A) Korporativ biliklərin emalı ve idarə edilməsimetoduna yönəlmiş "Biliklər
+menecmenti" elmi
+B) Çoxluqlar nəzəriyyəsi
+C) Nanotexnalogiya
+D) Multimedya
+E) Sistemlər nəzəriyyəsi
+31.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının sorğusuna görə eskpert
+sistemindən istifadə neçə faiz təşkil etmişdir?
+A) 25%
+B) 30%
+C) 35%
+D) 40%
+E) 45%
+32.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının istifadəcilər yaxin 2-3
+ildə ekspert sisteminin tətbiqi planlaşdirir.necə faiz təşkil etmişdir?
+A) 25
+B) 20
+C) 30
+D) 35
+E) 40
+33.Süni intellekt terminini ilk dəfə kim işlətmişdi?
+A) Con makkorti
+B) Eynşteyn
+C) Lütfüzade
+D) Keldiş
+E) Alan qurinq
+34.Bunlardan hansi kibernetika elminin istiqametidir ?
+A) Neyronakibernetika
+B) Çoxluqlar nəzəriyyəsi
+C) Qeyri səlis coxluqlar nəzəriyyəsi
+D) Riyazi statistika
+E) Adaptiv idarəetmə
+35.Neyrokibernikanın ideyası nədir?
+A) Düşünən yeni qurğu hər hansı yolda olursa olsun insan beyni quruluşuna
+bənzər olmalıdır
+B) Düşünən yeni qurğu elektron qurğu olmalıdır
+C) Düşünən yeni qurğu prevma sistemli olmalıdır
+D) Düşünən yeni qurğu hidrosistemli olmalıdır
+E) Düşünən yeni qurğu elektrosistemli olmalıdır
+36.Neyrokibernikanın məqsədi nədir?
+A) İnsan beynindəki kimi neyronlara analoji olan sistem yaratmaqdır
+B) Elektrik quruluşlu sistemi işə salmaqdır
+C) İnsan beynindəki kimi diaqnostika elementidir
+D) İnsan beynindəki kimi yoxlatmaqdır
+E) İnsan beynindəki kimi yaratmaqdır
+38.Neyron şəbəkə həmdə nə adlanır?
+A) Neyroşəbəkə
+B) Neyron birləşmə
+C) Neyron qruplaşma
+D) Neyron əlaqə
+E) Neyron sistem
+39.Birinci neyron şəbəkələr neçənci ildə yaradılıb?
+A) 1950
+B) 1955
+C) 1960
+D) 1965
+E) 1965
+40.Komputer intellekti anlayşini kim vermişdir?
+A) Alan Turinq
+B) Can makkorti
+C) Lutfuzade
+D) Kaldeş
+E) Eynişteyn
+41.İntellektual sistemlərin quruluşu və layihələndirilməsi dedikde nə başa
+düşülür?
+A) Biliklərin tədqiqat sahəsində biliklərin tətbiqi və problemin təşkilatı struktur
+B) İnformsiyanın alınması strukturu
+C) İnformsiyanın verilməsi strukturu
+D) İnformsiyanın emalı strukturu
+E) İnformsiyanın saxlanması strukturu
+42.Biliklər bazasının təşkili ilk növbədə nəyə əsaslanır?
+A) Onun saxlamalı olduğu informasiyanın xarakterinə
+B) İnformasiyanın alınma səviyyəsinə
+C) İnformasiyanın dəyərliliynə
+D) İnformasiyanın asan işlənə bilməsi
+E) İnformasiyanın tətbiq oluna bilməsinə
+43.Pozenblatt və Makkiqyuk tərəfindən yaradılan pesfeptron nə deməkdir?
+A) İnsan gözü modeli ilə beyin arasında əlaqə yaradır?
+B) Gözü müayinə edir
+C) Gözü müalicə edir
+D) Gözün çəpliyini düzəldir
+E) Gözün görmə qabiliyyətini artırır
+44.1970-1980 ci illərdə reseptron qurğusu işləri uğursuz oldu niyə?
+A) O vaxtı komputerlərin yaddaşı və sürəti az idi
+B) Komputerlər təkmil deyildir
+C) Komputerlər az etibarlı idi
+D) Komputerlər böyük həcmli idi
+E) Komputerlər daha çox enerji ilə işləyirdi
+45.Ekspert sistemlər ilk dəfə hansı ölkədə yarandı?
+A) ABŞ
+B) SSRİ
+C) Yaponya
+D) Fransa
+E) Koreya
+46.Biliklərin təqdim olunması hansı ölkədə yarandı?
+A) ABŞ
+B) SSRİ
+C) Yaponya
+D) Fransa
+E) Koreya
+47.Killian tərəfindən biliklərin təqdim olunmasina semantik çəbəkələr kim
+tərfindən edilmişdir?
+A) Rullian
+B) Makkarti
+C) Nyull
+D) Sayman
+E) Minskiy
+48.Qeyrisəlis çoxluqlar nəzəriyyəsi kim tərəfindən irəli sürülmüşdür?
+A) Zadə
+B) Makkarti
+C) Nyuel
+D) Sayman
+E) Turinq
+49. Qeyri səlis alqoritmlər kim tərfindən işlənmişdir?
+A) Zadə
+B) Makkarti
+C) Nyuel
+D) Sayman
+E) Turinq
+50.Süni intellekt elmi problemi aşagidakilardan hansidir?
+A) Komputer köməyi ilə insan kimi davranan maşin yaratmaq
+B) Komputer köməyi hesabat aparmaq
+C) Komputer köməyi məsələ həll edmək
+D) Komputer köməyi şəkil çəkmək
+E) Komputer köməyi informasiyanı işləmək
+51.Süni intellekt elmi problemi aşagidakilardan hansidir?
+A) Komputer vasitəsi ilə mühakimə yürütmək
+B) Komputer köməyi hesabat aparmaq
+C) Komputer köməyi məsələ həll edmək
+D) Komputer köməyi şəkil çəkmək
+E) Komputer köməyi informasiyanı işləmək
+52.Süni intellekt elmi problemi aşagidakilardan hansidir?
+A) Qeyri -müyyən muhitdə qərar qəbul etmək
+B) Komputer köməyi hesabat aparmaq
+C) Komputer köməyi məsələ həll edmək
+D) Komputer köməyi şəkil çəkmək
+E) Komputer köməyi informasiyanı işləmək
+53.Süni intellekt elmiproblemi aşagidakilardan hansidir?
+A) Qeyri dəqiq mühitdə qərar qəbul etmək
+B) Komputer köməyi hesabat aparmaq
+C) Komputer köməyi məsələ həll edmək
+D) Komputer köməyi şəkil çəkmək
+E) Komputer köməyi informasiyanı işləmə
+54.Süni intellekt bir elm kimi qəbulundan sonra hansi elmin əsasi qoyulmuşdur?
+A) Kibernetika
+B) İnformatika
+C) Avtomatlaşdirma
+D) Avtomatik idarə etmə
+E) Elektronika
+55.Bunlardan hansi süni intellektin iki xarakterik metodlarindan biridir?
+A) Simvol şəkilli informasiyadan istifadə
+B) Rəqəmdən istifadə
+C) Sxemlərdən istifadə
+D) İnformasiyadan istifadə
+E) Maqnit şualanmasindan istifadə
+56.Bunlardan hansi süni intellektin iki xarakterik metodlarindan biridir?
+A) Simvolməntiqindən istifadə ilə axtariş
+B) Rəqəmdən istifadə
+C) Sxemlərdən istifadə
+D) İnformasiyadan istifadə
+E) Maqnit şualanmasindan istifadə
+57.Süni intellektin inkişafinda hansi maşinin yaradilmasindan sonra başladi
+A) EHM in yaradilmasi ilə
+B) Özuyeriyen maşinlarin
+C) Uçan maşinlarin
+D) Pnevmatik maşinlarin
+E) Hidrovlik maşinlarin
+58.Biliklərin təqdim olunmasında faktoqrafik informasiya hansı səviyyəyə aiddir?
+A) Birinci
+B) İkinci
+C) Üçüncü
+D) Dördüncü
+E) Beşinci
+59.Biliklərin təqdim olunmasında faktoqrafik informasiyanın manipulyasiyası
+üsulunu müəyyən edən təsvir,əlaqə qayda və presedurlar hansı səviyyəyə aiddir?
+A) Birinci
+B) İkinci
+C) Üçüncü
+D) Dördüncü
+E) Beşinci
+60.Bunlardan hansı intellektual layihələndirmənin birinci mərhələsinə aiddir?
+A) Məsələnin xarakteristikasının identfikasiyası
+B) Biliklərin təqdimatı üçün məfhumun tanınması
+C) Biliklərin təqdimatı üçün quruluşun layihələndirilməsi
+D) Biliklərin təqdimatı üçün qaydaların formalaşması
+E) Bilikləri təşkil edən qaydalarin qiymətləndirilməsi
+61.Bunlardan hansı intellektual layihələndirmənin ikinci mərhələsinə aiddir?
+A) Biliklərin təqdimatı üçün məfhumun tanınması
+B) Məsələnin xarakteristikasının identfikasiyası
+C) Biliklərin təqdimatı üçün quruluşun layihələndirilməsi
+D) Biliklərin təqdimatı üçün qaydaların formalaşması
+E) Bilikləri təşkil edən qaydalarin qiymətləndirilməsi
+62.Bunlardan hansı intellektual layihələndirmənin üçüncü mərhələsinə aiddir?
+A) Biliklərin təqdimatı üçün quruluşun layihələndirilməsi
+B) Məsələnin xarakteristikasının identfikasiyası
+C) Biliklərin təqdimatı üçün məfhumun tanınması
+D) Biliklərin təqdimatı üçün qaydaların formalaşması
+E) Bilikləri təşkil edən qaydalarin qiymətləndirilməsi
+63..Bunlardan hansı intellektual layihələndirmənin dördüncü mərhələsinə aiddir?
+A) Biliklərin təqdimatı üçün qaydaların formalaşması
+B) Məsələnin xarakteristikasının identfikasiyası
+C) Biliklərin təqdimatı üçün məfhumun tanınması
+D) Biliklərin təqdimatı üçün quruluşun layihələndirilməsi
+E) Bilikləri təşkil edən qaydalarin qiymətləndirilməsi
+64.Bunlardan hansı intellektual layihələndirmənin beşinci mərhələsinə aiddir?
+A) Bilikləri təşkil edən qaydalarin qiymətləndirilməsi
+B) Məsələnin xarakteristikasının identfikasiyası
+C) Biliklərin təqdimatı üçün məfhumun tanınması
+D) Biliklərin təqdimatı üçün quruluşun layihələndirilməsi
+E) Biliklərin təqdimatı üçün qaydaların formalaşması
+65.Bunlardan hansı bilik mühəndisnə aiddir?
+A) Tədqiqat sahəsində yaxşı orentasiya etmək
+B) Komputeri işlədmək
+C) Komputeri sazlamaq
+D) Komputeri diaqnostika edmək
+E) Komputeri təmir etmək
+66.Bunlardan hansı bilik mühəndisnə aiddir?
+A) Ekspertlə ünsiyyət qurmağı bacarmalıdır
+B) Komputeri işlədmək
+C) Komputeri sazlamaq
+D) Komputeri diaqnostika edmək
+E) Komputeri təmir etmək
+67.Bunlardan hansi biliklərin mənbəyidir?
+A) Kitablar,texniki,təsvirlər
+B) Təlimatlar
+C) Məruzələr
+D) Sənədlər
+E) Çıxışlar
+68. Süni intellekt keyfiyyətinə malik 5-ci nəsil komputerlər necə olmalıdır?
+A) təbii dili başa düşməlidir
+B) mətni oxumalı
+C) əşyanı görməli
+D) dinləməyi bacarmalı
+E) eşitməyi bacarmalı
+69.5 –ci nəsil komputerlər necə olmalıdır ?
+A) gözlənilməz və qeyri –müəyyən vəziyyət üçün qərar çıxara bilməlidir
+B) əvvəlcədən nəzərdə tutulmuş vəziyyət üçün qərar çıxarmalıdır
+C) edilən komandaya uyğun qərar verməlidir
+D) verilmiş proqramdan kənara çıxmamalıdır
+E) verilmiş proqramla hərəkət etməlidir
+70. Süni intellekt 5-ci nəsil komputerlər bunlardan hansına malik olmalıdır ?
+A) qavrama
+B) saxlamalı
+C) ayırmalı
+D) gorməli
+E) hamsı
+71. İntelektual sistemlərdə nə öyrənilir ?
+A) informasiya emalının insan beynində olduğu kimi həyata keçirilməsi məsələsi
+B) informasiyanın qeydə alınmasının qanunauyğunluğu
+C) informasiyanın ötürülməsinin asanlaşdırılması
+D) informasiyanın veriminin cəldləşdirilməsi
+E) informasiyanın etibarlı saxlanılması
+72. kompüterlərə öyrətmə qabiliyyəti hansı nəzəriyyə ilə yaradılır ?
+A) neyron şəbəkələri nəzəriyyəsi
+B) elektron şəbəkə nəzəriyyəsi
+C) zərbə nəzəriyyəsi
+D) çoxluqlar nəzəriyyəsi
+E) qeyri səlis çoxluqlar nəzəriyyəsi
+73. Bunalardan hansı intelektual sistemin kriteriyasıdır?
+A) həmkarı ilə dil tapmaq
+B) həmkarla dil tapmamaq
+C) komentari yaratmaq
+D) yalnız öz nəticəsini yeritmək
+E) həmkarının fikrinə məhəl qoymamaq
+74. Bunalardan hansı intelektual sistemin kriteriyasıdır?
+A) özünü öyrətməklə ətraf mühitin modelini təkmilləşdirməlidir
+B) təftiş aparmaqla məlumatları dəqiqləşdiməlidir
+C) sistemə nəzarət etməlidir
+D) icra elementləri idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+75. Bunalardan hansı intelektual sistemin kriteriyasıdır?
+A) lazım gəldikdə gördüyü işi izah etməyi bacarmalıdır.
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+76.Bunlardan hansı intellektual sistemlərə aiddir?
+A) lazım gəldikdə proqnozlaşdırmağı bacarmalıdır.
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+77. Bunlardan hansı intellektual sistemlərə aiddir?
+A) əvvəlcədən qazandığı biliklər öz fəaliyyətində istifadə edə bilməli.
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+78. Bunlardan hansı intellektual sistemə aiddir?
+A) öyrənən və ya özü öyrədən blok.
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad
+E) informasiya bloku
+79. Bunlardan hansı intellektual sistemə aiddir?
+A) proqnoz bloku.
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad
+E) informasiya bloku
+80.Maşın intellekti sənayesini artirmaq üçün hansı struktur daha perspektivdir?
+A) Soft Computing.
+B) Mitsubishi
+C) Toshiba
+D) Nissan
+E) Honda
+81.Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) qeyri-səlis məntiq.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+82.Biliklər sisteminin hazırlanmasında əsas füqur kimdir?
+A) Biliklər üzrə mühəndis
+B) Ekspert
+C) Operator
+D) Praqramçı
+E) İstifadəçi
+83.Bunlardan hansı ekspert sistemin ümumiləşdirilmiş strukturuna aiddir?
+A) İstifadəçi interfeysi
+B) Qidalandırıcı bloku
+C) İnformasiya bloku
+D) Emal bloku
+E) Süzgəclər bloku
+84.Bunlardan hansı ekspert sistemin ümumiləşdirilmiş strukturuna aiddir?
+A) Məntiqi nəticə bloku
+B) Qidalandırıcı bloku
+C) İnformasiya bloku
+D) Emal bloku
+E) Süzgəclər bloku
+85.Bunlardan hansı ekspert sistemin ümumiləşdirilmiş strukturuna aiddir?
+A) İzahedici alt sistem
+B) Qidalandırıcı bloku
+C) İnformasiya bloku
+D) Emal bloku
+E) Süzgəclər bloku
+86.Bunlardan hansı ekspert sistemin ümumiləşdirilmiş strukturuna aiddir?
+A) Biliklər bazasının intellektual redaktoru
+B) Qidalandırıcı bloku
+C) İnformasiya bloku
+D) Emal bloku
+E) Süzgəclər bloku
+87.Süni intellekt nədir ?
+A) termindir
+B) cihazdır
+C) alətdir
+D) qurğudur
+E) vasitədir
+88. Bunlardan hansı intellektual sistemlərə aiddir?
+A) proqnozlaşdırmağı bacarmalı və onu öz fəaliyyəti ilə əlaqələndirməli.
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+89. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) neyron şəbəkələr nəzəriyyəsi.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+90. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) öyrənmə nəzəriyyəsi.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+91.Fizzy Logic (FL) ingiliscə nə deməkdir?
+A) qeyri-səlis məntiq.
+B) səlis məntiq
+C) məntiq
+D) anlayış
+E) anlamaq
+92.Qeyri-səlis məntiq Fizzy Logic Soft komputerin nəyidir?
+A) aparıcısıdır.
+B) informasiya vericisidir
+C) informasiya qəbuledicisi
+D) emal blokudur
+E) informasiya bazasıdır
+93. Qeyri-səlis məntiq Fizzy Logic Soft komputerin nəyidir?
+A) təşkilatcısıdır.
+B) informasiya vericisidir
+C) informasiya qəbuledicisi
+D) emal blokudur
+E) informasiya bazasıdır
+94. Qeyri-səlis məntiq sənaye sahəsində informasiya çatışmamazlığı şəraitində
+bunlardan istifdə olunur?
+A) diaqnostikadA)
+B) yazılışda
+C) hesabatda
+D) saxlanmada
+E) idarəetmədə
+95. Qeyri-səlis məntiq sənaye sahəsində informasiya çatışmamazlığı şəraitində
+bunlardan istifdə olunur?
+A) qərarların qəbul edilməsində.
+B) yazılışda
+C) hesabatda
+D) saxlanmada
+E) idarəetmədə
+96. Qeyri-səlis məntiq sənaye sahəsində informasiya çatışmamazlığı şəraitində
+bunlardan istifadə olunur?
+A) mürəkkəb sistemlərdə.
+B) yazılışda
+C) hesabatda
+D) saxlanmada
+E) idarəetmədə
+97. Ekspert sistemlər:
+A) konkret predmet sahəsində mütəxəssis biliklərini özündə əks etdirən və az
+kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb
+kompleks proqramlardır
+B) informatika sahəsində mütəxəssis biliklərini özündə əks etdirən və az
+kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb
+kompleks proqramlardır
+C) kibernetika sahəsində mütəxəssis biliklərini özündə əks etdirən və az
+kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb
+kompleks proqramlardır
+D) texnologiya sahəsində mütəxəssis biliklərini özündə əks etdirən və az
+kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb
+kompleks proqramlardır
+E) bütün sahələrdə mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı
+istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks
+proqramlardır
+98. Ekspert:
+A) müəyyən predmet sahəsində mükəmməl biliyə, böyük təcrübəyə malik
+yüksək kvalifikasiyalı mütəxəssisdir
+B) informatika sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək
+kvalifikasiyalı mütəxəssisdir
+C) kibernetika sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək
+kvalifikasiyalı mütəxəssisdir
+D) texnologiya sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək
+kvalifikasiyalı mütəxəssisdir
+E) bütün sahələrdə mükəmməl biliyə, böyük təcrübəyə malik az kvalifikasiyalı
+mütəxəssisdir
+99.ES-in ən vacib və digər BƏS-lərdən fərqləndirici cəhəti ...
+A) məhz ekspert biliklərinə əsaslanan bilik bazasına malik olmasıdır
+B) məhz server biliklərinə əsaslanan bilik bazasına malik olmasıdır
+C) məhz kliyent biliklərinə əsaslanan bilik bazasına malik olmasıdır
+D) məhz istifadəçi biliklərinə əsaslanan bilik bazasına malik olmasıdır
+E) məhz sifarişçi biliklərinə əsaslanan bilik bazasına malik olmasıdır
+100.Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Daxili interpretasiya
+B) Xarici interpretasiya
+C) Daxili inteqrasiya
+D) Xarici inteqrasiya
+E) Heç biri
+101. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Strukturlaşma
+B) Vizuallaşma
+C) Təkminləşmə
+D) Testləşmə
+E) Heç biri
+102. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Bağlılıq
+B) Passivlik
+C) Aktuallıq
+D) Adekvatlıq
+E) Dolğunluq
+103. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Aktivlik
+B) Passivlik
+C) Aktuallıq
+D) Adekvatlıq
+E) Dolğunluq
+104. Bilikləri üç böyük qrupa bölmək mümkündür
+A) Faktlar (faktiki biliklər)
+B) Qraflar (faktiki biliklər)
+C) Testlər (faktiki biliklər)
+D) Qrafiklər (faktiki biliklər)
+E) Formalar (faktiki biliklər)
+105. Bilikləri üç böyük qrupa bölmək mümkündür
+A) Metabiliklər (bilik haqqında bilik)
+B) Meqabiliklər (bilik haqqında bilik)
+C) Giqabiliklər (bilik haqqında bilik)
+D) Zetabiliklər (bilik haqqında bilik)
+E) Pentabiliklər (bilik haqqında bilik)
+106. Biliklərin təsvir modeli:
+A) ekspertlərdən alınmış biliklərin müəyyən qaydalar formasında təqdim
+olunmasına xidmət edir
+B) istifadəçilərdən alınmış biliklərin müəyyən qaydalar formasında təqdim
+olunmasına xidmət edir
+C) sifarişçilərdən alınmış biliklərin müəyyən qaydalar formasında təqdim
+olunmasına xidmət edir
+D) icraçılardan alınmış biliklərin müəyyən qaydalar formasında təqdim
+olunmasına xidmət edir
+E) istehsalçılardan alınmış biliklərin müəyyən qaydalar formasında təqdim
+olunmasına xidmət edir
+107. Biliklərin paylanma xarakterinə görə mərkəzləşmiş və paylanmış ... əsasında
+yaradılan ES mövcuddur.
+A) BB
+B) VB
+C) İS
+D) Sİ
+E) heç biri
+108. ES-də biliklərin təsvir modellərinin təsnifatı belədir
+A) produksion model, semantik şəbəkə modeli
+B) produksion model, lokal şəbəkə modeli
+C) produksion model, qlobal şəbəkə modeli
+D) produksion model, vizual şəbəkə modeli
+E) produksion model, qarışıq şəbəkə modeli
+109. ES-də biliklərin təsvir modellərinin təsnifatı belədir
+A) freym model, formal məntiq modeli
+B) freym model, faktiki məntiq modeli
+C) freym model, vizual məntiq modeli
+D) freym model, riyazi məntiq modeli
+E) freym model, fiziki məntiq modeli
+110. Semantik şəbəkədə olan münasibətlər
+A) "hissə- tam" tipli əlaqələr (sinif-qrup, element- çoxluq)
+B) "hissə- tam" tipli fərqlər (sinif-qrup, element- çoxluq)
+C) "hissə- tam" tipli əmrlər (sinif-qrup, element- çoxluq)
+D) "hissə- tam" tipli sorğular (sinif-qrup, element- çoxluq)
+E) "hissə- tam" tipli sistemlər (sinif-qrup, element- çoxluq)
+111. Semantik şəbəkədə olan münasibətlər(VI):
+A) məntiqi əlaqələr (və, və ya, yox)
+B) riyazi əlaqələr (və, və ya, yox)
+C) funksional əlaqələr (və, və ya, yox)
+D) tam əlaqələr (və, və ya, yox)
+E) düz əlaqələr (və, və ya, yox)
+112. Semantik şəbəkədə olan münasibətlər
+A) linqvistik əlaqələr
+B) linqvistik vasitələr
+C) linqvistik xüsusiyyətlər
+D) linqvistik xarakter
+E) linqvistik sistemlər
+113. Giriş icazəsinin olmasına görə ES ... ola bilərlər.
+A) fərdi və kollektiv
+B) xüsusi
+C) açıq və qapalı
+D) ümumi
+E) mürəkkəb və sadə
+114. Tipik statik ekspert sistemləri (ES) aşağıdakı əsas komponentlərdən ibarətdir
+A) biliklər bazası; verilənlər bazası adlandırılan işçi yaddaş
+B) biliklər bazası; verilənlər bazası adlandırılan xarici yaddaş
+C) biliklər bazası; verilənlər bazası adlandırılan daxili yaddaş
+D) biliklər bazası; verilənlər bazası adlandırılan əsas yaddaş
+E) biliklər bazası; verilənlər bazası adlandırılan əlavə yaddaş
+115. Tipik statik ekspert sistemləri (ES) aşağıdakı əsas komponentlərdən ibarətdir
+A) izahat sistemi; biliklərin əldə olunması komponentləri;
+B) proqram sistemi; biliklərin əldə olunması komponentləri
+C) biliklərin əldə olunması komponentləri; əməliyyat sistemi
+D) biliklərin əldə olunması sistemləri; izahat sistemi
+E) izahat sistemi; biliklərin əldə olunması sistemləri
+116.Verilənlər bazası (işçi yaddaş) həll olunan məsələnin ...
+A) cari verilənlərinin saxlanmasına xidmət edir
+B) əvvəlki verilənlərinin saxlanmasına xidmət edir
+C) sonrakı verilənlərinin istifadəsinə xidmət edir
+D) bəzi verilənlərinin saxlanmasına xidmət edir
+E) müəyyən sistemlərin saxlanmasına xidmət edir
+117. Ekspert sistemlərinin işlənməsində müxtəlif predmet oblastlarından
+mütəxəssislər cəlb edilir:
+A) ekspert sistemlərinin realizasiyasını həyata keçirən proqramçılar
+B) ekspert sistemlərinin istismarını həyata keçirən istifadəçilər
+C) ekspert sistemlərinin realizasiyasını həyata keçirən istehlakçılar
+D) ekspert sistemlərinin istismarını həyata keçirən istehlakçılar
+E) ekspert biliklərinin realizasiyasını həyata keçirməyən proqramçılar
+118. ... ekspert sistemlərinin proqram təminatını işləyib hazırlayırlar və onların
+istifadə olunacağı mühitə uyğunluğunu təmin edirlər.
+A) Proqramçılar
+B) Mühəndislər
+C) Ekspertlər
+D) Sistem texnikləri
+E) İstifadəçilər
+119.Qeyri-səlis məntiq nəzəriyyəsi hansı fənnin bir bölməsidir?
+A) riyaziyyatın.
+B) fizikanın
+C) avtomatikanın
+D) informatikanın
+E) kimya
+120. Qeyri-səlis məntiq anlayışı kim tərəfindən irəli sürülmüşdür?
+A) Lütfizadə
+B) Eynşteyn
+C) Landan
+D) Keldiş
+E) Makarov
+121.Qeyri-səlis məntiq nəzəriyyəsi hansı ölkə alimləri tərəfindən ilk olaraq
+istifadə edilmişdir?
+A) Yaponiya
+B) Amerika
+C) Rusiya
+D) Mozanbik
+E) Somali
+122.Bilik nədir?
+A) proqramlaşdirmada məlum olan veriləndir
+B) proqramlaşdirmada vasitədir
+C) proqramlaşdirmada üsuludu
+D) proqramlaşdirmada yazılışıdı
+E) proqramlaşdirmada nəticəsidi
+123.Biliklər nəyə əsaslanır?
+A) məlumatlara
+B) təsuratlara
+C) təsəvvürlərə
+D) hissiyatlara
+E) təcrübələrə
+124.İntellektual sistemlərin yaradılmasında əsas problemlərdən biri biliyin
+nəyidir?
+A) təsviri
+B) oyrənilməsi
+C) öyrədilməsi
+D) yaradılması
+E) qorunması
+125.İntellektual sistemlərin yaradılmasında əsas problemlərdən biri biliyin
+nəyidir?
+A) istifadəsi
+B) oyrənilməsi
+C) öyrədilməsi
+D) yaradılması
+E) qorunması
+126.Biliklər nədir?
+A) optimal strukturlaşdırılmış verilənlər barədə verilənlərdir
+B) adi verilənlər toplusudur
+C) sadə verilənlər toplusudur
+D) orta verilənlər toplusudur
+E) əsas verilənlər toplusudur
+127.Biliklər müəyyən predment sahəsində məsələlərin həllini təmin edən nədir?
+A) metodlardir
+B) əlamətlərdir
+C) nəticələrdir
+D) yazılışlardır
+E) informasiyadır
+128.Biliklər müəyyən predment sahəsində məsələlərin həllini təmin edən nədir?
+A) qanunlardir
+B) əlamətlərdir
+C) nəticələrdir
+D) yazılışlardır
+E) informasiyadır
+129.Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır?
+A) Daxili inteqrasiya
+B) Xarici inteqrasiya
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
+130. Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır?
+A) bağlılıq
+B) Xarici inteqrasiya
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
+131. Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır?
+A) Aktivlik
+B) Xarici inteqrasiya
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
+132.Məlumat bazasında informasiya həcmi necə olur?
+A) böyük
+B) kiçik
+C) orta
+D) az
+E) cuzi
+133.Biliklər hansı bazalarda saxlanılır?
+A) bilik
+B) elim
+C) məlumat
+D) informasiya
+E) axtarış
+134.Biliklərin maddi daşıyıcıları bunlardan hansıdır?
+A) dərslik
+B) qələm
+C) dəftər
+D) kağız
+E) blaknot
+135.Biliklərin maddi daşıyıcıları bunlardan hansıdır?
+A) metodiki vəsait
+B) qələm
+C) dəftər
+D) kağız
+E) blaknot
+136.Biliklərin maddi daşıyıcıları bunlardan hansıdır?
+A) elmi və istehsalat xarakterli əsərlər
+B) qələm
+C) dəftər
+D) kağız
+E) blaknot
+137.Biliklərin maddi daşıyıcıları bunlardan hansıdır?
+A) dərslik
+B) qələm
+C) dəftər
+D) kağız
+E) blaknot
+138.Baza biliklərinin yaradılması üçün bir biri ilə əlaqədar əsasən hansı
+problemləri həll etmək lazımdır?
+A) biliyin təsviri
+B) icra qurğusu yaratmaq
+C) enerji mənbəni yaratmaq
+D) informasiya toplanması
+E) informasiya emalı
+139.Baza biliklərinin yaradılması üçün bir biri ilə əlaqədar əsasən hansı
+problemləri həll etmək lazımdır?
+A) biliyin istifadə olunması
+B) icra qurğusu yaratmaq
+C) enerji mənbəni yaratmaq
+D) informasiya toplanması
+E) informasiya emalı
+140.Baza biliklərinin yaradılması üçün bir biri ilə əlaqədar əsasən hansı
+problemləri həll etmək lazımdır?
+A) bilik bazası və idarə edən sistemin yaradılması
+B) icra qurğusu yaratmaq
+C) enerji mənbəni yaratmaq
+D) informasiya toplanması
+E) informasiya emalı
+141.Bunlardan hansı biliklər əsas sisteminə aiddir?
+A) tam faktiki biliklər
+B) predment sahəsinə aid olan bilikləri
+C) prosedur biliklər konseptual biliklər
+D) konseptual biliklər
+E) struktur biliklər
+142. Bunalardan hansı intelektual sistemin kriterlərindəndir
+A) öyrənmək və öyrətmək
+B) öyrənməmək və öyrətməmək
+C) gücləndirmək
+D) aşkarlamaq
+E) kombinə etmək
+143. Bunalardan hansı intelektual sistemin kriterlərindəndir
+A) məntiqi nəticələri istifadə etməklə şəraiti tamamlamaq qərar qəbul etmək
+B) məlumatları toplamaq
+C) məlumatları göndərmək
+D) məlumatları saxlamaq
+E) məlumatları dəqiqləşdirmək
+144. Bunlardan hansı intellektual sistemlərə aiddir?
+A) yeni biliklər qazanmalı və onu öz fəaliyyəti ilə əlaqələndirməli.
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
+145. Qeyri- səlis tənzimləyici nədir?
+A) bilik modelinə əsaslanan tənzimləyici
+B) məntiqi çıxışlar
+C) trasformasiya siqnalları
+D) səlis siqnal
+E) qeyri- səlis məntiqi biliklərin təsviri
+146. Qeyri- səlis tənzimləyici nədir?
+A) qeyri- səlis biliklərin təsvirinə və məntiqi çıxışlara əsaslanan tənzimləyici
+B) məntiqi çıxışlar
+C) qeyri- səlis məntiqi biliklərin təsviri
+D) səlis siqnal
+E) trasformasiya siqnalları
+147. Qiymətləndirmə çoxluğunun hansı qiymətində A qeyri- səlis çoxluq olar?
+A€X
+A) [0,1]
+B) : 0,1:
+C) (0,1)
+D) (1,1 )
+E) [ 0,2]
+148. Qeyri-səlis A çoxluğunun daşıyıcısı = 0.5 şərtini ödəyən elementlər çoxluğu
+necə adlanır.
+A) keçid nöqtəsi
+B) siqnalton
+C) dasıyıcı
+D) sonlu çoxluq
+E) sonsuz çoxluq
+149. Qeyri-səlis çoxluğun hündürlüyü nəyə deyilir?
+A) mənsubiyyət funksiyasının dəqiq yuxarı həddinə
+B) mənsubiyyət funksiyasının orta həddinə
+C) mənsubiyyət funksiyasının aşağı həddinə
+D) mənsubiyyət funksiyasının normal həddinə
+E) mənsubiyyət funksiyasının sıfır həddinə
+150.Bunlardan hansı elmi biliklərdən alınmasına dair meyarlanır?
+A) sistemlilik
+B) daxili uyğunluğu olmaması
+C) xarici uyğunluğu olması
+D) xarici uyğunluğu olmaması
+E) məntiqə əks olması
+151.Bunlardan hansı elmi biliklərdən alınmasına dair meyarlanır?
+A) obyektivlik
+B) daxili uyğunluğu olmaması
+C) xarici uyğunluğu olması
+D) xarici uyğunluğu olmaması
+E) məntiqə əks olması
+152. Qeyri-səlis çoxluğun hündürlüyünün maksimal qiyməti nəyə bərabərdir.
+A) 1
+B) 0
+C) 2
+D) 5
+E) 10
+153.Bilik mühəndisliyi bunlardan hansı məsələləri öyrənir?
+A) əldə edilməsi
+B) saxlanması
+C) qorunması
+D) izah olunması
+E) qeyd olunması
+154.Bilik mühəndisliyi bunlardan hansı məsələləri öyrənir?
+A) intellektual sistemlərdə reallaşdırılması
+B) saxlanması
+C) qorunması
+D) izah olunması
+E) qeyd olunması
+155.Bunlardan hansı biliyin əldə edilməsinə dairdi?
+A) biliyin alınması və aşkarlanması
+B) monitorinqi
+C) yoxlanması
+D) saxlanması
+E) qeydiyyatdan keçirilməsi
+156.Bunlardan hansı biliyin əldə edilməsinə dairdi?
+A) biliyin formalaşdırılması
+B) monitorinqi
+C) yoxlanması
+D) saxlanması
+E) qeydiyyatdan keçirilməsi
+157. A qeyri-səlis çoxluğu üçün, , ödənərsə, ona necə çoxluq
+deyilir?
+A) normal
+B) anormal
+C) supnormal
+D) müəyyən
+E) qeyri-müəyyən
+158. A qeyri-səlis çoxluğu üçün sup ödənərsə, bu çoxluq necə
+adlanır?
+A) supnormal
+B) anormal
+C) müəyyən
+D) qeyri-müəyyən
+E) normal
+159. A çoxluğun α-kəsiyi nəyə deyilir?
+A) mənsubiyyət dərəcəsi həddindən α –dan kiçik olmayan elementlərindən təşkil
+olunan adi çoxluğA)
+B) mənsubiyyət dərəcəsi həddindən böyük olmayan elementlərindən təşkil olunan
+adi çoxluğA)
+C) mənsubiyyət dərəcəsi həddinə bərabər olan elementlərindən təşkil olunan adi
+çoxluğA)
+D) mənsubiyyət dərəcəsi həddinə olan elementlərindən təşkil olunan adi çoxluğA)
+E) mənsubiyyət dərəcəsi həddinə yaxınlaşan elementlərindən təşkil olunan adi
+çoxluğa
+160. Aşağıdakı formulaların hansı qeyri-səlis çoxluqların birləşmə əməlinin
+düsturudur.
+A) ,
+B)
+C)
+D) ,
+E) ,
+161. Aşağıdakı formulaların hansı qeyri-səlis çoxluqların kəsişmə əməlinin
+düsturudur.
+A) ,
+B) ,
+C) ,
+D) ,
+E) ,
+162. , nəyin formuludur?
+A) məhdud fərq
+B) simmetrik fərq
+C) ciddi (drastik) cəm
+D) məhdud hasil
+E) cəbri cəm
+163. , nəyin formuludur?
+A) simmetrik fərq
+B) cəbri cəm
+C) ciddi (drastik) cəm
+D) məhdud hasil
+E) məhdud fərq
+164. Linqvistik dəyişən anlayışını ilk dəfə elmə hansı alim gətirmişdir?
+A) L. Zadə
+B) Naykvis
+C) Raus
+D) Hurvis
+E) Laplas
+165. Adi (səlis) dəyişən aşağıdakı hansı üçlüklə xarakterizə olunur?
+A) (X, U, R (x:u));
+B) X, U, R;
+C) X, U, Z;
+D) X, U,Y;
+E) (X, U, Z (x:u).
+166. İdentifikasiya mərhələsində:
+A) həll ediləcək məsələlər, layihənin məqsədi, ekspertlər və istifadəçilərin
+növləri müəyyənləşdirilir
+B) həll ediləcək proqramlar, layihənin məqsədi, ekspertlər və istifadəçilərin
+növləri müəyyənləşdirilir
+C) həll ediləcək sorğular, layihənin məqsədi, ekspertlər və istifadəçilərin
+növləri müəyyənləşdirilir
+D) həll ediləcək əmrlər, layihənin məqsədi, ekspertlər və istifadəçilərin
+növləri müəyyənləşdirilir
+E) heç biri
+167. ... faktiki xarakterli obyektləri, prosesləri və predmet oblastını, həmçinin
+onların xüsusiyyətlərini təsvir edən informasiyadır.
+A) Verilənlər
+B) Biliklər
+C) Məlumat
+D) Aksiomlar
+E) Verilənlər bazası
+168.İnlellektual informasiya sistemlərinin işlənib hazırlanmasında əvvəlcə ...
+toplanması və təsviri yerinə yetirilir.
+A) biliklərin
+B) məlumatların
+C) verilənlərin
+D) texniki vasitələrin
+E) hamısı birlikdə
+169. ... biliklər faktların və hadisələrin təsviridir.
+A) Deklarativ
+B) İlkin
+C) Funksional
+D) Prosedur
+E) Struktur
+170. ... biliklər qoyulmuş məqsədə çatmaq üçün hadisələrin və faktların
+manipulyasiyası zamanı hərəkətlərin təsviridir.
+A) Prosedur
+B) Struktur
+C) Funksional
+D) İlkin
+E) Deklarativ
+171. Təsvir formalarının tipinə görə biliklər ... tiplərinə bölünürlər.
+A) faktlar və qaydalar
+B) faktlar və evristika
+C) deklarativ və prosedur
+D) deklarativ və evristika
+E) prosedur və qaydalar
+172. Biliklərin təsvirinin tipik modelləri:
+A) məntiqi, produksion, obyektyönümlü , semantik şəbəkə
+B) produksion, obyektyönümlü, semantik şəbəkə
+C) fiziki,məntiqi, produksion, semantik şəbəkə
+D) məntiqi, produksion, obyektyönümlü, sintaktik şəbəkə
+E) məntiqi, produksion, obyektyönümlü, fiziki
+173. Məntiqi modelin əsasını ... tərtib predikatların say sistemləri təşkil edir.
+A) birinci
+B) ikinci
+C) sonuncu
+D) əvvəlinci
+E) üçüncü
+174. İmplikasiyanın nəticəsi ... ifadəsinin nəticəsi ilə üst-üstə düşür.
+A) ←A∨B
+B) →A∨B
+C) ←A^B
+D) ↔A∨B
+E) +A∨B
+175.Məntiqi modellər əsasən ... sistemlərində geniş tətbiq edilir.
+A) tədqiqat
+B) əməliyyat
+C) informasiya
+D) kompüter
+E) heç biri
+176.Produksion modeldə biliklər ”Əgər-onda” tipli ... yığımı şəklində təsvir
+olunurlar.
+A) qaydalar
+B) məlumatlar
+C) teoremlər
+D) verilənlər
+E) elementlər
+177. ... tipli ekspert sistemlərinin tərkibinə məntiqi nəticənin müəyyən
+mexanizmini realizə edən faktiki verilənlər bazası (işçi yaddaş) və qaydalar
+interpretatoru daxildir.
+A) Produksion
+B) məntiqi
+C) obyektyönümlü
+D) semantik şəbəkə
+E) hamısı birlikdə
+178.İxtiyari produksion qaydalar biliklər bazasında saxlanılır və iki hissədən
+ibarətdir:
+A) antesedent və konsekvent
+B) antesedent və konyuktiv
+C) konsekvent və aqreqativ
+D) konsekvent və freym
+E) freym və aqreqativ
+179.Bir neçə konseptual obyekti təsvir etmək üçün verilənlərin strukturu ...
+adlanır.
+A) freym
+B) relyasion
+C) obyekt
+D) qraf
+E) heç biri
+180. Slotlarda olan proseduralar əlaqəli və ya birləşdirilmiş ... adlanırlar.
+A) slotlar
+B) freymlər
+C) verilənlər
+D) sistemlər
+E) biliklər
+181. Predmet oblastının verilənləri yığımı qarışılıqlı əlaqəli freymlər çoxluğunu
+təsvir edirlər ki, ...
+A) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid freym sistemini
+əmələ gətirirlər
+B) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid informasiya
+sistemini əmələ gətirirlər
+C) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid bilik sistemini
+əmələ gətirirlər
+D) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid prosedur sistemini
+əmələ gətirirlər
+E) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid proqram sistemini
+əmələ gətirirlər
+182.İyerarxik freymlər bir-biri ilə ... əlaqəsi ilə birləşmişlər.
+A) nəsl-növ
+B) növ-əlamət
+C) nəsl-əlamət
+D) informasiya
+E) nəsl-qrup
+183. ... öz valideynlərinin xarakteristikalarının qiymətlərini irsən ötürmək
+qabiliyyətinə malikdirlər.
+A) Freymlər
+B) Qraflar
+C) Növlər
+D) Prosedurlar
+E) İnsanlar
+184.Freymin şablonuna sinif kimi, freymin nüsxəsinə isə ... kimi baxmaq olar.
+A) obyekt
+B) element
+C) sistem
+D) baza
+E) çoxluq
+185.Obyektyönümlü proqramlaşdırma dilləri obyekt və sinif yaradılması,
+həmçinin ... emalı prosedurasının təsviri vasitələrinə malikdirlər.
+A) obyektin
+B) sistemin
+C) bazanın
+D) verilənlərin
+E) informasiyanın
+186.İnformasiyanın ənənəvi emalı texnologiyası ... nəzəriyyəsinə əsaslanan
+hesablamalara istiqamətlənmişdir ki, bu da ... arxitekturalı EHM-də realizə olunur.
+A) Tyurinq, fon Neyman
+B) Tyurinq, Bebbiç
+C) fon Neyman, Minski
+D) Viner, Bebbiç
+E) fon Neyman, Viner
+187.Biliklərin emalı prosesi ... fəaliyyətində mühakimə yürütmək,
+sistemləşdirmək, maarifləndirmək və s. kimi sahələri modelləşdirir.
+A) insan
+B) kompüter
+C) informasiya
+D) sistem
+E) hamısı birlikdə
+188.İntellektual sistemlərdə biliklərin təsvirinin seçilməsi məsələsi ... əsas vacib
+hissəsidir.
+A) layihələndirmənin
+B) qurulmanın
+C) sistemin
+D) informasiya emalının
+E) nizamlamanın
+189.Ənənəvi məntiq 2500 il bundan əvvəl ... tərəfindən təklif olunan formal
+sistemlər hesab olunur.
+A) Aristotel
+B) Sokrat
+C) Fales
+D) Diogen
+E) Homer
+190.Silloqizmin hər bir qaydası ... nəticəyə keçməyi müəyyən edir.
+A) anlayışlardan
+B) mühakimələrdən
+C) cümlələrdən
+D) aksiomlardan
+E) səbəblərdən
+191.Silloqizm hər şeydən əvvəl ... dildə olan ağıllı diskussiyaları idarə etmək üçün
+nəzərdə tutulmuşdur.
+A) təbii
+B) bədii
+C) ədəbi
+D) riyazi
+E) maşın
+192.Biliklərin etibarlılığının daha dəqiq qiymətləndirilməsi üçün ... teoreminə
+əsaslanan ehtimal yanaşması və başqa metodlar tətbiq edilir.
+A) Bayes
+B) Bayer
+C) Bazen
+D) Bolsano
+E) Bazis
+193.Praktikada qeyri səlis nəticələr geniş yer tutur ki, bu da ... nəzəriyyəsinin
+əsasında yaranan qeyri səlis məntiq bazasında qurulur.
+A) qeyri səlis çoxluqlar
+B) səlis çoxluqlar
+C) qeyri səlis massivlər
+D) qeyri səlis vektorlar
+E) səlis massivlər
+194.Biliklərin qiymətləndirilməsinin ehtimal metodu ... geniş inkişaf tapmışdır.
+A) biliklər mühəndisliyində
+B) biliklər bazasında
+C) sistem mühəndisliyində
+D) ekspertizada
+E) verilənlər bazasında
+195.Linqivistik biliklərin qeyri dəqiqliyinin uçotu üçün Lütfi Zadə tərəfindən ...
+ildə təklif edilmiş qeyri səlis çoxluqlar nəzəriyyəsi istifadə edilir.
+A) 1965-ci
+B) 1955-ci
+C) 1975-ci
+D) 1985-ci
+E) 1995-ci
+196.“Faktiki olaraq qeyri səlistlik insanların məsələləri həll etmə qabiliyyətinin
+başa düşülməsində açar ola bilər, hansı ki, bu məsələlərin həlli EHM-də kifayət
+qədər mürəkkəbdir” fikrinin müəllifi kimdir.
+A) Lütfi Zadə
+B) Norbert Viner
+C) Con fon Neyman
+D) Makdermott
+E) Doul
+197.Qeyri səlis məntiqin və qeyri səlis nəticələrin meydana gəlməsinə səbəb:
+A) Qeyri səlis riyaziyyat oblastında tədqiqatların inkişafı
+B) Ali riyaziyyat oblastında tədqiqatların inkişafı
+C) Qeyri səlis çoxluqlar oblastında tədqiqatların inkişafı
+D) Səlis riyaziyyat oblastında tədqiqatların inkişafı
+E) Qeyri səlis biliklər oblastında tədqiqatların inkişafı
+198.Biliklərin əldə olunması prosesi nədir?
+A) Ekspertlərdən biliklərin alınması prosesi
+B) Mühəndislərdən biliklərin alınması prosesi
+C) Bazadan biliklərin alınması prosesi
+D) Biliklər bazasının yaradılması
+E) Biliklərin sistemləşdirilməsi
+199.Biliklər üzrə mühəndis ekspertlərdən aldığı informasiya əsasında ...
+A) özünün xüsusi modelini yaradır
+B) özünün xüsusi bazasını yaradır
+C) özünün xüsusi biliyini yaradır
+D) özünün xüsusi sistemini yaradır
+E) özünün xüsusi informasiyasını yaradır
+200.Predmet oblastının ekspertinə çox böyük tələblər qoyulur və ona ... ixtisasına
+yiyələnmək vacibdir.
+A) biliklər üzrə mühəndis
+B) proqramçı
+C) sistem administratoru
+D) sistem mühəndisi
+E) sistemotexnik
+201. ... - yalnız toplanmış biliklərin ümumiləşdirilmiş sistemi deyil, həm də yeni
+biliklərin alınması üsuludur.
+A) Nəzəriyyə
+B) İntellekt
+C) İnformasiya
+D) Təcrübə
+E) heç biri
+202.Yeni biliklərin əsas keyfiyyət kriteriyaları:
+A) daxili uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+B) xarici uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+C) daxili uyğunlaşma, sintez, obyektivlik, tarixçilikdir
+D) daxili uyğunlaşma, sistemlilik, subyektivlikdir
+E) kompleks uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+203.Biliklərin modallığı nədir?
+A) müxtəlif kateqoriyalarda mövcudluğu imkanları
+B) eyni kateqoriyalarda mövcudluğu imkanları
+C) müxtəlif sistemlərdə mövcudluğu imkanları
+D) eyni sistemlərdə mövcudluğu imkanları
+E) kompleks uyğunlaşma, sistemlilik, obyektivlik
+204.Emprik biliklərin daxili uyğunlaşması nə ilə xarakterizə olunur?
+A) modal, ziddiyyət, qeyri tamlıq
+B) model, ziddiyyət, qeyri tamlıq
+C) modal, uyğunlaşma, qeyri tamlıq
+D) modal, ziddiyyət, tamlıq
+E) model, ziddiyyət, tamlıq
+205.Biliklərin sistemliliyi nəyə əsaslanır?
+A) çoxsəviyyəli ierarxik təşkildə yeni biliklərin yerinin müəyyən olmasına
+B) eyni sistemlərdə mövcudluğu imkanlarına
+C) müxtəlif sistemlərdə mövcudluğu imkanlarına
+D) birsəviyyəli ierarxik təşkildə yeni biliklərin yerinin müəyyən olmasına
+E) çoxsəviyyəli ierarxik təşkildə yeni ekspertlərin yerinin müəyyən olmasına
+206.Biliklərin toplanması, təsviri, təqdimi, emalı, interpretasiyası və keyfiyyətinin
+qiymətləndirilməsi konkret ... tərəfindən yerinə yetirilir.
+A) insanlar
+B) kompüterlər
+C) sistemlər
+D) maşınlar
+E) verilənlər bazası
+207.Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(I):
+A) faktların təsviri və ümumiləşdirilməsi
+B) çoxsəviyyəli ierarxik təşkildə ekspertlərin yerinin müəyyən olması
+C) model, ziddiyyət, qeyri tamlıq
+D) faktların təsviri və yığılması
+E) hadisələrin təsviri və təsnifləşdirilməsi
+208.Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(IV):
+A) model əsasında hadisələrin proqnozlaşdırılması və izahı
+B) model əsasında verilənlərin proqnozlaşdırılması və izahı
+C) model əsasında planların proqnozlaşdırılması və izahı
+D) model əsasında hadisələrin planlaşdırılması və izahı
+E) model əsasında biliklərin proqnozlaşdırılması və izahı
+209.Riyazi məntiq nəyi formalaşdırır?
+A) ümumi mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən,
+qiymətləndirən kriteriləri
+B) xüsusi mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən,
+qiymətləndirən kriteriləri
+C) müəyyən mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən,
+qiymətləndirən kriteriləri
+D) ümumi bilikləri və nəticələri inkar etməyən, dəqiqliyi təmin edən,
+qiymətləndirən kriteriləri
+E) xüsusi bilikləri və nəticələri inkar etməyən, dəqiqliyi təmin edən,
+qiymətləndirən kriteriləri
+210.Əgər U çoxluğu kəsilməzdirsə, F çoxluğunu inteqral kimi yazmaq olar:
+A)
+B)
+C)
+D)
+E)
+211.Qeyri-səlis çoxluqlar üzərində əməliyyatların ən vacibləri:
+A) çoxluğun tamamlanması, çoxluqların birləşdirilməsi və çoxluqların kəsişməsi
+B) çoxluğun vurulması, çoxluqların birləşdirilməsi və çoxluqların kəsişməsi
+C) çoxluğun toplanması, çoxluqların birləşdirilməsi və çoxluqların kəsişməsi
+D) çoxluğun cəmlənməsi, çoxluqların birləşdirilməsi və çoxluqların kəsişməsi
+E) çoxluğun çıxılması, çoxluqların birləşdirilməsi və çoxluqların kəsişməsi
+212.″Qeyri-səlis məntiq″ sistemi ... tərəfindən verilən qaydalar çoxluğundan
+qeyri-səlis məntiqi nəticə çıxarmaq qabiliyyətinə malikdir.
+A) istifadəçi
+B) mühəndis
+C) ekspert
+D) sistem
+E) kompüter
+213.Məntiqi nəticənin informasiyasının alınması:
+A) Proqramın daxil edilməsi, Faktiki verilənlərin daxil edilməsi
+B) Proqramın daxil edilməsi, Parametrik öyrədilmə
+C) Faktiki verilənlərin daxil edilməsi, Neyron şəbəkələrinin öyrədilməsi
+D) Neyron şəbəkələrinin öyrədilməsi, Parametrik öyrədilmə
+E) Xarici formatda biliklərin alınması və onların dərk edilməsi
+214.Misallar üzrə öyrədilmə:
+A) İnduktiv öyrədilmə, Parametrik öyrədilmə
+B) Dialoq rejimində daxili formatda biliklərin alınması
+C) Faktiki verilənlərin daxil edilməsi, Proqramın daxil edilməsi
+D) Proqramın daxil edilməsi, Neyron şəbəkələrinin öyrədilməsi
+E) Faktiki verilənlərin daxil edilməsi, Parametrik öyrədilmə
+215.Biliklərin kənardan alınması:
+A) Dialoq rejimində daxili formatda biliklərin alınması
+B) Analogiya üzrə nəticələr əsasında öyrədilmə
+C) Neyron şəbəkələrinin öyrədilməsi
+D) Faktiki verilənlərin daxil edilməsi
+E) hamısı birlikdə
+216... biliklərin alınması məsələsi intellektual informasiya sistemlərinin müasir
+inkişafı mərhələsində aktualdır.
+A) Metasəviyyədə
+B) Xaricdən
+C) Kənardan
+D) Meqasəviyyədə
+E) heç biri
+217.Süni neyron şəbəkəsi (SNŞ)...
+A) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş
+modelidir
+B) bu texniki beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş
+modelidir
+C) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının modelidir
+D) bu süni beyinin, daha dəqiq desək əsəb toxumalarının mürəkkəbləşdirilmiş
+modelidir
+E) bu bioloji beyinin, daha dəqiq desək əzələ toxumalarının sadələşdirilmiş
+modelidir
+218.Süni neyron şəbəkələri sadə hesablama elementlərini...
+A) süni neyronlar yığımını təsvir edir
+B) təbii neyronlar yığımını təsvir edir
+C) süni atomlar yığımını təsvir edir
+D) təbii atomlar yığımını təsvir edir
+E) süni hüceyrələr yığımını təsvir edir
+219.Neyroriyaziyyatın nəzəri əsasları ...-cı illərdə qoyulmuşdur.
+A) 1940
+B) 1950
+C) 1960
+D) 1936
+E) 1946
+220. ... ideyasından C)Makkaloxom və U.Pitts tərəfindən istifadə edilərək
+özlərinin xüsusi nəzəriyyələrini yaratdılar.
+A) Vinerin
+B) Neymanın
+C) Bebbicin
+D) Lebedevin
+E) Kolmoqorovun
+221. formulası nəyi idarə edir?
+A) qeyri-səlis çoxluğun konsentrasiyasını
+B) qeyri-səlis çoxluğun yayılmasını
+C) qeyri-səlis münasibəti
+D) qeyri-səlis kompozisiyanı
+E) simmetrik fərq
+222. İlkin intellektual sistem kimi ... proqramı hesab olunur.
+A) “Məntiq-nəzəriyyəçi”
+B) “Məntiq-riyaziyyatçı”
+C) “Riyazi-nəzəriyyəçi”
+D) “Məntiq-proqramçı”
+E) “Proqram-nəzəriyyəçi”
+223. Süni intellekt sahəsində ilk tədqiqatlara uyğun olaraq fundamental süni
+intellektə aiddir:
+A) ənənəvi hesab olunan intellektual sistemlər
+B) ənənəvi hesab olunmayan intellektual sistemlər
+C) ənənəvi hesab olunan interaktiv sistemlər
+D) ənənəvi hesab olunmayan interaktiv sistemlər
+E) ənənəvi hesab olunan informasiya sistemləri
+224. Süni intellekt sahəsində ilk tədqiqatlara uyğun olaraq fundamental süni
+intellektə aiddir:
+A) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gəlməyən sistemlər
+B) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gələn sistemlər
+C) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gəlməyən sistemlər
+D) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gələn sistemlər
+E) Avtomatlaşdırılmaya və formatlaşdırılmaya uyğun gələn sistemlər
+225. Eksperimentin rolu aparat-proqram informasiya komplekslərindən ibarət ...
+sistemlərin dəqiqləşdirilməsi və yoxlanması ilə bağlıdır.
+A) intellektual
+B) informasiya
+C) kompüter
+D) telekommunikasiya
+E) idarəetmə
+226. Biliklərə əsaslanan sistemləri qurarkən bu və ya digər məsələlərin həllində
+ekspertlərin konkret ... şəklində toplanmış bilikləri istifadə olunur.
+A) qaydalar
+B) biliklər
+C) məlumatlar
+D) verilənlər
+E) sistemlər
+227. Biliklərə əsaslanan sistemləri (BƏS) qurarkən bu və ya digər məsələlərin
+həllində ...
+A) ekspertlərin konkret qaydalar şəklində toplanmış bilikləri istifadə olunur
+B) ekspertlərin konkret qaydalar şəklində toplanmış bilikləri istifadə olunmur
+C) ekspertlərin ixtiyari qaydalar şəklində toplanmış bilikləri istifadə olunur
+D) ekspertlərin ixtiyari qaydalar şəklində hazırlanmış bilikləri istifadə olunur
+E) ekspertlərin konkret əmrlər şəklində toplanmış bilikləri istifadə olunur
+228. Süni intellektdə maşın tərcüməsinin və kompüter linqvistikasının
+problemləri ... illərdən işlənilir.
+A) 1950-ci
+B) 1960-cı
+C) 1970-ci
+D) 1975-ci
+E) 1980-ci
+229. Biliklərə əsaslanan sistemlərin (BƏS) xüsusi halı …
+A) ekspert sistemləri (ES) hesab edilir
+B) əməliyyat sistemləri (ƏS) hesab edilir
+C) informasiya sistemləri (İS) hesab edilir
+D) korporativ sistemlər (KS) hesab edilir
+E) Nitq ünsiyyət sistemi hesab edilir
+230. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr
+aşağıdakılardır(I):
+A) xüsusi proqramlaşdırma dilləri
+B) əsas proqramlaşdırma dilləri
+C) riyazi proqramlaşdırma dilləri
+D) əlavə proqramlaşdırma dilləri
+E) fiziki proqramlaşdırma dilləri
+231. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr
+aşağıdakılardır
+A) məntiqi proqramlaşdırma dilləri
+B) fiziki proqramlaşdırma dilləri
+C) əlavə proqramlaşdırma dilləri
+D) əsas proqramlaşdırma dilləri
+E) riyazi proqramlaşdırma dilləri
+232. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr
+aşağıdakılardır
+A) biliklərin təsviri dilləri
+B) modellərin təsviri dilləri
+C) qrafiklərin təsviri dilləri
+D) əmrlərin təsviri dilləri
+E) sorğuların təsviri dilləri
+233. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr
+aşağıdakılardır
+A) ekspert sistemləri örtüyü
+B) əməliyyat sistemləri örtüyü
+C) informasiya sistemləri örtüyü
+D) korporativ sistemləri örtüyü
+E)intellektual sistemləri örtüyü
+234.Proqramı intellektuallaşdırmaqdan ötrü onu predmet sahəsi haqqında yüksək
+keyfiyyətli xüsusi ... təmin etmək lazımdır.
+A) biliklərlə
+B) məlumatlarla
+C) kompüterlə
+D) ekspertlə
+E) sistemlə
+235. Ekspert sistemlərin qurulması texnologiyası ... adlanır.
+A) bilik mühəndisliyi
+B) maşın mühəndisliyi
+C) kompüter mühəndisliyi
+D) sistem mühəndisliyi
+E) informasiya mühəndisliyi
+236. Bütün ES-lər ... əsaslanan sistemlərdir.
+A) biliklərə
+B) kompüterlərə
+C) ekspertlərə
+D) telekommunikasiyaya
+E) insanlara
+237. BƏS ...
+A) konkret predmet sahəsinə aid bilikləri cəmləşdirən, məntiqi çıxarışı təmin edən
+və həll edən intellektual proqramlardır
+B) bir çox predmet sahəsinə aid bilikləri cəmləşdirən, riyazi çıxarışı təmin edən və
+həll edən intellektual məsələlərdir
+C) bəzi predmet sahəsinə aid bilikləri cəmləşdirən, məntiqi çıxarışı təmin edən və
+həll edən intellektual sistemlərdir
+D) müəyyən predmet sahəsinə aid bilikləri cəmləşdirən, məntiqi çıxarışı təmin
+edən və həll edən konkret proqramlardır
+E) bir neçə predmet sahəsinə aid bilikləri cəmləşdirən, məntiqi çıxarışı təmin edən
+və həll edən intellektual sistemlərdir
+238. İntellektual robotların yaradılması ...
+A) robototexnika sahəsinin son məqsədidir
+B) robototexnika sahəsinin ilk məqsədidir
+C) robototexnika sahəsinin əsas məqsədidir
+D) robototexnika sahəsinin məqsədi deyil
+E) robototexnika sahəsinin son məqsədi deyil
+239. ... problemin həllini əks etdirən faktlar və qaydalardan ibarətdir.
+A) Bilik bazası
+B) Verilənlər bazası
+C) Süni intellekt
+D) Sistem bazası
+E) heç biri
+240. Hazırkı dövrdə sərt idarəetmə sxeminə malik proqramlaşdırılmış
+manipulyatorlar istifadə olunur ki, bunlara da ...
+A) birinci nəsil robotlar deyilir
+B) ikinci nəsil robotlar deyilir
+C) üçüncü nəsil robotlar deyilir
+D) dördüncü nəsil robotlar deyilir
+E) beşinci nəsil robotlar deyilir
+241. Ayrı-ayrı ixtiraların müvəffəqiyyətlərinə baxmayaraq avtonom intellektual
+robotların dövrü ...
+A) hələ gəlməmişdir
+B) artıq keçmişdir
+C) hələ davam edir
+D) mövcud deyil
+E) heç biri
+242. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər
+xarakterikdir
+A) inkişaf etmiş kommunikativ qabiliyyət
+B) inkişaf etməmiş kommunikativ qabiliyyət
+C) inkişaf etmiş korporativ qabiliyyət
+D) inkişaf etməmiş korporativ qabiliyyət
+E) hamısı
+243. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər
+xarakterikdir
+A) öz-özünə öyrənmə qabiliyyəti
+B) öz-özünə öyrətmə qabiliyyəti
+C) öz-özünə öyrənmə keyfiyyəti
+D) öz-özünə öyrətmə keyfiyyəti
+E) heç biri
+244. Adi (səlis) dəyişənin üçlüyündə R(x:u) nəyi ifadə edir?
+A) u elementlərinin qiymətinə qoyulan məhdudiyyəti
+B) dəyişənin qiymətini
+C) sonlu və ya sonsuz universumu
+D) dəyişənin adını;
+E) dəyişənin diapazonu
+245. İntellektual sistemlərin yaradılmasının sənaye texnologiyasının
+mərhələlərinə aiddir ...
+A) bütün variantlar
+B) Layihənin yerinə yetirilə bilməsinin tədqiqi
+C) Sistemin ümumi konsepsiyasının işlənməsi
+D) Prototip seriyalarının testləşdirilməsi və işlənməsi
+E) Baş obrazın sınağı və işlənməsi
+246. Neyron şəbəkəlri müxtəlif məslələri yerinə yetirir. Giriş verilənləri üçün bir
+və ya digər davamlı ədədi dəyərin proqnozlaşdırılması məqsədi nədir?
+A)Reqressiya
+B)Təsnifat
+C)Klasterləşmə
+D)Yenidən təlim
+E) Heç bir cavab doğru deyildir
+247. Bunlardan hansi kibernetika elminin istiqametidir ?
+A) Neyronakibernetika
+B) Çoxluqlar nəzəriyyəsi
+C) Qeyri səlis coxluqlar nəzəriyyəsi
+D) Riyazi statistika
+E) Adaptiv idarəetmə
+248. Neyrokibernikanın məqsədi nədir?
+A) İnsan beynindəki neyronlara analoji olan sistem yaratmaqdır
+B) Elektrik quruluşlu sistemi işə salmaqdır
+C) İnsan beynindəki kimi diaqnostika elementidir
+D) İnsan beynindəki kimi yoxlatmaqdır
+E) İnsan beynindəki kimi yaratmaqdır
+249. İnsan beynində çoxlu miqdarda neyronlar nə edirlər?
+A) Öz aralarında və əsəb hüceyrələri ilə qarşılıqlı bağlı şəbəkə yaradırlar
+B) Elektrik quruluşlu sistemi işə salmaqdır
+C) İnsan beynindəki kimi diaqnostika elementidir
+D) İnsan beynindəki kimi yoxlatmaqdır
+E) İnsan beynindəki kimi yaratmaqdır
+250.Neyron şəbəkə həmdə nə adlanır?
+A) Neyroşəbəkə
+B) Neyron birləşmə
+C) Neyron qruplaşma
+D) Neyron əlaqə
+E) Neyron sistem
+251.Birinci neyron şəbəkələr neçənci ildə yaradılıb?
+A) 1950
+B) 1955
+C) 1960
+D) 1965
+E) 1965
+252.Birinci neyron şəbəkələr kimlər tərəfindən yaradılıb?
+A) Pozenbalt və Makkiqyuk tərəfindən
+B) Rezerford və Enşteyn tərəfindən
+C) Makkarti və Pozenbalt tərəfindən
+D) Rezenford və Pozenbalt tərəfindən
+E) Makkarti və Makkiqyuk tərəfindən
+253.Pesfeptronu kimlər yaratmışdır?
+A) Pozenbalt və Makkiqyuk
+B) Rezerford və Enşteyn
+C) Makkarti və Pozenbalt
+D) Rezenford və Pozenbalt
+E) Makkarti və Makkiqyuk
+254.Pozenblatt və Makkiqyuk tərəfindən yaradılan peseptron nə üçündür?
+A) İnsan gözü modeli ilə beyin arasında əlaqə yaradır?
+B) Gözü müayinə edir
+C) Gözü müalicə edir
+D) Gözün çəpliyini düzəldir
+E) Gözün görmə qabiliyyətini artırır
+255.Neyron şəbəkələri kim elmi praktiki işlərindən sonra sürətlə inkişaf etməyə
+başladı?
+A) Hopfild
+B) Turinq
+C) Nyuel
+D) Sayman
+E) Zadə
+256.Özütəşkilolunan xəritələri 1980-ci ildə ilk dəfə kim işləmişdir?
+A) Kohanen
+B) Turinq
+C) Nyuel
+D) Sayman
+E) Zadə
+257.neyron şəbəkələrdə verilənlərin paralel emalını ilk dəfə kimlər işləmişdir?
+A) Rimelhard və Makkleland
+B) Turinq və Şenon
+C) Nyuel və Sayman
+D) Kullian və Minskiy
+E) Rimelhard və Kovalski
+258. kompüterlərə öyrətmə qabiliyyəti hansı nəzəriyyə ilə yaradılır ?
+A) neyron şəbəkələri nəzəriyyəsi
+B) elektron şəbəkə nəzəriyyəsi
+C) zərbə nəzəriyyəsi
+D) çoxluqlar nəzəriyyəsi
+E) qeyri səlis çoxluqlar nəzəriyyəsi
+259. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) neyron şəbəkələr nəzəriyyəsi.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+260. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) ehtimal mühakimə.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+261. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) genetik alqoritmlər.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+262. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) xaos.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+263. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
+A) öyrənmə nəzəriyyəsi.
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
+264.Süni neyron şəbəkəsi (SNŞ)...
+A) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş
+modelidir
+B) bu texniki beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş
+modelidir
+C) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının modelidir
+D) bu süni beyinin, daha dəqiq desək əsəb toxumalarının mürəkkəbləşdirilmiş
+modelidir
+E) bu bioloji beyinin, daha dəqiq desək əzələ toxumalarının sadələşdirilmiş
+modelidir
+265. Süni neyron şəbəkələri sadə hesablama elementlərini...
+A) süni neyronlar yığımını təsvir edir
+B) təbii neyronlar yığımını təsvir edir
+C) süni atomlar yığımını təsvir edir
+D) təbii atomlar yığımını təsvir edir
+E) süni hüceyrələr yığımını təsvir edir
+266.Neyroriyaziyyatın nəzəri əsasları ...-cı illərdə qoyulmuşdur.
+A) 1940
+B) 1950
+C) 1960
+D) 1936
+E) 1946
+267. Süni neyron şəbəkələrin əsas zəif cəhətlərinlərinə aiddir?
+A) variantların hamısı
+B) öyrənmə
+C) kodlaşdırma
+D) hesablama sürəti
+E) biliyin əldə edilməsi
+268. Süni neyron şəbəkələrin güclü cəhətlərinə aşağıdakılardan hansı aid deyil?
+A) İnterpretasiya olunma
+B) Adaptasiya
+C) Əyrilərin approkimasiyası
+D) Ümumiləşmə qabliyyəti
+E) Approksimasiya qabliyyəti
+269. Süni neyron şəbəkələrin zəif cəhətlərinə aiddir.
+A) interpretasiya olunma, "Qara qutu" kimi təsvir olunma
+B) Kodlaşdırma
+C) Hesablama sürəti
+D) Biliyin əldə edilməsi, öyrənmə
+E) Variantların heç biri doğru deyil
+270. Neyrokompyuterlərin yaradılması ideyasını ilk dəfə kim vermişdir?
+A) F.Rozenblat
+B) R.Bradbury
+C) P.Merilees
+D) H.Poincar
+E) Y.Şumpeter
+271. Öyrədilmə neçə fаzаdаn ibаrətdir?
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+272. Neyroşəbəkənin xüsusi uğurları təsvirlərlə işdə əldə ediliB) Ancaq bu neyron
+şəbəkə nə edə bilməz?
+A) Üzün plastik korreksiyası
+B) Fotolarda üzləri cavanlaşdırmaq və qocaltmaq
+C) Nə çəkdiyinizi təhmin etmək
+D) Səhv edirsiniz! Hələ necə ola bilər
+E) İmpressionistin işinə sizin şəklinizi stilləşdirmək
+273. Süni neyron şəbəkələri - giriş verilənlərinin emalı üçün öyrənmə
+parametrlərindən asılı olan paylanmış sadə əməliyyatların kombinasiyalarından
+istifadə edən maşın öyrənmə modelləridir. Süni neyron şəbəkələrinin hansı növü
+yoxdur?
+A) Sadəlövh
+B) İmpulsiv
+C) Rəqabətli
+D) Recurrent
+E) Variantların heç biri doğru deyil
+274. Süni neyronunun girişi nədir?
+A) Siqnallar çoxluğu
+B) Vahid siqnal
+C) Çəki dəyərləri
+D) Aktivasiya funksiyasının dəyərləri
+E) Heç bir vcavab doğru deyildir
+275. Neyronun çəki əmsallarının dəyərləri nədir?
+(1) verilmiş bir neyronun əvvəlki təbəqənin neyronları ilə əlaqələrinin "gücünü"
+xarakterizə edən dəyərlər toplusu
+(2) müəyyən bir neyronun növbəti təbəqənin neyronları ilə əlaqələrinin "gücünü"
+xarakterizə edən dəyərlər toplusu
+(3) bioloji sinoptik əlaqələrin "gücünü" modelləşdirən dəyərlər toplusu
+(4) neyronun hesablama "gücünü" xarakterizə edən dəyərlər toplusu
+A) 1 və 3
+B) 2 və 1
+C) 4 və1
+D) 4
+E) 2
+276. NET-in dəyəri nəyi göstərir?
+(1) Cımlıyici blokun çıxışını
+(2) Aktivasiya funksiyasınin dəyərini
+(3) Neyronun giriş siqnalını
+(4) Neyronun çıxış siqnalini
+A) 1 və 3
+B) 2 və 1
+C) 4 və1
+D) 4
+E) 2
+277.Süni intellektin sahəsində tədqiqatların birinci istiqamətinə bunlardan hansı
+daxildir?
+A) İntellektual interfeys
+B) İnformasiya toplama
+C) İnformasiya emalı
+D) İlkin siqnal yığımı
+E) Rəqəmli emal
