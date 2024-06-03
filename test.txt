@@ -94,8 +94,7 @@ B) İnformasiyanın toplanması
 C) İnformasiyanın emalı
 D) İnformasiyanın öturulməsi
 E) İnformasiyanın kodlaşdırılması
-17.Ümumiyyətlə intellektual sistemlər əsasən hansı sahədə daha çox istifadə
-olunur?
+17.Ümumiyyətlə intellektual sistemlər əsasən hansı sahədə daha çox istifadə olunur?
 A) Marketinqdə
 B) Texniniki araşdırmalar
 C) Tarixdə
@@ -119,8 +118,7 @@ B) Firmada monitorun fəaliyyətində
 C) Maliyyə fəaliyyətində
 D) Tədris proseslərində
 E) İnstisaslaşmanin sisteminin təşkilində
-21.İntellektual sistemler bu texnologiyalardan hamsindan tetbiqi daha porspaktivli
-hesab olunur?
+21.İntellektual sistemler bu texnologiyalardan hamsindan tetbiqi daha porspaktivli hesab olunur?
 A) Nanotexnologiyada
 B) Qida texnologiyasinda
 C) Yüngül sənae texnologiyasinda
@@ -132,8 +130,7 @@ B) Qurğuya görə
 C) Məsələlərin həllinə görə
 D) Heç birnə görə
 E) Hamsına görə
-23.Marketinq tədqiqatları üçün hazırlanan sistem əlamətlərinə görə təsnifləşdirilən
-bu sistemlərdən hansına aiddir:
+23.Marketinq tədqiqatları üçün hazırlanan sistem əlamətlərinə görə təsnifləşdirilən bu sistemlərdən hansına aiddir:
 A) Tətbiq olunan sahəsinə görə
 B) Quruluşa görə
 C) Məsələnin həllinə görə
@@ -176,21 +173,18 @@ C) Çalişqanlığı
 D) Təvəzukarlığı
 E) İnadkarlığı
 30.1990-cı ilin əvvəllərin İKT sahəsində hansı yeni elm yaranmağa başladı?
-A) Korporativ biliklərin emalı ve idarə edilməsimetoduna yönəlmiş "Biliklər
-menecmenti" elmi
+A) Korporativ biliklərin emalı ve idarə edilməsimetoduna yönəlmiş "Biliklər menecmenti" elmi
 B) Çoxluqlar nəzəriyyəsi
 C) Nanotexnalogiya
 D) Multimedya
 E) Sistemlər nəzəriyyəsi
-31.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının sorğusuna görə eskpert
-sistemindən istifadə neçə faiz təşkil etmişdir?
+31.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının sorğusuna görə eskpert sistemindən istifadə neçə faiz təşkil etmişdir?
 A) 25%
 B) 30%
 C) 35%
 D) 40%
 E) 45%
-32.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının istifadəcilər yaxin 2-3
-ildə ekspert sisteminin tətbiqi planlaşdirir.necə faiz təşkil etmişdir?
+32.ABŞ 1987-ci ildə "İntellegent Technologis" jurnalının istifadəcilər yaxin 2-3 ildə ekspert sisteminin tətbiqi planlaşdirir.necə faiz təşkil etmişdir?
 A) 25
 B) 20
 C) 30
@@ -209,8 +203,7 @@ C) Qeyri səlis coxluqlar nəzəriyyəsi
 D) Riyazi statistika
 E) Adaptiv idarəetmə
 35.Neyrokibernikanın ideyası nədir?
-A) Düşünən yeni qurğu hər hansı yolda olursa olsun insan beyni quruluşuna
-bənzər olmalıdır
+A) Düşünən yeni qurğu hər hansı yolda olursa olsun insan beyni quruluşuna bənzər olmalıdır
 B) Düşünən yeni qurğu elektron qurğu olmalıdır
 C) Düşünən yeni qurğu prevma sistemli olmalıdır
 D) Düşünən yeni qurğu hidrosistemli olmalıdır
@@ -239,8 +232,7 @@ B) Can makkorti
 C) Lutfuzade
 D) Kaldeş
 E) Eynişteyn
-41.İntellektual sistemlərin quruluşu və layihələndirilməsi dedikde nə başa
-düşülür?
+41.İntellektual sistemlərin quruluşu və layihələndirilməsi dedikde nə başa düşülür?
 A) Biliklərin tədqiqat sahəsində biliklərin tətbiqi və problemin təşkilatı struktur
 B) İnformsiyanın alınması strukturu
 C) İnformsiyanın verilməsi strukturu
@@ -474,7 +466,7 @@ B) qidalandırma bloku
 C) idarəetmə bloku
 D) gücləndirici kaskad
 E) informasiya bloku
-80.Maşın intellekti sənayesini artirmaq üçün hansı struktur daha perspektivdir?
+80. Maşın intellekti sənayesini artirmaq üçün hansı struktur daha perspektivdir?
 A) Soft Computing.
 B) Mitsubishi
 C) Toshiba

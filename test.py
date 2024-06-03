@@ -1,3 +1,4 @@
+import re
 from random import shuffle
 
 class bcolors:
@@ -8,7 +9,8 @@ class bcolors:
 
 # Define a class to store the question and its variants
 class Question:
-    def __init__(self, text, variants, correct):
+    def __init__(self, number, text, variants, correct):
+        self.number = number # The question number
         self.text = text # The question text
         self.variants = variants # A dictionary of variants
         self.correct = correct
@@ -29,18 +31,22 @@ class Question:
 def parse_questions(filename):
     questions = [] # A list to store the questions
     with open(filename, "r", encoding="utf-8") as f: # Open the file for reading
+        question_number = None
         question_text = "" # A variable to store the question text
         question_variants = {} # A dictionary to store the question variants
         variant_key = "" # A variable to store the current variant key
         variant_value = "" # A variable to store the current variant value
+        correct = "" # Variable to store the correct answer text
+
         for line in f: # Loop through each line in the file
             line = line.strip() # Remove any leading or trailing whitespace
             if line: # If the line is not empty
-                if line[0].isdigit(): # If the line starts with a digit, it is a new question
+                if re.match(r'^\d+', line): # If the line starts with a digit, it is a new question
                     if question_text: # If there is an existing question, add it to the list
                         if variant_key: # If there is an existing variant, add it to the dictionary
                             question_variants[variant_key] = variant_value.strip()
-                        questions.append(Question(question_text, question_variants, correct))
+                        questions.append(Question(question_number, question_text, question_variants, correct))
+                    question_number = int(re.match(r'^\d+', line).group()) # Extract the question number
                     question_text = line # Set the new question text
                     question_variants = {} # Reset the question variants
                     correct = ""
@@ -58,30 +64,48 @@ def parse_questions(filename):
         if question_text: # If there is a remaining question, add it to the list
             if variant_key: # If there is an existing variant, add it to the dictionary
                 question_variants[variant_key] = variant_value.strip()
-            questions.append(Question(question_text, question_variants, correct))
+            questions.append(Question(question_number, question_text, question_variants, correct))
     return questions # Return the list of questions
 
 # Define a function to prompt the questions and wait for user input
 def quiz(questions):
+    total_questions = len(questions)
+    correct_count = 0
+    wrong_count = 0
     wrong_ones = []
-    for question in questions: # Loop through each question in the list
+
+    for i, question in enumerate(questions): # Loop through each question in the list
+        print(f"Question {i + 1} of {total_questions}")
         print(question) # Print the question and its variants
-        answer = input("Enter your answer (A, B, C, D or E): ").strip().upper() # Get the user input and convert to uppercase
+        answer = input("Enter your answer (A, B, C, D, E) or type 'exit', 'quit', or 'q' to finish: ").strip().lower() # Get the user input and convert to lowercase
+
+        if answer in ['exit', 'quit', 'q']: # Check if the user wants to exit
+            print(bcolors.WARNING + "Quiz terminated early." + '\x1b[0m')
+            break
+
+        answer = answer.upper() # Convert answer to uppercase for comparison
+
         if answer in question.variants: # If the input is a valid variant key
             if question.variants[answer] == question.correct:
+                correct_count += 1
                 print(bcolors.OKGREEN + "\nCorrect\n" + '\x1b[0m')
             else:
+                wrong_count += 1
                 correct_variant = next(k for k, v in question.variants.items() if v == question.correct)
                 print(bcolors.FAIL + f"\nFALSE\nCorrect answer: {correct_variant}) {question.correct}" + '\x1b[0m')
-                wrong_ones.append(int("".join(list(filter(str.isdigit, question.text)))))
-        elif answer == 'X': # If the input is 'X', show the wrong answers list and exit
-            print(bcolors.WARNING + "Sehvler :" + str(wrong_ones) + '\x1b[0m') # Print an error message
-            break
+                wrong_ones.append(question.number) # Append the question number to the wrong_ones list
         else: # If the input is not valid
+            wrong_count += 1
             correct_variant = next(k for k, v in question.variants.items() if v == question.correct)
             print(bcolors.WARNING + f"Invalid answer. Correct answer: {correct_variant}) {question.correct}" + '\x1b[0m') # Print an error message with the correct answer
-            wrong_ones.append(int("".join(list(filter(str.isdigit, question.text)))))
+            wrong_ones.append(question.number) # Append the question number to the wrong_ones list
+
+        # Show current status
+        print(f"Current: {i + 1}/{total_questions} - Correct: {correct_count} - Wrong: {wrong_count}")
         print() # Print an empty line
+
+    # Show all wrong answer question numbers at the end of the quiz
+    print(bcolors.WARNING + "Wrong answer question numbers: " + str(wrong_ones) + '\x1b[0m')
 
 # Main program
 filename = "test.txt" # The name of the text file containing questions
