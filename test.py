@@ -108,7 +108,7 @@ def quiz(questions):
     print(bcolors.WARNING + "Wrong answer question numbers: " + str(wrong_ones) + '\x1b[0m')
 
 # Main program
-filename = "test.txt" # The name of the text file containing questions
+filename = "2_test_0-200.txt" # The name of the text file containing questions
 questions = parse_questions(filename) # Parse the text file and get the list of questions
 
 shuffle(questions)
