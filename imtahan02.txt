@@ -483,7 +483,7 @@ B) 1:M
 C) M:1 
 D) N:M 
 E) 1:1
-82. İstifadə olunan verilənlər haqqında informasiya (informasiya haqqında informsiya) necə adlanır
+82. İstifadə olunan verilənlər haqqında informasiya (informasiya haqqında informsiyA) necə adlanır
 A) Meta verilənlər  
 B) Məntiqi verilənlər  
 C) Aqreqat verilənlər
@@ -1276,11 +1276,11 @@ C) Dinamika
 D) Super EHM
 E) Statistik məlumatlar çoxluğu
 218. Bunlardan hansı intellektual sistemə aiddir
-a) məqsədi formalaşdıran blok
-b) qidalandırma bloku
-c) idarəetmə bloku
-d) gücləndirici kaskad 
-e) informasiya bloku və süzgəclər
+A) məqsədi formalaşdıran blok
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad 
+E) informasiya bloku və süzgəclər
 219.Bunlardan hansı elektron maşın tiplərinə görə ekspert sistemi elementlərindəndir
 A) Super EHM
 B) Diaqnostika
@@ -1288,615 +1288,615 @@ C) Monitorinq
 D) Kvazodinamik
 E) Dinamik
 220. İntelektual sistemlərdə nə öyrənilir
-a) informasiya emalının insan beynində olduğu kimi həyata keçirilməsi məsələsi
-b) informasiyanın qeydə alınmasının qanunauyğunluğu
-c) informasiyanın ötürülməsinin asanlaşdırılması və onun etibarlı saxlanılması
-d) informasiyanın veriminin cəldləşdirilməsi
-e) informasiyanın etibarlı saxlanılması
+A) informasiya emalının insan beynində olduğu kimi həyata keçirilməsi məsələsi
+B) informasiyanın qeydə alınmasının qanunauyğunluğu
+C) informasiyanın ötürülməsinin asanlaşdırılması və onun etibarlı saxlanılması
+D) informasiyanın veriminin cəldləşdirilməsi
+E) informasiyanın etibarlı saxlanılması
 221. Kompüterlərə öyrətmə qabiliyyəti hansı nəzəriyyə ilə yaradılır
-a) neyron şəbəkələri nəzəriyyəsi
-b) elektron şəbəkə nəzəriyyəsi
-c) zərbə nəzəriyyəsi
-d) çoxluqlar nəzəriyyəsi 
-e) qeyri səlis çoxluqlar nəzəriyyəsi 
+A) neyron şəbəkələri nəzəriyyəsi
+B) elektron şəbəkə nəzəriyyəsi
+C) zərbə nəzəriyyəsi
+D) çoxluqlar nəzəriyyəsi 
+E) qeyri səlis çoxluqlar nəzəriyyəsi 
 222. Optik elementlər əsasında yaradılan kompüterlər saniyədə neçə triliyonlarla 
 əməliyyat yerinə yetirə bilər
-a) 100
-b) 80
-c) 50
-d) 30
-e) 10
+A) 100
+B) 80
+C) 50
+D) 30
+E) 10
 223.Molekulyar əsasında yaradılan komputerlərdə komputer elemenetləri nədir
-a) molekullar 
-b) atomlar 
-c) elektronlar
-d) ionlar
-e) neronlar
+A) molekullar 
+B) atomlar 
+C) elektronlar
+D) ionlar
+E) neronlar
 224.Bunlardan hansı intektual sistemin kriteriyasıdır
-a) müəyyən məqsədə yönəlməlidir
-b) müəyyən məqsədə yönəlməməlidir
-c) məqsədi seçməməlidir
-d) məqsədli araşdırma aparılmamalıdır
-e) məqsədi təhrif etməməlidir
+A) müəyyən məqsədə yönəlməlidir
+B) müəyyən məqsədə yönəlməməlidir
+C) məqsədi seçməməlidir
+D) məqsədli araşdırma aparılmamalıdır
+E) məqsədi təhrif etməməlidir
 225.Biliklər nədir
-a) sistemləşdirilmiş məlumatdır
-b) adi verilənlər toplusudur
-c) sadə verilənlər toplusudur
-d) orta verilənlər toplusudur
-e) əsas verilənlər toplusudur
+A) sistemləşdirilmiş məlumatdır
+B) adi verilənlər toplusudur
+C) sadə verilənlər toplusudur
+D) orta verilənlər toplusudur
+E) əsas verilənlər toplusudur
 226. Bunlardan hansı intellektual sistemin kriteriyasıdır
-a) ətraf olunmuş aləmin dəyişməsinə reaksiya verilməlidir
-b) ətraf olunmuş aləmin dəyişməsinə reaksiya verməməlidir
-c) ətraf mühiti seçməməlidir
-d) ətraf aləmlə əlaqəsi olmamalıdır
-e) ətraf mühitdən informasiya almamalıdır
+A) ətraf olunmuş aləmin dəyişməsinə reaksiya verilməlidir
+B) ətraf olunmuş aləmin dəyişməsinə reaksiya verməməlidir
+C) ətraf mühiti seçməməlidir
+D) ətraf aləmlə əlaqəsi olmamalıdır
+E) ətraf mühitdən informasiya almamalıdır
 227. Bunlardan hansı intellektual sistemin kriteriyasıdır
-a) bilik hüdüdlarını daim genişləndirməlidir
-b) bilik hüdudların genisləndirməməlidir
-c) bilik hüdudların məhdud saxlanmalıdır
-d) bilik hüdudlarına nüfuz etməlidir
-e) bilik məlumatların saxlanmamalıdır
+A) bilik hüdüdlarını daim genişləndirməlidir
+B) bilik hüdudların genisləndirməməlidir
+C) bilik hüdudların məhdud saxlanmalıdır
+D) bilik hüdudlarına nüfuz etməlidir
+E) bilik məlumatların saxlanmamalıdır
 228. Bunalardan hansı intelektual sistemin kriteriyasıdır
-a) məntiqi nəticələri istifadə etməklə qərar qəbul etmək
-b) məlumatları toplamaq
-c) məlumatları göndərmək
-d) məlumatları saxlamaq
-e) məlumatları dəqiqləşdirmək və bazaya göndərmək
+A) məntiqi nəticələri istifadə etməklə qərar qəbul etmək
+B) məlumatları toplamaq
+C) məlumatları göndərmək
+D) məlumatları saxlamaq
+E) məlumatları dəqiqləşdirmək və bazaya göndərmək
 229. Bunalardan hansı intelektual sistemin kriteriyasıdır
-a) həmkarı ilə dil tapmaq
-b) həmkarla dil tapmamaq
-c) komentari yaratmaq
-d) yalnız öz nəticəsini yeritmək
-e) həmkarının fikrinə məhəl qoymamaq
+A) həmkarı ilə dil tapmaq
+B) həmkarla dil tapmamaq
+C) komentari yaratmaq
+D) yalnız öz nəticəsini yeritmək
+E) həmkarının fikrinə məhəl qoymamaq
 230. Bunalardan hansı intelektual sistemin kriteriyasıdır
-a) özünü öyrtməklə aləmin modelini təkmilləşdirməlidir
-b) təftiş aparmaqla məlumatları dəqiqləşdirməli və emal etməlidir
-c) sistemə nəzarət etməlidir
-d) icra elementləri idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) özünü öyrtməklə aləmin modelini təkmilləşdirməlidir
+B) təftiş aparmaqla məlumatları dəqiqləşdirməli və emal etməlidir
+C) sistemə nəzarət etməlidir
+D) icra elementləri idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 231. Bunalardan hansı intelektual sistemin kriteriyasıdır
-a) lazım gəldikdə gördüyü işi izah etməyi bacarmalıdır
-b) məlumatların yaranma prosesinə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) lazım gəldikdə gördüyü işi izah etməyi bacarmalıdır
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 232.Bunlardan hansı intellektual sistemlərə aiddir
-a) lazım gəldikdə proqnozlaşdırmağı bacarmalıdır
-b) məlumatların yaranma prosesinə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) lazım gəldikdə proqnozlaşdırmağı bacarmalıdır
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 233 .Bunlardan hansı intellektual sistemlərə aiddir
-a) həmkarı ilə dil tapmalı, onu öz fəailiyyəti ilə əlaqələndirməlidir
-b) məlumatların yaranma prosesinə və idarəetməyə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) həmkarı ilə dil tapmalı, onu öz fəailiyyəti ilə əlaqələndirməlidir
+B) məlumatların yaranma prosesinə və idarəetməyə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 234. Bunlardan hansı intellektual sistemlərə aiddir
-a) nəticələri bir –biri ilə əlaqələndirməli
-b) məlumatların yaranma prosesinə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) nəticələri bir –biri ilə əlaqələndirməli
+B) məlumatların yaranma prosesinə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 235. Bunlardan hansı intellektual sistemlərə aiddir
-a) proqnozlaşdırmağı bacarmalı və onu öz fəaliyyəti ilə əlaqələndirməli
-b) məlumatların yaranma prosesinə və onun idarə olunmasına nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) proqnozlaşdırmağı bacarmalı və onu öz fəaliyyəti ilə əlaqələndirməli
+B) məlumatların yaranma prosesinə və onun idarə olunmasına nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 236. Bunlardan hansı intellektual sistemlərə aiddir
-a) yeni biliklər qazanmalı və onu öz fəaliyyəti ilə əlaqələndirməli
-b) məlumatların yaranma prosesinə və enerjiyə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) yeni biliklər qazanmalı və onu öz fəaliyyəti ilə əlaqələndirməli
+B) məlumatların yaranma prosesinə və enerjiyə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 237. Bunlardan hansı intellektual sistemlərə aiddir
-a) əvvəlcədən qazandığı biliklər öz fəaliyyətində istifadə edə bilməli
-b) məlumatların yaranma prosesinə və idarəetməyə nəzarət etməlidir
-c) sistemin enerji mənbəyini yaratmalıdır
-d) icra elementlərini idarə etməlidir
-e) gücləndiricilərin işinə nəzarət etməlidir
+A) əvvəlcədən qazandığı biliklər öz fəaliyyətində istifadə edə bilməli
+B) məlumatların yaranma prosesinə və idarəetməyə nəzarət etməlidir
+C) sistemin enerji mənbəyini yaratmalıdır
+D) icra elementlərini idarə etməlidir
+E) gücləndiricilərin işinə nəzarət etməlidir
 238. Bunlardan hansı intellektual sistemə aiddir
-a) öyrənən və ya özü öyrədən blok
-b) qidalandırma bloku
-c) idarəetmə bloku və ya informasiya bloku
-d) gücləndirici kaskad 
-e) informasiya bloku
+A) öyrənən və ya özü öyrədən blok
+B) qidalandırma bloku
+C) idarəetmə bloku və ya informasiya bloku
+D) gücləndirici kaskad 
+E) informasiya bloku
 239. Bunlardan hansı intellektual sistemə aiddir
-a) proqnoz bloku
-b) qidalandırma bloku
-c) idarəetmə bloku
-d) gücləndirici kaskad 
-e) informasiya bloku
+A) proqnoz bloku
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad 
+E) informasiya bloku
 240.Bunlardan hansı intellektual sistemə aiddir
-a) xarici əlaqə bloku
-b) qidalandırma bloku
-c) idarəetmə bloku
-d) gücləndirici kaskad 
-e) informasiya bloku
+A) xarici əlaqə bloku
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad 
+E) informasiya bloku
 241. Bunlardan hansı intellektual sistemə aiddir
-a) məqsədi formalaşdıran blok
-b) qidalandırma bloku
-c) idarəetmə bloku
-d) gücləndirici kaskad 
-e) informasiya və qida bloku
+A) məqsədi formalaşdıran blok
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad 
+E) informasiya və qida bloku
 242. Bunlardan hansı intellektual sistemə aiddir
-a) intellektual təşkilatı bloku
-b) qidalandırma bloku
-c) idarəetmə bloku
-d) gücləndirici kaskad bloku
-e) informasiya bloku
+A) intellektual təşkilatı bloku
+B) qidalandırma bloku
+C) idarəetmə bloku
+D) gücləndirici kaskad bloku
+E) informasiya bloku
 243.Dünyanın ən böyük mikroprossesor istehsalcısı bunlardan hansıdır
-a) İNTEL
-b) Mitsubishi
-c) Toshiba
-d) Sony
-e) Honda
+A) İNTEL
+B) Mitsubishi
+C) Toshiba
+D) Sony
+E) Honda
 244.Süni intellekt sistemləri əsasən hansı texnologiyalar əsasında qurulmuşdur
-a) Hand computing
-b) Mitsubishi
-c) Panasonic
-d) Toshiba
-e) Orison
+A) Hand computing
+B) Mitsubishi
+C) Panasonic
+D) Toshiba
+E) Orison
 245.Maşın intellekti sənayesini artirmaq üçün hansı struktur daha perspektivdir
-a) Soft Computing
-b) Mitsubishi
-c) Toshiba
-d) Nissan
-e) Honda
+A) Soft Computing
+B) Mitsubishi
+C) Toshiba
+D) Nissan
+E) Honda
 246.Bunlardan hansı Soft Computing strukturu komponentlərindəndir
-a) qeyri-səlis məntiq
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu
+A) qeyri-səlis məntiq
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
 247. Bunlardan hansı Soft Computing strukturu komponentlərindəndir
-a) neyron şəbəkələr nəzəriyyəsi
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu sistemi
+A) neyron şəbəkələr nəzəriyyəsi
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu sistemi
 248. Bunlardan hansı Soft Computing strukturu komponentlərindəndir
-a) ehtimal mühakimə
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu
+A) ehtimal mühakimə
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
 249. Bunlardan hansı Soft Computing strukturu komponentlərindəndir
-a) genetik alqoritmlər
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu
+A) genetik alqoritmlər
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
 250. Bunlardan hansı Soft Computing strukturu komponentlərindəndir
-a) xaos nəzəriyyəsi
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu
+A) xaos nəzəriyyəsi
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
 251. Bunlardan hansı Soft Computing strukturu komponentlərindəndir?
-a) öyrənmə nəzəriyyəsi
-b) təsuratlar nəzəriyyəsi
-c) ehtimallar nəzəriyyəsi
-d) genetik bilik nəzəriyyəsi
-e) proqnozlaşdirma üsulu
+A) öyrənmə nəzəriyyəsi
+B) təsuratlar nəzəriyyəsi
+C) ehtimallar nəzəriyyəsi
+D) genetik bilik nəzəriyyəsi
+E) proqnozlaşdirma üsulu
 252.Fizzy Logic (FL) ingiliscə nə deməkdir
-a) qeyri-səlis məntiq
-b) səlis məntiq
-c) məntiq
-d) anlayış
-e) anlamaq
+A) qeyri-səlis məntiq
+B) səlis məntiq
+C) məntiq
+D) anlayış
+E) anlamaq
 253.Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır
-a) daxili inteqrasiya
-b) xarici inteqrasiya 
-c) müəyyənlik
-d) səlislik
-e) tutumluluq
+A) daxili inteqrasiya
+B) xarici inteqrasiya 
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
 254. Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır
-a) strukturlaşma
-b) xarici inteqrasiya 
-c) müəyyənlik
-d) səlislik
-e) tutumluluq
+A) strukturlaşma
+B) xarici inteqrasiya 
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
 255. Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır
-a) bağlılıq
-b) Xarici inteqrasiya 
-c) müəyyənlik
-d) səlislik
-e) tutumluluq
+A) bağlılıq
+B) Xarici inteqrasiya 
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
 256. Bilikləri səciyyələndirən xüsusiyyətlər bunlardan hansıdır
-a) Aktivlik
-b) Xarici inteqrasiya 
-c) müəyyənlik
-d) səlislik
-e) tutumluluq
+A) Aktivlik
+B) Xarici inteqrasiya 
+C) müəyyənlik
+D) səlislik
+E) tutumluluq
 257.Məlumat bazaları nə üçün yaradılır?
-a) mühafizə etmək
-b) emal etmək
-c) ötürmək
-d) istifadə etmək
-e) yoxlamaq
+A) mühafizə etmək
+B) emal etmək
+C) ötürmək
+D) istifadə etmək
+E) yoxlamaq
 258.Bilik bazası istənilən tip intellektual sistem nəyidir
-a) əsası
-b) vasitəsi
-c) ünsuru
-d) elementi
-e) strukturu
+A) əsası
+B) vasitəsi
+C) ünsuru
+D) elementi
+E) strukturu
 259.İntellektual sistemlərin yaradılmasında əsas problemlərdən biri biliyin nəyidir
-a) təsviri
-b) oyrənilməsi
-c) öyrədilməsi
-d) yaradılması
-e) qorunması
+A) təsviri
+B) oyrənilməsi
+C) öyrədilməsi
+D) yaradılması
+E) qorunması
 260.İntellektual sistemlərin yaradılmasında əsas problemlərdən biri biliyin nəyidir
-a) istifadəsi
-b) oyrənilməsi
-c) öyrədilməsi
-d) yaradılması
-e) qorunması
+A) istifadəsi
+B) oyrənilməsi
+C) öyrədilməsi
+D) yaradılması
+E) qorunması
 261.Bunlardan hansı biliklərin əsas sisteminə aiddir
-a) tam faktiki biliklər
-b) predment sahəsinə aid olan bilikləri
-c) prosedur biliklər konseptual biliklər
-d) konseptual biliklər
-e) struktur biliklər
+A) tam faktiki biliklər
+B) predment sahəsinə aid olan bilikləri
+C) prosedur biliklər konseptual biliklər
+D) konseptual biliklər
+E) struktur biliklər
 262.Bunlardan hansı biliklərin əsas sisteminə aiddir
-a) aktual biliklər
-b) predment sahəsinə aid olan bilikləri
-c) prosedur biliklər konseptual biliklər
-d) konseptual biliklər
-e) struktur biliklər
+A) aktual biliklər
+B) predment sahəsinə aid olan bilikləri
+C) prosedur biliklər konseptual biliklər
+D) konseptual biliklər
+E) struktur biliklər
 263.Bunlardan hansı biliklər əsas sisteminə aiddir
-a) parametrik biliklər
-b) predment sahəsinə aid olan bilikləri
-c) prosedur biliklər konseptual biliklər
-d) konseptual biliklər
-e) struktur biliklər
+A) parametrik biliklər
+B) predment sahəsinə aid olan bilikləri
+C) prosedur biliklər konseptual biliklər
+D) konseptual biliklər
+E) struktur biliklər
 264.Ümumi şəkildə şərti olaraq biliyin təsviri modeli neçə yerə bölunur
-a) 2
-b) 3
-c) 5
-d) 6
-e) 1
+A) 2
+B) 3
+C) 5
+D) 6
+E) 1
 265.Biliyin seçilməsi proseduru neçə cəhəti fərqləndirir
-a) 3
-b) 4
-c) 5
-d) 8
-e) 6
+A) 3
+B) 4
+C) 5
+D) 8
+E) 6
 266.Bunlardan hansı biliyin seçilməsi prosedurunun fərqli cəhətidir
-a) psixoloji
-b) idealoji
-c) məntiqi
-d) sosioloji
-e) morfoloji
+A) psixoloji
+B) idealoji
+C) məntiqi
+D) sosioloji
+E) morfoloji
 267.Bunlardan hansı biliyin seçilməsi prosedurunun fərqli cəhətidir
-a) linqvistik
-b) idealoji
-c) məntiqi
-d) sosioloji
-e) morfoloji
+A) linqvistik
+B) idealoji
+C) məntiqi
+D) sosioloji
+E) morfoloji
 268.Bunlardan hansı biliyin seçilməsi prosedurunun fərqli cəhətidir
-a) genesiliyi
-b) idealoji
-c) məntiqi
-d) sosioloji
-e) morfoloji
+A) genesiliyi
+B) idealoji
+C) məntiqi
+D) sosioloji
+E) morfoloji
 269.Bunlardan hansı psixoloji cəhətdən biliyin seçilməsinin üçdərəcəli struktur modelinə daxildir
-a) birbaşa əlaqə dərəcəsi
-b) mətbuatla əlaqə dərəcəsi
-c) teleəlaqə dərəcəsi
-d) radio vasitəsi ilə əlaqə
-e) telefon ilə əlaqə
+A) birbaşa əlaqə dərəcəsi
+B) mətbuatla əlaqə dərəcəsi
+C) teleəlaqə dərəcəsi
+D) radio vasitəsi ilə əlaqə
+E) telefon ilə əlaqə
 270.Bunlardan hansı psixoloji cəhətdən biliyin seçilməsinin üçdərəcəli struktur modelinə daxildir
-a) prosedur dərəcəsi
-b) mətbuatla əlaqə dərəcəsi
-c) teleəlaqə dərəcəsi
-d) radio vasitəsi ilə əlaqə
-e) telefon ilə əlaqə
+A) prosedur dərəcəsi
+B) mətbuatla əlaqə dərəcəsi
+C) teleəlaqə dərəcəsi
+D) radio vasitəsi ilə əlaqə
+E) telefon ilə əlaqə
 271.Bunlardan hansı psixoloji cəhətdən biliyin seçilməsinin üçdərəcəli struktur modelinə daxildir
-a) koqnitivlik dərəcəsi
-b) mətbuatla əlaqə dərəcəsi
-c) teleəlaqə dərəcəsi
-d) radio vasitəsi ilə əlaqə
-e) telefon ilə əlaqə
+A) koqnitivlik dərəcəsi
+B) mətbuatla əlaqə dərəcəsi
+C) teleəlaqə dərəcəsi
+D) radio vasitəsi ilə əlaqə
+E) telefon ilə əlaqə
 272.Aşağıdakılardan hansı birbaşa əlaqə baxımından bilik mühəndisinin malik olduğu keyfiyyətlərdir
-a) xeyirxahlıq və insansevərlik
-b) xudbinlik
-c) çalışqanlıq
-d) mühakimlik və savadlılıq
-e) savadlılıq
+A) xeyirxahlıq və insansevərlik
+B) xudbinlik
+C) çalışqanlıq
+D) mühakimlik və savadlılıq
+E) savadlılıq
 273.Aşağıdakılardan hansı birbaşa əlaqə baxımından bilik mühəndisi malik olduğu keyfiyyətlərdir
-a) yumor hissi
-b) xudbinlik
-c) çalışqanlıq
-d) mühakimlik
-e) savadlılıq
+A) yumor hissi
+B) xudbinlik
+C) çalışqanlıq
+D) mühakimlik
+E) savadlılıq
 274.Aşağıdakılardan hansı birbaşa əlaqə baxımından bilik mühəndisi malik olduğu keyfiyyətlərdir
-a) yaxşı yaddaş və diqqət
-b) xudbinlik
-c) çalışqanlıq və mühakimlik
-d) mühakimlik
-e) savadlılıq
+A) yaxşı yaddaş və diqqət
+B) xudbinlik
+C) çalışqanlıq və mühakimlik
+D) mühakimlik
+E) savadlılıq
 275.Bunlardan hansı idrak psixologiya mövqeyindən bilik mühəndisinin xüsusiyyətlərindəndir
-a) özünə təbii görünənə ekspertə məcburi qəbul etdirməməli
-b) özünə təbii görünənə ekspertə məcburi qəbul etdirməli
-c) özünə təbii görünəni özü bildiyi kimi həll etməli
-d) özünə təbii görünən barədə özü nqərar verməli
-e) özü öyrəndiyini özü bilik sisteminə qoşmalı
+A) özünə təbii görünənə ekspertə məcburi qəbul etdirməməli
+B) özünə təbii görünənə ekspertə məcburi qəbul etdirməli
+C) özünə təbii görünəni özü bildiyi kimi həll etməli
+D) özünə təbii görünən barədə özü nqərar verməli
+E) özü öyrəndiyini özü bilik sisteminə qoşmalı
 276. Bunalardan hansı intelektual sistemin kritirlərindəndir
-a) öyrənmək və öyrətmək
-b) öyrənməmək və öyrətməmək
-c) gücləndirmək 
-d) aşkarlamaq
-e) kombinə etmək
+A) öyrənmək və öyrətmək
+B) öyrənməmək və öyrətməmək
+C) gücləndirmək 
+D) aşkarlamaq
+E) kombinə etmək
 277. İntelekiual idarəetmə sistemləri nəyi öyrədir
-a) mürəkkəb dinamiki sistemlərin idarə olunmasını
-b) avtomatik idarəetmə sistemlərini    
-c) avtomatik tənzimləmə sistemlərininin idarə olunmasını
-d) maşın, mexanizmləri
-e) kibernetikanı
+A) mürəkkəb dinamiki sistemlərin idarə olunmasını
+B) avtomatik idarəetmə sistemlərini    
+C) avtomatik tənzimləmə sistemlərininin idarə olunmasını
+D) maşın, mexanizmləri
+E) kibernetikanı
 278. Qeyri- səlis intelekiual idarəetmə nədir
-a) naməlum qeyri-xətti obyektlərin idarə olunmasıdır
-b) yeni idarəetmə sistemlərini
-c) geniş obyektlər sinifidir
-d) mürəkkəb sənaye obyektləridir
-e) avtomatik idarəetmə sistemlərinin idarə olunmasıdır
+A) naməlum qeyri-xətti obyektlərin idarə olunmasıdır
+B) yeni idarəetmə sistemlərini
+C) geniş obyektlər sinifidir
+D) mürəkkəb sənaye obyektləridir
+E) avtomatik idarəetmə sistemlərinin idarə olunmasıdır
 279. Qeyri- səlis avtomat nədir
-a) nizamlanmıs altılıq
-b) sonlu çoxluq
-c) çıxış funksiyası
-d) başlanğıc vəziyyət
-e) avtomatın xüsusi halı
+A) nizamlanmıs altılıq
+B) sonlu çoxluq
+C) çıxış funksiyası
+D) başlanğıc vəziyyət
+E) avtomatın xüsusi halı
 280. Determinitik sonlu avtomat nədir
-a) qeyri- səlis avtomatın xüsusi halıdır
-b) vahidə bərabər olan haldır
-c) qeyri- səlis matrislər çoxluğunu formalaşdıaıa
-d) keçidlərin və çıxışların funksiyalarıdır
-e) girişlərin, vəziyyətlərin və çıxışların sonlu çoxluğudur
+A) qeyri- səlis avtomatın xüsusi halıdır
+B) vahidə bərabər olan haldır
+C) qeyri- səlis matrislər çoxluğunu formalaşdıaıa
+D) keçidlərin və çıxışların funksiyalarıdır
+E) girişlərin, vəziyyətlərin və çıxışların sonlu çoxluğudur
 281. Qeyri- səlis alqoritm nədir
-a) qeyri- səlis təlimatlar çoxluğu
-b) formalaşmış anlayışlar
-c) qeyri- səlis çoxluqların formalaşması
-d) sıfıra, ya da vaqidə bərabər olan hal
-e) çıxış matrisinin formalaşması
+A) qeyri- səlis təlimatlar çoxluğu
+B) formalaşmış anlayışlar
+C) qeyri- səlis çoxluqların formalaşması
+D) sıfıra, ya da vaqidə bərabər olan hal
+E) çıxış matrisinin formalaşması
 282. Qeyri- səlis tənzimləyici nədir
-a) bilik modelinə əsaslanan tənzimləyici
-b) məntiqi çıxışlar
-c) trasformasiya siqnalları
-d) səlis siqnal
-e) qeyri- səlis məntiqi biliklərin təsviri
+A) bilik modelinə əsaslanan tənzimləyici
+B) məntiqi çıxışlar
+C) trasformasiya siqnalları
+D) səlis siqnal
+E) qeyri- səlis məntiqi biliklərin təsviri
 283. Qeyri- səlis tənzimləyici nədir
-a) qeyri- səlis biliklərin təsvirinə və məntiqi çıxışlara əsaslanan tənzimləyici
-b) məntiqi çıxışlar 
-c) qeyri- səlis məntiqi biliklərin təsviri və transformasiya siqnallarının idarəsi
-d) səlis siqnal
-e) trasformasiya siqnalları 
+A) qeyri- səlis biliklərin təsvirinə və məntiqi çıxışlara əsaslanan tənzimləyici
+B) məntiqi çıxışlar 
+C) qeyri- səlis məntiqi biliklərin təsviri və transformasiya siqnallarının idarəsi
+D) səlis siqnal
+E) trasformasiya siqnalları 
 284. Fazzifikator nə iş yerinə yetirir, nədir
-a) ölçülən girişləri müəyyən ünversumdan olan qeyri- səlis çoxluqlara inikas etdirir
-b) səlis kəmiyyəti qeyri- səlis siqnaltona çevirir
+A) ölçülən girişləri müəyyən ünversumdan olan qeyri- səlis çoxluqlara inikas etdirir
+B) səlis kəmiyyəti qeyri- səlis siqnaltona çevirir
 v) ehtimallı verilənləri qeyri- səlis verilənlərə
 q) hibrid ədəd konsepsiyasını istifadə edir
-d) siqnalı mənsubiyyət funksiyalı qeyri - səlis çoxluğa çevirir və onu idarə edir
+D) siqnalı mənsubiyyət funksiyalı qeyri - səlis çoxluğa çevirir və onu idarə edir
 285. Qeyri-səlis A çoxluğunun daşıyıcısı şərtini ödəyən elementlər çoxluğu necə adlanır 
- a) keçid nöqtəsi  
- b) siqnalton 
- c) dasıyıcı 
- d) sonlu çoxluq  
- e) sonsuz çoxluq
+ A) keçid nöqtəsi  
+ B) siqnalton 
+ C) dasıyıcı 
+ D) sonlu çoxluq  
+ E) sonsuz çoxluq
 286. Qeyri-səlis çoxluğun daşıyıcısı şərtini ödəyən yeganə elementlərindən ibarət olarsa ona nə deyilir
-a) sinqlton
-b) qeyri-səlis çoxluğun hündürlüyü
-c) birləşmə  
-d) kəsişmə
-e) ciddi hasil   
+A) sinqlton
+B) qeyri-səlis çoxluğun hündürlüyü
+C) birləşmə  
+D) kəsişmə
+E) ciddi hasil   
 287. Qeyri-səlis çoxluğun hündürlüyü nəyə deyilir 
-a) mənsubiyyət funksiyasının dəqiq yuxarı həddinə
-b) mənsubiyyət funksiyasının orta həddinə  
-c) mənsubiyyət funksiyasının aşağı həddinə  
-d) mənsubiyyət funksiyasının normal həddinə
-e) mənsubiyyət funksiyasının sıfır  həddinə
+A) mənsubiyyət funksiyasının dəqiq yuxarı həddinə
+B) mənsubiyyət funksiyasının orta həddinə  
+C) mənsubiyyət funksiyasının aşağı həddinə  
+D) mənsubiyyət funksiyasının normal həddinə
+E) mənsubiyyət funksiyasının sıfır  həddinə
 288. Qeyri-səlis çoxluğun hündürlüyünün maksimal qiyməti nəyə bərabərdir
-a) 1 
-b) 0
-c) 2
-d) 5 
-e) 10
+A) 1 
+B) 0
+C) 2
+D) 5 
+E) 10
 289. Adi (səlis) dəyişənin üçlüyündə X nəyi ifadə edir
-a) dəyişənin adnı
-b) sonlu və ya sonsuz universumu 
-c) çoxluğun elementlərinin hamısı üçün ümumi olan adi 
-d) dəyişənin  qiymətini
-e) dəyişənin diapazonu
+A) dəyişənin adnı
+B) sonlu və ya sonsuz universumu 
+C) çoxluğun elementlərinin hamısı üçün ümumi olan adi 
+D) dəyişənin  qiymətini
+E) dəyişənin diapazonu
 290. Adi (səlis) dəyişənin üçlüyündə U nəyi ifadə edir
-a) sonlu və ya sonsuz universumu
-b) dəyişənin qiymətini
-c) çoxluğun elementlərinin hamısı üçün ümumi olan adi
-d) dəyişənin adını
-e) dəyişənin diapazonu
+A) sonlu və ya sonsuz universumu
+B) dəyişənin qiymətini
+C) çoxluğun elementlərinin hamısı üçün ümumi olan adi
+D) dəyişənin adını
+E) dəyişənin diapazonu
 291. Adi (səlis) dəyişənin üçlüyündə R(x:u) nəyi ifadə edir
-a) u elementlərinin qiymətinə qoyulan məhdudiyyəti
-b) dəyişənin qiymətini
-c) sonlu və ya sonsuz universumu və dəyişənin adını
-d) dəyişənin adını;
-e) dəyişənin diapazonu
+A) u elementlərinin qiymətinə qoyulan məhdudiyyəti
+B) dəyişənin qiymətini
+C) sonlu və ya sonsuz universumu və dəyişənin adını
+D) dəyişənin adını;
+E) dəyişənin diapazonu
 292. İlkin intellektual sistem kimi ... proqramı hesab olunur   
-a) “Məntiq-nəzəriyyəçi”
-b) “Məntiq-riyaziyyatçı”
-c) “Riyazi-nəzəriyyəçi”
-d) “Məntiq-proqramçı”
-e) “Proqram-nəzəriyyəçi”
+A) “Məntiq-nəzəriyyəçi”
+B) “Məntiq-riyaziyyatçı”
+C) “Riyazi-nəzəriyyəçi”
+D) “Məntiq-proqramçı”
+E) “Proqram-nəzəriyyəçi”
 293. Süni intellekt sahəsində ilk tədqiqatlara uyğun olaraq fundamental süni intellektə aiddir          
-a) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gəlməyən sistemlər
-b) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gələn sistemlər
-c) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gəlməyən sistemlər
-d) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gələn sistemlər
-e) Avtomatlaşdırılmaya və formatlaşdırılmaya uyğun gələn sistemlər
+A) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gəlməyən sistemlər
+B) Avtomatlaşdırılmaya və formallaşdırılmaya uyğun gələn sistemlər
+C) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gəlməyən sistemlər
+D) Avtomatlaşdırılmaya və vizuallaşdırmaya uyğun gələn sistemlər
+E) Avtomatlaşdırılmaya və formatlaşdırılmaya uyğun gələn sistemlər
 294. Eksperimentin rolu aparat-proqram informasiya komplekslərindən ibarət ... sistemlərin dəqiqləşdirilməsi və yoxlanması ilə bağlıdır   
-a) intellektual
-b) informasiya
-c) kompüter
-d) telekommunikasiya
-e) idarəetmə
+A) intellektual
+B) informasiya
+C) kompüter
+D) telekommunikasiya
+E) idarəetmə
 295. Biliklərə əsaslanan sistemləri qurarkən bu və ya digər məsələlərin həllində ekspertlərin konkret ... şəklində toplanmış bilikləri istifadə olunur   
-a) qaydalar
-b) biliklər
-c) məlumatlar
-d) verilənlər
-e) sistemlər
+A) qaydalar
+B) biliklər
+C) məlumatlar
+D) verilənlər
+E) sistemlər
 296. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr aşağıdakılardır           
-a) xüsusi proqramlaşdırma dilləri
-b) əsas proqramlaşdırma dilləri
-c) riyazi proqramlaşdırma dilləri
-d) əlavə proqramlaşdırma dilləri
-e) fiziki proqramlaşdırma dilləri
+A) xüsusi proqramlaşdırma dilləri
+B) əsas proqramlaşdırma dilləri
+C) riyazi proqramlaşdırma dilləri
+D) əlavə proqramlaşdırma dilləri
+E) fiziki proqramlaşdırma dilləri
 297. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr aşağıdakılardır        
-a) biliklərin təsviri dilləri
-b) modellərin təsviri dilləri
-c) qrafiklərin təsviri dilləri
-d) əmrlərin təsviri dilləri
-e) sorğuların təsviri dilləri
+A) biliklərin təsviri dilləri
+B) modellərin təsviri dilləri
+C) qrafiklərin təsviri dilləri
+D) əmrlərin təsviri dilləri
+E) sorğuların təsviri dilləri
 298. İntellektual sistemləri işləyib hazırlamaq üçün instrumental vasitələr aşağıdakılardır          
-a) ekspert sistemləri örtüyü
-b) əməliyyat sistemləri örtüyü
-c) informasiya sistemləri örtüyü
-d) korporativ sistemləri örtüyü
-e) intellektual sistemləri örtüyü 
+A) ekspert sistemləri örtüyü
+B) əməliyyat sistemləri örtüyü
+C) informasiya sistemləri örtüyü
+D) korporativ sistemləri örtüyü
+E) intellektual sistemləri örtüyü 
 299. Bütün ES-lər ... əsaslanan sistemlərdir        
-a) biliklərə
-b) kompüterlərə
-c) ekspertlərə
-d) telekommunikasiyaya
-e) insanlara
+A) biliklərə
+B) kompüterlərə
+C) ekspertlərə
+D) telekommunikasiyaya
+E) insanlara
 300. İntellektual robotların yaradılması ...       
-a) robototexnika sahəsinin son məqsədidir
-b) robototexnika sahəsinin ilk məqsədidir
-c) robototexnika sahəsinin əsas məqsədidir
-d) robototexnika sahəsinin məqsədi deyil
-e) robototexnika sahəsinin son məqsədi deyil
+A) robototexnika sahəsinin son məqsədidir
+B) robototexnika sahəsinin ilk məqsədidir
+C) robototexnika sahəsinin əsas məqsədidir
+D) robototexnika sahəsinin məqsədi deyil
+E) robototexnika sahəsinin son məqsədi deyil
 301. ... problemin həllini əks etdirən faktlar və qaydalardan ibarətdir    
-a) Bilik bazası
-b) Verilənlər bazası
-c) Süni intellekt
-d) Sistem bazası
-e) heç biri
+A) Bilik bazası
+B) Verilənlər bazası
+C) Süni intellekt
+D) Sistem bazası
+E) heç biri
 302. Ayrı-ayrı ixtiraların müvəffəqiyyətlərinə baxmayaraq avtonom intellektual robotların dövrü ...           
-a) hələ gəlməmişdir
-b) artıq keçmişdir
-c) hələ davam edir
-d) mövcud deyil
-e) heç biri
+A) hələ gəlməmişdir
+B) artıq keçmişdir
+C) hələ davam edir
+D) mövcud deyil
+E) heç biri
 303. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir 
-a) inkişaf etmiş kommunikativ qabiliyyət
-b) inkişaf etməmiş kommunikativ qabiliyyət
-c) inkişaf etmiş korporativ qabiliyyət
-d) inkişaf etməmiş korporativ qabiliyyət
-e) hamısı
+A) inkişaf etmiş kommunikativ qabiliyyət
+B) inkişaf etməmiş kommunikativ qabiliyyət
+C) inkişaf etmiş korporativ qabiliyyət
+D) inkişaf etməmiş korporativ qabiliyyət
+E) hamısı
 304. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir    
-a) mürəkkəb pis formalaşmış məsələləri həll etmə bacarığı
-b) sadə pis formalaşmış məsələləri həll etmə bacarığı
-c) mürəkkəb yaxşı formalaşmış məsələləri həll etmə bacarığı
-d) sadə yaxşı formalaşmış məsələləri həll etmə bacarığı
-e) heç biri
+A) mürəkkəb pis formalaşmış məsələləri həll etmə bacarığı
+B) sadə pis formalaşmış məsələləri həll etmə bacarığı
+C) mürəkkəb yaxşı formalaşmış məsələləri həll etmə bacarığı
+D) sadə yaxşı formalaşmış məsələləri həll etmə bacarığı
+E) heç biri
 305. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir          
-a) öz-özünə öyrənmə qabiliyyəti
-b) öz-özünə öyrətmə qabiliyyəti
-c) öz-özünə öyrənmə keyfiyyəti
-d) öz-özünə öyrətmə keyfiyyəti
-e) heç biri
+A) öz-özünə öyrənmə qabiliyyəti
+B) öz-özünə öyrətmə qabiliyyəti
+C) öz-özünə öyrənmə keyfiyyəti
+D) öz-özünə öyrətmə keyfiyyəti
+E) heç biri
 306. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir          
-a) Adaptivlik
-b) Adekvatlıq
-c) Aktuallıq
-d) Dolğunluq
-e) Tamlıq
+A) Adaptivlik
+B) Adekvatlıq
+C) Aktuallıq
+D) Dolğunluq
+E) Tamlıq
 307. qaydalara əsaslanan modeldir, bilikləri "Əgər (şərt), onda (nəticə)" tipində təsvir etməyə imkan verir         
-a) Produksion model  
-b) semantik şəbəkə modeli
-c) relyasion model
-d) formal məntiq modeli
-e) freym model
+A) Produksion model  
+B) semantik şəbəkə modeli
+C) relyasion model
+D) formal məntiq modeli
+E) freym model
 308. Ekspert:             
-a) müəyyən predmet sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
-b) informatika sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
-c) kibernetika sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
-d) texnologiya sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
-e) bütün sahələrdə mükəmməl biliyə,  böyük təcrübəyə malik az kvalifikasiyalı mütəxəssisdir
+A) müəyyən predmet sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+B) informatika sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+C) kibernetika sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+D) texnologiya sahəsində mükəmməl biliyə,  böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+E) bütün sahələrdə mükəmməl biliyə,  böyük təcrübəyə malik az kvalifikasiyalı mütəxəssisdir
 309. İzah mexanizmi:          
-a) sistemdə həllin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
-b) sistemdə proqramın tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
-c) sistemdə əmrin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
-d) sistemdə sorğunun tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
-e) sistemdə verilənlərin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+A) sistemdə həllin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+B) sistemdə proqramın tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+C) sistemdə əmrin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+D) sistemdə sorğunun tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+E) sistemdə verilənlərin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
 310. Aralıq mexanizm:           
-a) istifadəçi ilə sistem arasında münasibəti təşkil edir
-b) sifarişçi ilə sistem arasında münasibəti təşkil edir
-c) icraçı ilə sistem arasında münasibəti təşkil edir
-d) istehsalçı ilə sistem arasında münasibəti təşkil edir
-e) idxalçı ilə sistem arasında münasibəti təşkil edir
+A) istifadəçi ilə sistem arasında münasibəti təşkil edir
+B) sifarişçi ilə sistem arasında münasibəti təşkil edir
+C) icraçı ilə sistem arasında münasibəti təşkil edir
+D) istehsalçı ilə sistem arasında münasibəti təşkil edir
+E) idxalçı ilə sistem arasında münasibəti təşkil edir
 311. ES-də biliklərin təsvir modellərinin təsnifatı belədir    
-a) produksion model, semantik şəbəkə modeli
-b) produksion model, lokal şəbəkə modeli
-c) produksion model, qlobal şəbəkə modeli
-d) produksion model, vizual şəbəkə modeli
-e) produksion model, qarışıq şəbəkə modeli
+A) produksion model, semantik şəbəkə modeli
+B) produksion model, lokal şəbəkə modeli
+C) produksion model, qlobal şəbəkə modeli
+D) produksion model, vizual şəbəkə modeli
+E) produksion model, qarışıq şəbəkə modeli
 311. ES-də biliklərin təsvir modellərinin təsnifatı belədir  
-a) freym model, formal məntiq modeli
-b) freym model, faktiki məntiq modeli
-c) freym model, vizual məntiq modeli
-d) freym model, riyazi məntiq modeli
-e) freym model, fiziki məntiq modeli
+A) freym model, formal məntiq modeli
+B) freym model, faktiki məntiq modeli
+C) freym model, vizual məntiq modeli
+D) freym model, riyazi məntiq modeli
+E) freym model, fiziki məntiq modeli
 312. Semantik şəbəkə:        
-a) istiqamətlənmiş qrafdır, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
-b) istiqamətlənməmiş oxdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
-c) istiqamətlənməmiş obyektdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
-d) istiqamətlənməmiş xəttdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
-e) istiqamətlənmiş blokdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+A) istiqamətlənmiş qrafdır, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+B) istiqamətlənməmiş oxdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+C) istiqamətlənməmiş obyektdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+D) istiqamətlənməmiş xəttdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+E) istiqamətlənmiş blokdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
 313. Semantik şəbəkədə olan münasibətlər      
-a) "hissə- tam" tipli əlaqələr (sinif-qrup, element- çoxluq)
-b) "hissə- tam" tipli fərqlər (sinif-qrup, element- çoxluq)
-c) "hissə- tam" tipli əmrlər (sinif-qrup, element- çoxluq)
-d) "hissə- tam" tipli sorğular (sinif-qrup, element- çoxluq)
-e) "hissə- tam" tipli sistemlər (sinif-qrup, element- çoxluq)
+A) "hissə- tam" tipli əlaqələr (sinif-qrup, element- çoxluq)
+B) "hissə- tam" tipli fərqlər (sinif-qrup, element- çoxluq)
+C) "hissə- tam" tipli əmrlər (sinif-qrup, element- çoxluq)
+D) "hissə- tam" tipli sorğular (sinif-qrup, element- çoxluq)
+E) "hissə- tam" tipli sistemlər (sinif-qrup, element- çoxluq)
 314. Semantik şəbəkədə olan münasibətlər (II):     
-a) funksional əlaqə ("baş verir", "təsir edir" və s.)
-b) sistemli əlaqə ("baş verir", "təsir edir" və s.)
-c) strukturlu əlaqə ("baş verir", "təsir edir" və s.)
-d) məntiqi əlaqə ("baş verir", "təsir edir" və s.)
-e) xüsusi əlaqə ("baş verir", "təsir edir" və s.)
+A) funksional əlaqə ("baş verir", "təsir edir" və s.)
+B) sistemli əlaqə ("baş verir", "təsir edir" və s.)
+C) strukturlu əlaqə ("baş verir", "təsir edir" və s.)
+D) məntiqi əlaqə ("baş verir", "təsir edir" və s.)
+E) xüsusi əlaqə ("baş verir", "təsir edir" və s.)
 315. Semantik şəbəkədə olan münasibətlər    
-a) kəmiyyət xarakterli əlaqə (çox, az, bərabər və s.)
-b) keyfiyyət xarakterli əlaqə (çox, az, bərabər və s.)
-c) kəşviyyat xarakterli əlaqə (çox, az, bərabər və s.)
-d) mühafizə xarakterli əlaqə (çox, az, bərabər və s.)
-e) müşayiət xarakterli əlaqə (çox, az, bərabər və s.)
+A) kəmiyyət xarakterli əlaqə (çox, az, bərabər və s.)
+B) keyfiyyət xarakterli əlaqə (çox, az, bərabər və s.)
+C) kəşviyyat xarakterli əlaqə (çox, az, bərabər və s.)
+D) mühafizə xarakterli əlaqə (çox, az, bərabər və s.)
+E) müşayiət xarakterli əlaqə (çox, az, bərabər və s.)
 316. Semantik şəbəkədə olan münasibətlər    
-a) atribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
-b) disribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
-c) əsas əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
-d) sıx əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
-e) açıq əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
+A) atribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
+B) disribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
+C) əsas əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
+D) sıx əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
+E) açıq əlaqələr (cəhətlərə malikdir, mahiyyəti var və s.)
 317. Semantik şəbəkədə olan münasibətlər (VI):    
-a) məntiqi əlaqələr (və, və ya, yox)
-b) riyazi əlaqələr (və, və ya, yox)
-c) funksional əlaqələr (və, və ya, yox)
-d) tam əlaqələr (və, və ya, yox)
-e) düz əlaqələr (və, və ya, yox)
+A) məntiqi əlaqələr (və, və ya, yox)
+B) riyazi əlaqələr (və, və ya, yox)
+C) funksional əlaqələr (və, və ya, yox)
+D) tam əlaqələr (və, və ya, yox)
+E) düz əlaqələr (və, və ya, yox)
 318. Semantik şəbəkədə olan münasibətlər   
-a) linqvistik əlaqələr
-b) linqvistik vasitələr
-c) linqvistik xüsusiyyətlər
-d) linqvistik xarakter
-e) linqvistik sistemlər
+A) linqvistik əlaqələr
+B) linqvistik vasitələr
+C) linqvistik xüsusiyyətlər
+D) linqvistik xarakter
+E) linqvistik sistemlər
 319. Freym model 
-a) hər hansı qavranışın abstrakt obrazıdır
-b) hər hansı qavranışın qrafiki obrazıdır
-c) hər hansı qavranışın orijinal obrazıdır
-d) hər hansı qavranışın struktur obrazıdır
-e) hər hansı qavranışın yazılı obrazıdır
+A) hər hansı qavranışın abstrakt obrazıdır
+B) hər hansı qavranışın qrafiki obrazıdır
+C) hər hansı qavranışın orijinal obrazıdır
+D) hər hansı qavranışın struktur obrazıdır
+E) hər hansı qavranışın yazılı obrazıdır
 320.  İntellektual sistemlərin yaradılmasının sənaye texnologiyasının  mərhələlərinə aiddir ...            
-a) bütün variantlar
-b) Layihənin yerinə yetirilə bilməsinin tədqiqi
-c) Sistemin ümumi konsepsiyasının işlənməsi
-d) Prototip seriyalarının testləşdirilməsi və işlənməsi
-e) Baş obrazın sınağı və işlənməsi
+A) bütün variantlar
+B) Layihənin yerinə yetirilə bilməsinin tədqiqi
+C) Sistemin ümumi konsepsiyasının işlənməsi
+D) Prototip seriyalarının testləşdirilməsi və işlənməsi
+E) Baş obrazın sınağı və işlənməsi

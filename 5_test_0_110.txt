@@ -1,0 +1,660 @@
+1. Qiyməti rəqəmlərlə ifadə olunan verilənlər tipidir:
+A) hesabi
+B) mətn 
+C) şərti 
+D) göstərici 
+E) məntiqi
+2. Qiyməti işarələr qrupu ilə ifadə olunan verilənlərin tipidir:
+A) mətn 
+B) şərti 
+C) hesabi 
+D) göstərici 
+E) məntiqi
+3. Qiyməti true/false kəmiyyətləri ilə ifadə olunan verilənlərin tipidir:
+A) məntiqi 
+B) şərti 
+C) hesabi 
+D) göstərici 
+E) mətn
+4. Proqramlaşdırmada yaddaş ünvanları ilə işləmək üçün hansı tip verilənlərdən istifadə olunur?
+A) göstərici 
+B) məntiqi 
+C) hesabi 
+D) şərti 
+E) mətn
+5. Hesabi verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) rəqəmlərlə 
+B) simvollarla 
+C) mətnlə 
+D) məntiqi kəmiyyətlə 
+E) ünvanla
+6. Məntiqi verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) true/false 
+B) bit 
+C) və/və ya 
+D) rəqəm/ədəd 
+E) simvol
+7. Mətn tipli verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) simvollarla 
+B) təsvir 
+C) ədəd 
+D) məntiqi kəmiyyət 
+E) rəqəm
+8. Aşağıdakılardan hansı verilənlərin tipinə aid deyil?
+A) şərt 
+B) mətn 
+C) məntiqi 
+D) göstərici 
+E) hesabi
+9. Süni intellektin proqram təminatı ənənəvi proqramlardan birinci növbədə onunla fərqlənir ki, o, əsasən ... tipli verilənləri emal edir.
+A) simvol 
+B) təsvir 
+C) göstərici 
+D) həqiqi 
+E) ədəd
+10. Labirintdə axtarış modelində ilkin verilənlərdən məqsədə ... axtarışı aparılır.
+A) optimal yolun 
+B) ən uzun yolun 
+C) ənənəvi yollar
+D) maksimal yolun 
+E) doğru yolun orta qiymətinin 
+11. “informatika” sözünün yaddaşda saxlanması üçün nə qədər yer tələb olunur?
+A) 88 bit 
+B) 11 bit 
+C) 11 bayt 
+D) 24 bayt 
+E) 8 bayt
+12. Verilənin adının seçilməsi əsasən onun ... aid olur.
+A) semantikasına 
+B) sintaksisinə 
+C) uzunluğuna 
+D) qiymətinə 
+E) strukturuna
+13. 18 Mbayt nəyə bərabərdir?
+A) 9∙211 Kbayt 
+B) 144 bit 
+C) 3∙211 Kbayt 
+D) 9∙210 Kbayt 
+E) 3∙222 bayt
+14. Hesablayın: 3 Mbayt + 15 Kbayt = ?
+A) 3 087 Kbayt 
+B) 3 087 Mbayt 
+C) 18 Kbayt
+D) 18 Mbayt 
+E) 3 015 Mbayt
+15. Hesablayın: 4 Mbayt – 9 Kbayt = ?
+A) 4 087 Kbayt 
+B) 3 996 Kbayt 
+C) 4 086 Kbayt 
+D) 13 Mbayt 
+E) 4 087 Mbayt
+16. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) verilənlərin təsviri 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması
+D) Ünsiyyət 
+E) qədul olunma
+17. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) verilənlərin strukturu 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması 
+D) təlim 
+E) qədul olunma
+18. Verilənlər bazasında iki cədvəl arasında hansı mümkün hallar ola bilər? 1. Birin-birə 2. Birin-çoxa 3. Dairəvi əlaqə 4. Çoxun-birə 5. Düzxətli əlaqə 6. Çoxun-çoxa 
+A) 1,2,4,6
+B) 1,6
+C) 3,5
+D) 2,5,6
+E) 1,3,5,6
+19. MS Access proqramında verilənlərin tipinə aid deyil? 
+A) Kompleks
+B) Pul
+C) Mətn
+D) Memo
+E) Ədəd 
+20. Qeyri-səlis məntiq nəzəriyyəsinin banisi kimdir? 
+A) Lütfi Zadə 
+B) Aristotel
+C) Leybnis
+D) Corc Bul
+E) Əl Xərezmi
+21. Bunlardan hansı informasiyanın əsas xassələrinə aid deyil? 
+A) Məxfilik 
+B) Obyektivlik
+C) Adekvatlıq
+D) Aktuallıq
+E) Dəqiqlik
+22. A3 vərəqinin ölçüsü nə qədərdir? 
+A) 297mm x 210mm
+B) 297mm x 420mm
+C) 594mm x 420mm
+D) 594mm x 841mm
+E) 210mm x 148mm
+23. I nəsil kompüterlərin element bazası nə olmuşdur? 
+A) Elektron lampalar
+B) İnteqral mikrosxemlər
+C) Tranzistorlar
+D) Böyük ölçülü relelər
+E) Dişli çarxlar
+24. Göz vasitəsilə qəbul edilən informasiya necə adlanır? 
+A) Vizual 
+B) Dad
+C) Qoxu
+D) Səs
+E) Taktil
+25. 1 kilobaytda neçə bit var? 
+A) 8192
+B) 8
+C) 100
+D) 1024
+E) 1000
+26. Kompüterlərin aşağıdakı növlərindən hansı fərdi kompüter deyil? 
+A) Super kompüterlər
+B) Planşet kompüterlər
+C) Noutbuklar
+D) Masaüstü kompüterlər
+E) Cib kompüterləri
+27. Bunlardan hansılar giriş qurğusudur? 1. Sistem bloku 2. Monitor 3. Klaviatura 4. Printer 5. Skaner 
+A) 3,5
+B) 2,5
+C) 2,4
+D) 1,2,4
+E) 2,3,5
+28. Kompüter söndürüldükdə informasiya hansı yaddaşdan silinir? 
+A) Operativ(əməli) yaddaşdan
+B) Fləş yaddaşdan
+C) CD-ROM diskindən
+D) Sərt diskdən
+E) Yumşaq diskdən
+29. Noutbuklar hansı kompüter kateqoriyasına aiddir? 
+A) Mikrokompüter 
+B) Minikompüter
+C) Superkompüter
+D) Meynfreym
+E) Mobil kompüterlər
+30. Aşağıdakı komponentlərdən hansı verilənlərin ötürülməsini həyata keçirmək üçün zəruri deyil? 
+A) Radiosiqnallar (radio signals)
+B) Kommunikasiya qurğusu (Communications device)
+C) Qəbuledici qurğu (Receiving device)
+D) Göndərən qurğu (Sending device)
+E) Kommunikasiya proqramları (communication software)
+31. Aşağıdakılardan hansı verilənləri daşımaq üçün fiziki vasitədir? 
+A) Sarınmış cütlük kabel, koaksal kabel, fiber-optik kabel 
+B) Koaksal kabel, radiosiqnallar, mikrodalğalar
+C) Sarınmış cütlük kabel, radiosiqnallar
+D) Yüksək gərginliyə davamlı elektrik xətləri
+E) Radiosiqnallar, mikrodalğalar
+32. Aşağıdakılardan hansı yerli şəbəkədir? 
+A) Local area networks 
+B) World Wide Web
+C) Wide area networks
+D) Communications channel
+E) Sending device
+33. Rəqəmli siqnalları analoq siqnallara, analoq siqnalları rəqəmli siqnallara çevirən qurğu 
+A) Modem
+B) Körpü
+C) Şəbəkə kartı
+D) Qovşaq
+E) Yönləndirici
+34. Verilənlər bazası nədir? 
+A) Verilənlərin strukturlaşdırılmış, nizamlı yığınıdır 
+B) Əməliyyat sisteminin müvəqqəti olaraq yaratdığı bazadır
+C) Verilənlərin müvəqqəti istifadəsi üçün vasitədir
+D) Əməliyyat sisteminin müraciət etdiyi bazadır
+E) Proqramlaşdırma alətləri sisteminin kitabxanasıdır
+35. Aşağıdakılardan hansı internetin kommunikasiya xidmətinə aid deyil? 
+A) Video qeydiyyat
+B) Elektron poçt
+C) "On-line" ünsiyyət
+D) Telekonfrans
+E) İnternet-telefoniya
+36. Aşağıdakılardan hansı VBİS deyil? 
+A) ICQ 
+B) MySQL
+C) Oracle
+D) dBase II
+E) Access
+37. Verilənlər bazası yaratmaq və onların üzərində müxtəlif əməliyyatlar aparmaq üçün Microsoft şirkəti hansı proqramı MS Office proqramlar paketinə daxil etmişdir? 
+A) Microsoft Office Access 
+B) Microsoft Office Publisher
+C) Microsoft Office Word
+D) Microsoft Office FrontPage
+E) Microsoft Office Excel
+38. Hipermətn nədir? 
+A) Daxilində istinadlar (Hyperlinks, hiperəlaqələr) olan mətndir 
+B) Daxilində şəkillərin olduğu mətndir
+C) Tələb olunan mövzunu tam əhatə edən mətndir
+D) Elektron formada hazırlanmış Hyperbolik mətndir
+E) Başqa sənədlərə istinadların(Hyperlinks, hiperəlaqələr) oldmadığı mətndir
+39. VBİS nədir? 
+A) Verilənlər bazasının yaradılması üçün proqram vasitələrinin toplusu
+B) Verilənlər bazasının istifadəsinə göstəriş faylı
+C) Verilənlər bazasının təşkili üçün sxemlər toplusu
+D) Verilənlər bazasının əlaqələndirici kompüter topologiyası
+E) Verilənlər bazasının istifadəsi zamanı təhlükəsizliyin təmini üçün açar
+40. Nöqtələr çoxluğu şəklində olan qrafika necə adlanır? 
+A) Rastr 
+B) Frontal
+C) Vektor
+D) Üçölçülü
+E) Fraktal
+41. Obyektin, hadisənin və ya prosesin müəyyən xüsusiyyətlərini əks etdirən təqdimolunma formasına … deyilir. 
+A) Model 
+B) İnformasiya mübadiləsi
+C) Kompüter
+D) İnformasiyanın ötürülməsi
+E) Server
+42. Şəbəkə resurslarını idarə edən kompüter:
+A) Server
+B) Qovşaq
+C) Klient kompüter
+D) Müştəri kompüter
+E) Yönləndirici kompüter
+43. Bunlardan hansılar çıxış qurğusudur? 1. Klaviatura 2. Monitor 3. Sistem bloku 4. Printer 5. Maus 
+A) 2, 4
+B) 4, 5
+C) 1, 2, 4
+D) 1, 2, 5
+ E) 2, 5
+44. Məntiqi toplama (dizyunksiya) əməlinin doğruluq cədvəlinə görə yanlış cəm hansıdır?
+A)Doğru +Yalan=Yalan 
+B)Doğru +Doğru=Doğru
+C)Yalan +Yalan=Yalan
+D)Yalan +Doğru=Doğru
+ E)Doğru +Yalan=Doğru
+45. İnformasiyanın ölçü vahidləri
+A) Bit, Bayt
+B) DPI
+C) LPİ
+D) PPİ
+E) bps
+46. BIOS nədir?
+A) giriş və çıxış baza sistemi
+B) ünvanlar şini
+C) VBİS
+D) verilənlərin ötürülməsi protokolu
+E) Xarici yaddaş qurğusu
+47. Alqoritmin hansı növləri var?
+A) Budaqlanan, xətti, dövri
+B) Xətti, qeyri-xətti
+C) Dövri, sonlu
+D) Simmetrik, qeyri-simmetrik
+E) Təkrarlanan, budaqlanan
+48. 1 baytda mümkün olan kodların sayı nə qədərdir?
+A) 256
+B) 8
+C) 1024
+D) 4096
+E) 2
+49. Aşağıdakılardan hansı mətn emalı üçündür
+A) Notepad
+B) Facebook
+C) Photoshop
+D) Excel
+E) MS Windows 
+50. Komp qrafikasının növləri hansılardır
+A) Rastr, vektor
+B) Paint, Photoshop
+C) LAN, WAN
+D) Dizayn, Fraktal
+E)1D, 2D
+51. Rastr, fraktal, vektor, 3d bunlar nədir? 
+A) qrafika növləri
+B) mətn redaktorları
+C) cədvəl prosessorları
+D) antivirus vasitələri
+E) utilitlər
+52. www tərcüməsi? 
+A) ümumdünya hörümçək toru(şəbəkəsi)
+B) verilənlər bazası idarəetmə sistemi
+C) faylların ötürülməsi protokolu
+D) strukturlaşmış sorğu dili(şəbəkəsi)
+E) elektron poçt xidməti
+53. İnformasiya cəmiyyətində dövlət idarəçiliyi forması: 
+A) elektron hökumət
+B) avtomatlaşdırılmış hökumət
+C) İnformasiyalaşdırılmış hökumət
+D) monarxik hökumət
+E) demokratik hökumət
+54. Provayder nədir? 
+A) İnternet xidmətlərini təklif edən qurum
+B) İnternet xidmətlərini icra edən proqram
+C) İnternet xidmətlərini icra edən qurğular
+D) İnternet xidmətlərini təşkil edən verilənlər bazası
+E) İnternet xidmətlərini təmin edən verilənlər bazası
+55. Axtarış sistemlərinin əsas xarakteristikaları
+A) tamlıq, dəqiqlik, aktuallıq, axtarma sürəti, əyanilik
+B) etibarlılıq, dəqiqlik, aktuallıq, axtarma
+C) təhlükəsizlik, axtarma sürəti, əyanilik
+D) adekvatlıq, dəqiqlik, aktuallıq, axtarma sürəti, əyanilik
+E) müəyyənlik, axtarma sürəti, əyanilik
+56. Axtarış sisteminin əsas anlayışları: 
+A) İndeksləşdirmə, relevantlıq
+B) kodlaşdırma, relevantlıq
+C) kodlaşdırma, İndeksləşdirmə
+D) şıfrləmə, kommunikasiya
+E) modulyasiya, demodulyasiya
+57. Kompyuter şəbəkələrinin növləri: 
+A) LAN, WAN, MAN
+B) DNS, DLL
+C) İBM, HP, Dell
+D) MS, Aple
+E) WWW, Wide
+58. İnternet nədir? 
+A) Ümumdünya şəbəkələr şəbəkəsi
+B) Web portal şəbəkəsi
+C) Axtarış saytı
+D) Lokal şəbəkələr şəbəkəsi
+E) Sosial şəbəkələr şəbəkəsi
+59. Kompyuterdə verilənlər hansı şəkildə emal olunur?
+A) ikilik kodların toplanması
+B) ikilik kodların vurulması
+C) onluq kodların toplanması
+D) onluq kodların vurulması
+E)siqnalların sıxılması
+60. Alqoritm nədir?
+A) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi və məntiqi əməliyyatların sonlu sayda ardıcıllığıdır
+B) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi əməliyyatların sonlu sayda ardıcıllığıdır
+C) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan məntiqi əməliyyatların sonlu sayda ardıcıllığıdır
+D) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi və məntiqi əməliyyatların sonsuz sayda ardıcıllığıdır
+E) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi əməliyyatların sonsuz sayda ardıcıllığıdır
+61. Alqoritmin təsvir üsulları hansılardır?
+A) Sözlə; blok-sxemlə; Proqramla (alqoritmik dil); Psevdokodla
+B) Proqramla (alqoritmik dil); Psevdokodla; diaqramla
+C) Sözlə; blok-sxemlə; diaqramla
+D) Sözlə; diaqramla; simvollarla
+E) Proqramla (alqoritmik dil); simvollarla
+62. Alqoritmin növləri hansılardır?
+A) xətti (düz), budaqlanan və dövri
+B) xətti, rekursiv və dövri
+C) budaqlanan və rekursiv
+D) xətti, rekursiv və budaqlanan
+E) rekursiv və dövri
+63. Software nədir?
+A) Proqram təminatı
+B) Aparat təminatı
+C) Alqoritmik dillər
+D) Hüquqi təminat
+E) Təşkilatı təminat
+64. Aşağıdakılardan hansılar software-dir?
+A) MS Office
+B) Hard Disk
+C) Klaviatura
+D) Videokart
+E) CPU
+65. Aşağıdakılardan hansılar software deyil?
+A) Monitor
+B)MS Project
+C)MS Outlook
+D)MS Visio
+E)MS Excel
+66. Hardware nədir?
+A) Kompüterin aparat təminatı, texniki vasitələr
+B) Kompüterin aparat proqram təminatı
+C) Kompüterin təşkilatı təminatı
+D)alqoritmik dillər
+E) Kompüterin aparat hüquqi təminatı
+67. Aşağıdakılardan hansılar hardware -dir?
+A) Printer, plotter, modem 
+B) Paint, MS Access, Əməliyyat Sistemləri
+C) Utilitlər, Drayverlər
+D) MS Word, Arxivatorlar
+E) Dilmanc, Intelsoft
+68. Aşağıdakılardan hansılar hardware deyil?
+A)drayver
+B)maus
+C)klaviatura
+D)monitor
+E)modem
+69. Süni intellekt məsələlərində əsasən, ... istifadə edilir.
+A) evristik həlldən 
+B) cəbri həlldən 
+C) alqoritmik həlldən 
+D) q/maşın həllindən
+E) qrafik həlldən 
+70. Aşağıdakılardan hansı informasiya proseslərinə aid deyil?
+A) informasiyanın tamlığı 
+B) informasiyanın ötürülməsi
+C) informasiyanın toplanması 
+D) informasiyanın emalı
+E) informasiyanın saxlanması
+71. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) qrafika 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması 
+D) Ünsiyyət 
+E) qədul olunma
+72. Kiçik ekspert sistemləri adətən ... istifadə olunur. 
+A) fərdi kompüterlərdə 
+B) işçi stansiyalarda 
+C) mini kompüterlərdə
+D) super kompüterlərdə 
+E) maynfremlərdə
+73. Konkret sahə üzrə ayrılmış biliklər necə adlanır?
+A) baza bilikləri 
+B) linqvistik biliklər 
+C) deklarativ biliklər
+D) prosedur biliklər 
+E) məntiqi biliklər
+74. Ekspert sisteminin işlənməsi üçün hansı mütəxəsisslər lazımdır?
+A) ekspert, mühəndis, proqramlaşdıran 
+B) fizik, iqtisadçı, texnoloq
+C) proqramlaşdıran, riyaziyyatçı 
+D) fizik, mühəndis 
+E) mühəndis, iqtisadçı, riyaziyyatçı 
+75. İntellektual sistemlər məntiqi nəticələrdən istifadə etməklə:
+A) qərar qəbul etməlidir 
+B) proqnozlaşdırmalıdır 
+C) diaqnostika etməlidir 
+D) yuxarı səviyyəyə ötürməlidir 
+E) informasiyanı arxivləşdirməlidir
+76. Ekspert sistemlərinin ... onları qurulma prinsipləri və tipi ilə təyin olunur.
+A) arxitekturası 
+B) keyfiyyəti 
+C) səmərəliliyi 
+D) təyinatı 
+E) uyuşanlığı
+77. Baxılan sahəni təsvir edən uzunmüddətli verilənlərin və ya qaydaların saxlanması üçündür:
+A) biliklər bazası 
+B) əməli yaddaş 
+C) işçi yaddaş 
+D) interfeys 
+E) həledici
+78. Süni intellekt sistemlərində ən çox istifadə olunan proqramlaşdırma dili:
+A) Lisp 
+B) Alqol 
+C) fortran 
+D) pascal 
+E) beyzik
+79. İnsan təfəkkürünün işləmə mexanizminin kompyuterlərə keçirmək ilə bilavasitə məşğul olan müasir elmi istiqamət:
+A) süni intellekt 
+B) fizika 
+C) riyaziyyat 
+D) qeyri-səlis məntiq 
+E) həndəsə
+80. Süni intellekt sistemlərində ən çox hansı proqramlaşdırma dillərindən istifadə olunur?
+A) lisp və proloq 
+B) alqol və delfu 
+C) beyzik və mnemokod 
+D) fortran və beyzik 
+E) cobol və fortran
+81. Kompyuterdə verilənlər hansı şəkildə saxlanılır?
+A) ikilik kodlar
+B) onluq kodlar
+C) mətnlər
+D) həqiqi ədədlər
+E) məntiqi göstəricilər
+82. Elektron imza nədir?
+A) Elektron dünyada şəxsiyyəti müəyyənləşdirmə vasitəsidir.
+B) dövlət qurumlarının vətəndaşlara və biznes qurumlarına informasiya-kommunikasiya texnologiyalarından istifadə etməklə xidmət göstərməsidir.
+C) informasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri; 
+D) elektron sənəd dövriyyəsində istifadə olunan proqramlar, texniki vasitələr və texnologiyalar; 
+E) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+83. Elektron imzanın hansı növləri var?
+A) kor İmza, tələ İmza, vəkalət İmzası, inkar edilə bilməyən imza
+B) tərs imza, tələ İmza
+C) vəkalət İmzası, sənədli imza
+D) kor İmza, inkar edilə bilən imza
+E) inkar Edilə Bilməyən İmza, təsdiqlənməyən imza
+84. Elektron imza vasitələri:
+A) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+B) öz adından və ya qanunvericilikdə nəzərdə tutulmuş qaydada ona səlahiyyət vermiş şəxs adından çıxış edən fiziki şəxs; 
+C) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər; 
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+85. Elektron imza yaratma məlumatları:
+A) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər; 
+B) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+C) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+D) öz adından və ya qanunvericilikdə nəzərdə tutulmuş qaydada ona səlahiyyət vermiş şəxs adından çıxış edən fiziki şəxs; 
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+86. Elektron imzanın həqiqiliyi(tam cavabı göstərin):
+A) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+B) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün və təhrif edilmədiyinin təsdiqi;
+C) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün və dəyişdirilmədiyinin təsdiqi;
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olması
+E) yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+87. Sertifikat xidmətləri mərkəzi:
+A) elektron imza üçün sertifikat verən və imzaların istifadəsi üzrə qanunla müəyyən edilmiş digər xidmətləri göstərən hüquqi şəxs və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxs; 
+B) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs; 
+C) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs; 
+D) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd; 
+88. Elektron sənəd nədir?
+A) İnformasiya sistemində istifadə edilən elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd
+B) İnformasiya sistemində istifadə edilən ənənəvi formada təqdim edilən və imza ilə təsdiq olunmuş sənəd;
+C) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər;
+D) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+E) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+89. Fayl hansı halda elektron sənəd adlandırıla bilər?
+A) elektron imza ilə təsdiq olunubsa
+B) sertifikatlaşdırılıbsa
+C) möhür vurulubsa
+D) elektron imza ilə təsdiq olunmayıbsa
+E)sertifikatlaşdırılaraq möhür vurulubsa
+90. Rəsmi yazışmalar, hüquqi məsuliyyət nəzərdə tutan kompyuter faylları və öhdəliklər tələb edən informasiya mübadiləsi üçün kompüter vahidi: 
+A) elektron sənəd
+B) kompüter qovluğu
+C) kompüter faylı
+D) elektron daşıyıcı
+E) kompüter yaddaşı
+91. Aşağıdakılardan hansı doğrudur.
+A) Elektron sənəd kağız daşıyıcısı olan sənədə bərabər tutulur və onunla eyni hüquqi qüvvəyə malikdir
+B)Elektron sənəd- digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+C) Elektron sənəd -imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd
+D) Elektron sənəd - müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+E) Elektron sənəd - sertifikat alarkən imza sahibinin bildirdiyi və sistemin işi zamanı onun barəsində toplanılan məlumatlar; 
+92. Elektron sənəd dövriyyəsi: 
+A) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri
+B) elektron sənəd dövriyyəsində istifadə olunan proqramlar, texniki vasitələr və texnologiyalar; 
+C) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+D) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+E) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+93. Elektron sənəd dövriyyəsi vasitələridir:
+A) Elektron sənəd dövriyyəsində istifadə olunan programlar, texniki vasitələr və texnologiyalar
+B) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri;
+C) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+D) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr;
+E) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri
+94. Sertifikatlaşdırılmış elektron imza vasitələri: 
+A) Müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri
+B) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron sənəd dövriyyəsi vasitələri; 
+C) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs; 
+D) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs; 
+E) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+95. Elektron sənədin əsas mahiyyəti nədir?
+A) İnformasiyanı hazırlayan şəxsin həqiqiliyinin təyin olunması və 3-cü tərəfə informasiya yaradan şəxsi müəyyən etmə imkanının yaradılması
+B) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+C) elektron imzanın həqiqiliyinin yoxlanılması yolu ilə elektron sənədin tamlığının (zəruri rekvizitlərə malik olması) və bütövlüyünün (ötürülmə zamanı texniki xətaların və təhriflərin olmaması) təsdiq edilməsi; 
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+E) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər;
+96. Elektron imza yaradılıb: 
+A) 20-ci əsrin 70-80-cı illərində
+B) 19-ci əsrin 70-80-cı illərində
+C) 20-ci əsrin 60-70-cı illərində
+D) 19-ci əsrin 80-90-cı illərində
+E) 20-ci əsrin 50-60-cı illərində
+97. Elektron imzadan istifadənin üstünlüklərinə aiddir: 
+A) vaxta qənaət, çatdırılma xərclərinin minimuma endirilməsi, yuksək təhlukəsizlik
+B) etibarlılıq, çatdırılma xərclərinin minimuma endirilməsi
+C) tamlıq, yuksək təhlukəsizlik
+D) dəqiqlik, yuksək təhlukəsizlik
+E) aktuallıq, çatdırılma xərclərinin minimuma endirilməsi, yuksək təhlukəsizlik
+98. Azərbaycanda elektron imzanın etibarlılıq müddəti: 
+A) 3il
+B) 5il
+C) 2il
+D) 1il
+E) 4il
+99. Elektron dövlət sistemində sənədlər necə təsdiq olunur? 
+A) Elektron imza ilə
+B) Möhürlə
+C) Qeydiyyatdan keçməklə
+D) Autentifikasiya ilə
+E) Sertifikatlaşma yolu ilə
+100. Elektron hökumətin əməliyyat prinsipləri:
+A) informasiya texnologiyalarından istifadə
+B) Bürokratik prinsip (telefon, faks)
+C) İş yerinə ziyarət, faks, telefon
+D) İnternətə çıxışın olduğu istənilən yer
+E) Web portal
+101. Elektron hökumət hansı əsas modullardan ibarətdir? 
+A) G2G hökumət hökumətə (government to government); G2B-hökumət biznesə (government to business); G2C hökumət vətəndaşlara (government to citizens) 
+B) sahibkar, müəssisə, vətəndaş
+C) hökümət, vətəndaş
+D) biznes, sahibkar, müəssisə, vətəndaş
+E) hökumət, idarəetmə, G2C hökumət vətəndaşlara (government to citizens)
+102. Elektron hökumətin 3 əsas faktoru:
+A) hökumət, vətəndaş və sahibkar (biznes qurumları)
+B) hökumət, elektron imza, biznes qurumları
+C) vətəndaş, elektron sənəd, sahibkar
+D) biznes, idarəetmə, sahibkar
+E) idarəetmə, elektron sənəd, biznes qurumları
+103. Elektron hökumətin xidmət saatları: 
+A) 7/24
+B) Həftəiçi, iş saatları daxilində
+C) saat 5-ə qədər
+D) günün birinci yarısı
+E) günün ikinci yarısı
+104. Azərbaycanın elektron hökumət portalı: 
+A) e-gov. az
+B) e-gov. com
+C) e-edu. com
+D) e-edu. az
+E) e-gov. ru
+105. Elektron hökumət anlayışı yaranıb: 
+A) 20-ci əsrin 90-cı illəri
+B) 20-ci əsrin 80-cı illəri
+C) 19-ci əsrin 90-cı illəri
+D) 20-ci əsrin 70-cı illəri
+E) 19-ci əsrin 80-cı illəri
+106. Elektron hökumət nədir?
+A) Dövlət qurumlarının vətəndaşlara və biznes qurumlarına informasiya-kommunikasiya texnologiyalarından istifadə etməklə xidmət göstərməsidir.
+B) Digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+C) İmza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd; 
+D) İnformasiya sistemində istifadə üçün elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd.
+E) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri; 
+107. Elektron hökumətin yaradılmasının əsas məqsədi(tam cavabı göstərin):
+A) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+B) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+C) Dövlət orqanlarının fəaliyyətinin operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+D) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+E) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə həyata keçirilməsinə nail olmaqdır. 
+108. Elektron poçt xidmətinin üstünlükləri
+A) operativlik, etibarlılıq, ucuzluq
+B) tamlıq, etibarlılıq, ucuzluq
+C) təhlükəsizlik, etibarlılıq, ucuzluq
+D) operativlik, etibarlılıq, aktuallıq
+E) operativlik, etibarlılıq, vaxta qənaət
+109. Elektron məktubun elementləri tam olaraq bunlardır: 
+A) göndərdiyimiz ünvan, mövzu, göndərən şəxsin ünvanı, cc, subyekt, tarix, reply to
+B) göndərdiyimiz ünvan, program, mövzu, 
+C) göndərən şəxsin ünvanı, cc, faylın tipi, subyekt, tarix, 
+D) mövzu, göndərən şəxsin ünvanı, 
+E) tarix, göndərdiyimiz ünvan, mövzu, göndərən şəxsin ünvanı, 
+110. Elektron məktuba daxil ola bilər: 
+A) rəsm, şəkil, mətn, material
+B) video, şəkil, mətn, material
+C) animasiya, mətn, material
+D) ancaq mətn, mətn, material
+E) bütün cavablar doğrudur

@@ -1,0 +1,954 @@
+1. MS Word proqramında mövcud sənədi açmaq üçün hansı əməliyyat yerinə yetirilir?
+A) File>Open… (Файл>Открыть…)
+B) File>File search... (Файл>Поиск файлов…)
+C) Window>Seek… (Окно>Поиск…)
+D) Edit> File search... (Правка>Поиск файлов…)
+E) File> Find… (Файл> Найти…)
+2. MS Word Sənəddəki müəyyən sözü və ya ifadəni tapmaq üçün hansı əməliyyat yerinə yetirilir?
+A) Edit >Find… (Правка>Найти…) 
+B) Edit> File search... (Правка>Поиск файлов…)
+C) File> Find… (Файл> Найти…)
+D) Edit> File search... (Правка>Поиск файлов…)
+E) Heç biri
+3. MS Word Sənədin istədiyimiz hissəsinə birbaşa keçmək üçün hansı əməliyyat yerinə yetirilir?
+A) Edit >Go to… (Правка>Перейти…) 
+B) File>Open… (Файл>Открыть…)
+C) View >Go to… (Вид>Перейти…)
+D) File >Go to… (Файл>Перейти…)
+E) Edit >Open… (Правка> Открыть …)
+4. MS Word İş sahəsinə xətkeşləri daxil etmək üçün hansı əməliyyat yerinə yetirilir?
+A) View>Ruler (Вид>Линейка) 
+B) Window>Ruler… (Окно> Линейка …)
+C) Insert>Ruler (Вставка>Линейка)
+D) Tools>Ruler… (Сервис> Линейка …)
+E) Tools>Options... >Ruler… (Сервис> Параметры... >Линейка …)
+5. MS Word A4 formatlı bir səhifədə iki səhifə mətni çap etmək üçün sazlama hansı bölmədə aparılır?
+A) View>Page setup... >Zoom (Вид > Параметры страницы …>Масштаб)
+B) Edit>Page setup... >Zoom (Правка > Параметры страницы …>Масштаб)
+C) View> Zoom (Вид >Масштаб)
+D) File>Print... >Zoom (Файл>Печать…>Масштаб)
+E) File>Page setup... >Zoom (Файл> Параметры страницы …>Масштаб)
+6. MS Word Mündəricat necə yaradılır?
+A) Insert>Reference>Index and tables (Вставка>Ссылкa>Оглавление и указатели... )
+B) Tools>Options... >Index and tables (Сервис> Параметры... >Оглавление и указатели... )
+C) Tools>Reference>Index and tables (Сервис>Ссылкa>Оглавление и указатели... )
+D) View> Index and tables (Вид > Оглавление и указатели... )
+E) Insert> Index and tables (Вставка> Оглавление и указатели... )
+7. MS Word Cüt və tək səhifələrə müxtəlif kolontitulların verilə bilməsi hansı bölmədən sazlanır?
+A) File>Page setup... >Headers&Footers (Файл>Параметры страницы…>Колонтитулы) 
+B) File>Print... >Margins (Файл>Печать…>Поля)
+C) File>Page setup... >Margins (Файл>Параметры страницы…>Поля) 
+D) File>Page setup... >Paper (Файл>Параметры страницы…>Размер бумаги)
+E) File>Page setup... >Layout (Файл>Параметры страницы…>Источник бумаги)
+8. MS Word Kitab səhifələrinə tikiş yeri necə qoyulur?
+A) File>Page setup... >Gutter (Файл>Параметры страницы… >Переплет) 
+B) File>Page setup... >Headers&Footers (Файл>Параметры страницы…>Колонтитулы)
+C) File>Page setup... >Layout>Gutter (Файл>Параметры страницы…>Источник бумаги>Переплет)
+D) File>Page setup... >Paper>Gutter (Файл>Параметры страницы…>Размер бумаги>Переплет)
+E) File>Page setup... >Margins>Gutter (Файл>Параметры страницы…>Поля>Переплет) 
+9. MS Word Cədvəlin xəttləri ilə xanalardakı simvol arasında məsafə necə nizamlanır?
+A) Table>Format... >Cell>Options… (Таблица>Формат…> Ячейка >Параметры…) 
+B) Format>Table…>Cell>Options…(Формат>Таблица…>Ячейка>Параметры…)
+C) Table>Table properties... >Table>Options… (Таблица>Свойства таблицы…>Таблица>Параметры…)
+D) Table>Table properties... >Column>Options… (Таблица>Свойства таблицы…>Столбец>Параметры…)
+E) Table>Table properties... >Row>Options… (Таблица>Свойства таблицы…>Строка>Параметры…)
+10. MS Word Abzaslar bir-birindən hansı bölmədən istifadə etməklə aralana bilər?
+A) Format>Paragraph... >İndents and Spacing (Формат>Абзац…>Отступы и интервалы)
+B) File>Page setup... > Character Spacing (Файл>Параметры страницы…> Интервал)
+C) Format>Paragraph... > Character Spacing (Формат>Абзац…> Интервал)
+D) Format>Font... >İndents and Spacing (Формат> Шрифт …>Отступы и интервалы)
+E) Format>Font... >Character Spacing (Формат>Шрифт…>Интервал)
+11. MS Word Yazıdakı şriftlər arası məsafə necə nizamlanır?
+A) Format>Paragraph... > Character Spacing (Формат>Абзац…> Интервал) 
+B) File>Page setup... > Character Spacing (Файл>Параметры страницы…> Интервал)
+C) Format>Paragraph... >İndents and Spacing (Формат>Абзац…>Отступы и интервалы)
+D) Format>Font... >İndents and Spacing (Формат> Шрифт …>Отступы и интервалы)
+E) Format>Font... >Character Spacing (Формат>Шрифт…>Интервал)
+12. MS Word Sənədin avtosurəti hansı genişlənmə ilə saxlanılır?
+A) *. doc 
+B) *. tmp
+C) *. dot
+D) *. wbk
+E) *. ptt
+13. MS Word Mətni daxil etmək üçün hansı rejimlər mövcuddur?
+A) İnsert (Введение) 
+B) A və C bəndi
+C) Overtype (Замена)
+D) C və E bəndi
+E) Print layout (Разметка страницы) 
+14. MS Word Klaviaturada olmayan simvolu klaviş kombinasiyası şəklində necə təqdim etmək olar?
+A) Insert>Symbol>Shortcut key… (Вставка>Символ>Сочетание клавиш…) 
+B) Insert>Symbol>Autocorrect (Вставка>Символ> Автозамена)
+C) Insert>Autotext >Autoformat as you type (Вставка> Автотекст >Автоформат при вводе)
+D) Insert >Autotext >Autocorrect (Вставка> Автотекст >Автозамена)
+E) Insert>Autotext>Shortcut key… (Вставка>Автотекст>Сочетание клавиш…)
+15. MS Word Abzasın birinci sətrinin əvvəlki səhifədə qalmasının qarşısını almaq üçün nə edilir?
+A) Format>Paragraph>İndents and Spacing>keep with next (Формат>Абзач>Отступы и интервалы>не отрываты от следующего) 
+B) Format>Paragraph>Line&Page breaks>window/orphan control (Формат>Абзач>Положение на странице>запрет висячих строк)
+C) Format>Paragraph>Line&Page breaks>page break before (Формат>Абзач>Положение на странице>с новой страницы)
+D) Format>Paragraph>İndents and Spacing> page break before (Формат>Абзач>Отступы и интервалы> с новой страницы)
+E) Format>Paragraph>Line&Page breaks >keep with next (Формат>Абзач> Положение на странице >не отрываты от следующего)
+16. MS Word mətn redaktorunda hazırlanmış sənəddə ola bilər 
+A) bütün cavablar doğrudur
+B) mətn
+C) düsturlar
+D) cədvəllər
+E) rəsmlər
+17. MS Word End düyməsi sıxıldıqda nə baş verir? 
+A) kursor mətnin sonunda yerləşdirilir 
+B) kursor cari səhifənin sonunda yerləşdirilir
+C) kursor cari sətrin sonunda yerləşdirilir
+D) cari sənəd bağlanır
+E) kursor sənədin sonunda uerləşir
+18. MS Word Hansı əməliyyat MS Word mətn redaktoru üçün xarakterik deyil? 
+A) Hesabatların aparılması
+B) sənədin fraqmentinin seçilməsi
+C) sənəddə hesabatlarin aparılması
+D) mətnin redaktə edilməsi
+E) mətnin çap edilməsi
+19. MS Word Klaviaturanın hansı düyməsi vasitəsilə kursoru sətrin sonuna aparmaq olar? 
+A) PageDown 
+B) PageUp
+C) End
+D) Ctrl
+E) Home
+20. MS Word mətn redaktorunu növbəti şəkildə yükləmək olar
+A) bütün cavablar doğrudur
+B) Başla(Start)menyusunun Bütün Proqramlar (All Programs) alt menyusundan seçməklə
+C) MS Word sənədlərinin biri üzərində mausun sol düyməsini sıxmaqla 
+D) Bələdçi(Explorer)pəncərəsindən winworD) exe faylını tapıb icra etməklə
+E) İş masasında Word ikonu üzərində mousun sol düyməsini sıxmaqla
+21. MS Word Home düyməsi sıxıldıqda nə baş verir? 
+A) kursor cari səhifənin əvvəlində yerləşdirilir 
+B) kursor cari sətrin əvvəlində yerləşdirilir
+C) kursor mətnin əvvəlində yerləşdirilir
+D) yeni sənədin yüklənməsi baş verir
+E) kursor sənədin əvvəlində yerləşdirilir
+22. MS Word Delete düyməsi nə üçün istifadə edilir? 
+A) kursorun sağındakı simvolu silmək üçün 
+B) mətnin əvvəlinə keçmək uçun
+C) kursorun solundakı simvolu silmək uçun
+D) bütün cavablar doğrudur
+E) sənədi silmək uçun
+23. MS Word BackSpace duyməsi nə uçun istifadə edilir?
+A) kursorun solundakı simvolu silmək uçun
+B) sətri silmək uçun
+C) kursorun sağındakı simvolu silmək uçun
+D) faylı silmək uçun
+E) kursoru bir simvol sağa suruşdurmək uçun
+24. MS Word Klaviaturanın hansı duyməsi vasitəsilə kursoru sətrin əvvəlinə gətirmək olar?
+A) Home
+B) Ctrl
+C) PageUp 
+D) PageDown
+E) End
+25. MS Word Mətndə dolaşmaq uçun istifadə etmək olar
+A) butun cavablar doğrudur
+B) ox duymələri
+C) Home və End duymələri
+D) PageUp vəPageDown duymələri
+E) maus
+26. MSWord mətn redaktoru yanlış əməliyyatların nəticəsini ləğv etmək uçun növbəti imkanları verir
+A) son 25 əməliyyatın nəticasini ləğv edir 
+B) yalnız ən son əməliyyatın nəticasini ləğv edir
+C) bir neçə əməliyyatın nıticəsini ləğv edir 
+D) yanlış əməliyyatların nəticasini ləğv etmir
+E) yalnız son 10 əməliyyatın nəticəsini ləğv edir
+27. MS Word mətn redaktorunda hazırlanmış sənəd faylda saxlanılır,hansı ki yerləşir... 
+A) butun cavablar doğrudur
+B) lokal sərt diskdə
+C) disketdə
+D) flash yaddaşda
+E) şəbəkə diskində
+28. İstifadəçi MS Word mətn redaktorunu idarə etmək olar... 
+A) butun cavablar doğrudur
+B) menyu əmrləri ilə
+C) alətlər panellərinin duymələri ilə
+D) təyin olunmuş qısa yol duymələri ilə
+E) kontekst menyusunun əmrləri ilə
+29. MS Word pəncərəsində... 
+A) Standart və Formatlaşdırma(Formatting)alətlər paneli mutləq olmalıdır 
+B) Standart alətlər paneli mutləq olmalıdır
+C) menyu sətri mutləq olmalidir 
+D) mövcud olan butun alətlər panelləri mutləq olmalıdır
+E) alətlər panellərindən hər hansı biri olmalıdır
+30. MS Word Mətnin fraqmenti nədir?
+A) butun cavablar doğrudur
+B) hər hansı bir söz
+C) hər hansı bir sətir
+D) simvollar ardıcıllığı
+E) hər hansı bir abzas
+31. MS Word Hansı əməliyyat mətnin redaktə edilməsinə aid deyil?
+A) fraqmentin silinməsi 
+B) fraqmentin tarazlaşdırılması
+C) fraqmentin dəyişdirilməsi
+D) fraqmentin köçurulməsi
+E) fraqmentin yerinin dəyişdirilməsi
+32. MS Word Hansı əməliyyat mətnin formatlaşdırılmasına aid deyil?
+A) təsvirin miqyasının seçilməsi
+B) yazı tipinin seçilməsi
+C) yazı uslubunun seçilməsi
+D) fraqmentin tarazlaşdırılması
+E) şriftin ölçusunun təyin olunması
+33. MS Word Mətində sözu seçmək uçun nə etmək lazımdır?
+A) sözun uzərində mausun sol duyməsini 2dəfə sıxmaq 
+B) sözun uzərində mausun sol duyməsini 1dəfə sıxmaq
+C) sözdən solda mausun sol duyməsini 1dəfə sıxmaq
+D) sözdən sonar mausun sol duyməsini 1dəfə sıxmaq
+E) sözun uzərində mausun sol duyməsini 2 dəfə sıxmaq
+34. MS Word Mətində sətri seçmək uçun nə etmək lazımdır?
+A) sətirdən solda mausun sol duyməsini 1 dəfə sıxmaq
+B) sətirdən sağda mausun sol duyməsini 1dəfə sıxmaq
+C) sətir uzərində mausun sol duyməsini 2dəfə sıxmaq
+D) sətir uzərində mausun sol duyməsini 1dəfə sıxmaq
+E) Butun cavablar doğrudur
+35. MS Word Sözn uzərində mausun sol duyməsini 2 dəfə sıxdıqda…
+A) soz seçilir
+B) sətir seçilir
+C) paraqraf seçilir
+D) sözdəki simvol seçilir
+E) butun mətn seçilir
+36. MS Word Mətnin fraqmentini köçurmə və yerini dəyişdirmə əməliyyatlarını necə yetirmək olar?
+A) butun cavablar doğrudur
+B) fraqmentin mausla surukləməklə
+C) alətlər panelindəki Kəs(cut),köçur(copy),yapışdır(pastE) duymələrindən istifadə etməklə
+D) redaktə(edit)menyusunun kəs,köçur,yapışdır əmrlərindən istifadə etməklə
+E) (Ctrl+X),(Ctrl+V),(Ctrl+V)qısa yol duymələrindən istifadə etməklə
+37. MS Word Mətnin fraqmentini göstərmək olar... 
+A) butun cavablar doğrudur
+B) tək sutun formasında
+C) bir neçə sutun formasında
+D) nömrələnmiş sətirlər formasında
+E) işarələnmiş sətirlər formasında
+38. MS Word mətn redaktorunun Miqyaslaşdır(ScalE) əmri vasitəsilə... 
+A) mətnin olduğu pəncərənin ölçulərini dəyişdirmək 
+B) pəncərədəki mətni böyudub kiçiltmək
+C) mətn sahəsini böyudub kiçiltmək 
+D) butun cavablar doğrudur
+E) seçilmiş fraqmentin ölçusunu dəyişdirmək
+39. MS Word mətn redaktoru sənədlərin diskdə avtomatik saxlanması uçun hansı imkanı verir
+A) sənədi yalnız 10 dəqiqədən bir avtomatik saxlaya bilir 
+B) sənədi diskdə avtomatik saxlaya bilmir
+C) əvvəlcədən təyin olunmuş istənilən vaxt intervalında sənədi avtomatik saxlaya bilir 
+D) sənədi yalnız hər 30 dəqiqədən bir avtomatik saxlaya bilir
+E) sənədi yalnız hər saatdan bir avtomatik saxlaya bilir
+40. Word sənədinin genişlənməsi hansıdır?
+A) DOC
+B) XLS
+C) BAT
+D) DAT
+E) TM
+41. Word proqramında Ctrl+A düymələri basıldıqda nə baş verir?
+A) Butun metni secir 
+B) Ancaq simvollari secir
+C) Bir sozu secir
+D) Secilmis hisseni secir
+E) Secilmis metni silir
+42. Word proqramında mətni bütünlüklə seçmək üçün hansı kombinasiyadan istifadə olunur?
+A) CTRL+A
+B) CTRL+V
+C) CTRL+X
+D) CTRL+F
+E) CTRL+C
+43. Düz mətn yazarkən ENTER düyməsinə basmaq Word üçün nə mənanı verər? (MS WorD) 
+A) Yeni paraqraf başı
+B) Sözlər arası boşluq 
+C) Yeni sütun başı
+D) Yeni səhifə başı
+E) Yeni sətir başı
+44. Sənəd üzərində seçili olan sahə klaviaturadan necə kəsilər? (MS WorD) 
+A) Ctrl+X
+B) Ctrl+V
+C) Ctrl+C
+D) Ctrl+Z
+E) Ctrl+S
+45. Yazıda seçili olan bir mətnin yazı tipi ölçüsü hansı ilə dəyişdirilə bilər? (MS WorD) 
+A) Siçanın sağ düyməsi və yazı tipi variantı
+B) Siçanın sağ düyməsi və kəs variant
+C) Əlavə et menyusu və Kəsmə variantı
+D) Siçanın sağ düyməsi və Paraqraf variantı
+E) Dəyişdirilə bilməz
+53. Word proqramında yeni mətn yaratmaq və yadda saxlamaq üçün menyunun hansı bəndindən istifadə olunur? (MS WorD) 
+A) File(файл) 
+A) İnsert(Вставка)
+B) Параметры word (parameters worD) 
+C) Correction (Правка)
+D) Format (формат)
+54. Mətnin bir hissəsini digər bir yerdə də təkrarlamaq üçün hansı əmrdən istifadə edilir? (MS WorD) 
+A) Copy(Ctrl+C) + Paste(Ctrl+V)
+B) Shift+Paste(Ctrl+V))
+C) Ctrl+Shift
+D) Alt+Shift
+E) Ctrl+Alt
+55. Word proqramında mətni başqa adla yadda saxlamaq üçün hansı əmrdən istifadə olunur? (MS WorD) 
+A) Save As (Сохранить как)
+B) Save (Сохранить)
+C) Prepare (подготовить)
+D) Closed (закрыто)
+E) Create (создать)
+56. Word proqramında səhifənin parametrlərini nə vaxt dəyişmək olar? (MS WorD) 
+A) Sənəd oxuma rejimində açılmayıbsa
+B) İstənilən vaxt
+C) Heç vaxt
+D) Dəyişmək olmaz
+E) Səhifə oxuma rejimində açılıbsa
+57. Ekranda eyni zamanda 2 və daha çox Word sənədləri görmək olarmı? (MS WorD) 
+A) Olar
+B) Olmaz
+C) Ancaq 2 dənə olarsa
+D) Əgər bir dəfədən artıq dəyişiklik olmayıbsa
+E) Olar, əgər qrafiklər olmasa
+58. Cədvəlin yanaşı xanalarını nə cür birləşdirmək mümkündür? (MS WorD) 
+A) Merge Cells (Объединить ячейки)
+B) Split Cells (Разбить ячейки)
+C) Split Table (Разбить таблицу)
+D) Autofit (Автоподбор)
+E) İnsert the top (Вставить сверху)
+59. Word proqramında ingilis dilindəki mətndə orfoqrafik səhvlərin yoxlanılması üçün ilkin olaraq nə etmək lazımdır (MS WorD) 
+A) F7-ə klik etmək lazımdır
+B) F5-ə klik etmək lazımdır
+C) F2-ə klik etmək lazımdır
+D) F1-ə klik etmək lazımdır
+E) F4-ə klik etmək lazımdır
+60. Word proqramında mübadilə buferindəki (clipboard/буфер обмена) mətni neçə dəfə istifadə etmək olar? (MS WorD) 
+A) İstənilən qədər
+B) Bir dəfə
+C) İki dəfə
+D) Üç dəfə
+E) Beş dəfə
+61. Mətndə sözün altında qırmızı dalğalı xətt çəkilmişdirsə (MS WorD) 
+A) Bu sözün İngilis dilinə uyğun olmadığını göstərir
+B) Text color(Цвет текста)-dan qırmızı rəng verilmişdir. 
+C) Color underscore (Цвет подчеркивание)-dan qırmızı rəng verilmişdir
+D) Sözün səhv olduğunu göstərir
+E) Bu sözün Azərbaycan dilinə uyğun olmadığını göstərir
+62. Word proqramından istifadə edərək sadə veb-səhifə yaratmaq olarmı? (MS WorD) 
+A) Olar
+B) Olmaz
+C) Olar, ancaq çap rejimində
+D) Olar, ancaq Word 2003-də
+E) Olar, ancaq Word 2007-də
+63. Mətndəki bir sözü nə cür seçmək olar? (MS WorD) 
+A) Shift düyməsi ilə və ya sözün üzərində mouse-un sol düyməsinə 2 dəfə vuraraq
+B) Ctrl düyməsi ilə və ya sözün üzərində mouse-un sol düyməsinə 2 dəfə vuraraq
+C) Alt düyməsi ilə və ya sözün üzərində mouse-un sol düyməsinə 2 dəfə vuraraq
+D) Ctrl+Shift kombinasiyası ilə
+E) Alt+Shift kombinasiyası ilə
+64. Kursordan sağda yerləşən simvolu pozmaq üçün klaviaturanın hansı düyməsini basmaq lazımdır? (MS WorD) 
+A) Delete
+B) Backspace
+C) Ctrl+Backspace
+D) Alt+Backspace
+E) End
+65. Kursordan solda yerləşən simvolu pozmaq üçün klaviaturanın hansı düyməsini basmaq lazımdır? (MS WorD) 
+A) Backspace
+B) Delete
+C) Ctrl+Backspace
+D) Alt+Backspace
+E) End
+66. Sənədə hiperkeçid yerləşdirmək üçün nə etmək lazımdır? (MS WorD) 
+A) İnsert (Вставить)-Hyperlink (Гиперссылка)
+B) İnsert (Вставить)- Bookmark (Закладка)
+C) İnsert (Вставить)-Сross-reference(Перекрестная ссылка)
+D) Reference(ссылки)- İnsert link (Вставить ссылку)
+E) Reference(ссылки)- İnsert the name (Вставить название)
+67. Word proqramında yazılmış mətnin bütün şriftlərinin ölçüsünün eyni zamanda dəyişdirmək üçün nə etmək lazımdır? (MS WorD) 
+A) Bütün mətni seçmək və sonra şrifti dəyişmək
+B) Sadəcə şrifti dəyişmək lazımdır
+C) Dəyişmək olmur
+D) Times New Roman seçib və sonra şrifti dəyişmək
+E) Ctrl+V və sonra şrifti dəyişmək
+68. Word proqramında Ctrl+A düymələri basıldıqda nə baş verir? (MS WorD) 
+A) Bütün mətni seçir
+B) Bütün mətni silir
+C) Heç nə baş vermir
+D) Faylı yaddaşa verir
+E) Mətndə səhvləri tapır
+69. Orfoqrafik səhvlər hansı xətlə qeyd olunur? (MS WorD) 
+A) Sözün altından qırmızı dalğalı xətlə
+B) Sözün altından qara dalğalı xətlə
+C) Sözün altından yaşıl dalğalı xətlə
+D) Sözün altından göy dalğalı xətlə
+E) Sözün altından sarı dalğalı xətlə
+70. Şəkili işləmək üçün hansı alətlər panelindən istifadə etmək lazımdır? (MS WorD) 
+A) İnsert-Picture (вставить-картина)
+B) İnsert-clip (вставить- kлип)
+C) İnsert - figures (вставить -Фигуры)
+D) İnsert –Smartart (вставить -Смартарт)
+E) İnsert-chart (вставить-Диаграмма)
+71. Şəkilin hündürlüyünü dəyişmədən enini dəyişmək olarmı? (MS WorD) 
+A) Olar
+B) Olmaz
+C) Ümumiyyətlə eni dəyişmək olmaz. 
+D) Şəkilin eni 1 sm-dən çoxdursa dəyişmək olar
+E) Şəkilin eni 1 sm-dən çoxdursa dəyişmək olmaz. 
+72. Word proqramında CTRL+Enter düymələri basıldıqda nə baş verir? (MS WorD) 
+A) Başa yeni bir səhifə əlavə edir. 
+B) Kursoru səhifənin əvvəlinə qaytarır. 
+C) Kursoru səhifənin sonuna aparır. 
+D) Heç bir funksiya yerinə yetirmir. 
+E) Yeni bir word faylı yaradır
+74. Sətiri cədvəldən hansı yolla pozmaq olar? (MS WorD) 
+A) Seçmək və klaviaturanın BackSpace düyməsini basmaqla 
+B) Seçmək və klaviaturanın Delete düyməsini basmaqla
+C) Seçmək və klaviaturanın Alt+Delete düymələrini basmaqlA) 
+D) Seçmək və kəsib mübadilə buferinə atmaqla . 
+E) Heç bir yolla silmək olmur. 
+75. Cədvəlin sütununun enini dartmaqla dəyişmək mümkündür (MS WorD) 
+A) Siçanın sol düyməsi ilə. 
+B) Siçanın sağ düyməsi ilə
+C) Klaviaturanın Alt düyməsini siçanın sol düyməsi ilə birgə basmaqla
+D) Klaviaturanın Alt düyməsini siçanın sağ düyməsi ilə birgə basmaqlA) 
+E) Mümkün deyil
+76. Sənədin ən böyük miqyası nə qədərdir? (MS WorD) 
+A) 500 %
+B) 600 %
+C) 400%
+D) 1000%
+E) 300%
+77. Sənədin ən kiçik miqyası nə qədər ola bilər? (MS WorD) 
+A) 10%
+B) 50%
+C) 0%
+D) 20%
+E) 50%
+78. Word proqramında kursor cədvəlin son xanasında olarsa, cədvələ yeni sətrin əlavə olunması üçün hansı düymədən istifadə etmək lazımdır? (MS WorD) 
+A) Tab
+B) Alt
+C) Ctrl
+D) Shift
+E) Backspace
+89. MS Word-də View / Zoom (Вид / Масштаб) əmrinin icrası ilə mətnin görünüşünün 200%- dək artırılması mətnin çapı zamanı şriftin ölçüsünə necə təsir edir? (MS WorD) 
+A) şriftin ölçüsü dəyişilmir 
+B) şriftin ölçüsü 2 dəfə azalır
+C) şriftin ölçüsü 2 dəfə artır
+D) şriftin ölçüsü 200 pt olur
+E) şriftin ölçüsü 200 pt artır 
+90. MS Word-də mətnin abzasın birinci simvolunun böyük ölçüdə - bir neçə sətirdə olmasını təmin etməklə, səhifəyə xüsusi forma verilməsi hansı əmrlə yerinə yetirilir? (MS WorD) 
+A) Format / Drop Cap (Формат / Буквица)
+B) Insert / Text Box (Вставка / Надпись)
+C) Format / Text Direction (Формат / Направление текста)
+D) Insert / Object (Вставка / Объект) 
+E) Format / Style (Формат / Стиль)
+91. PowerPoint Slaydın carı düzənini başqa bir düzənlə əvəz etmək üçün ən qısa yol hansıdır?
+A) Düzənini dəyişmək istədiyiniz slaydın üzərində siçanın sağ düyməsini klikləmək və kursoru Düzən-in üzərinə gətirmək. 
+B) Ev tab vərəqində Yeni Slayd düyməsinin aşağı hissəsini klikləmək. 
+C) Редактирование(editing) bölümündən Заменить(substitutE) bölümünü seçmək 
+D) Стиль(stylE) bölümündən istifadə etməklə
+E) Рисование (drawing) bölümündən экспресс стиль (express stylE) bölümünü seçmək 
+92. PowerPoint Siz mövzunu tətbiq etdikdə, o həmişə prezentasiyadakı hər bir slayda tətbiq olunur?
+A) Doğru deyil. 
+B) Doğrudur. 
+C) Sadəcə tək nömrəli slaydlara əlavə olunur
+D) Sadəcə cüt nömrəli slaydlara əlavə olunur
+E) Sadəcə birinci slayda əlavə olunur. 
+93. PowerPoint pəncərəsində slaydın kontentini daxil etmək üçün əsas sahə hansıdır?
+A) Pəncərənin mərkəzində slayd paneli. 
+B) Qeydlər paneli. 
+C) Pəncərənin solunda slaydın rəsmçiklərinin yerləşdirildiyi Slaydlar tab vərəqi. 
+D) Pəncərənin aşağısında yerləşən Тема office (Subject officE) bölümünə klik etməklə
+E) Klaviaturadan Ctrl+H düyməsindən stifadə etməklə
+94. PowerPoint Yeni slayd əlavə edərkən, siz əvvəlcə onun üçün düzəni necə seçirsiniz?
+A) Ev tab vərəqində Yeni Slayd düyməsinin aşağı hissəsini (ox olan hissəsini) klikləməklə. 
+B) Ev tab vərəqində Yeni Slayd düyməsinin yuxarı hissəsini klikləməklə. 
+C) Slaydlar tab vərəqində slayd rəsmçiyinin üzərində siçanın sağ düyməsini sonra isə Yeni Slayd düyməsini klikləməklə. 
+D) Ev tab vərəqində istənilən bir düyməyə klik etməklə
+E) Fayl bölməsindən Открыть (open) və ordan da yeni slayda klik etməklə
+95. PowerPoint Slaydlar hansı növ yaddaşda saxlanılır?
+A) sabit 
+B) əməli 
+C) xarici
+D) keş 
+E) cavabların hamsı səhvdir 
+96. PowerPoint Slaydlar hazırlanan zaman hansı növ yaddaşda da saxlanılır?
+A) sabit 
+B) əməli 
+C) xarici 
+D) keş 
+E) cavabların hamsı səhvdir 
+97. İlk PowerPoint proqramı yaradılmışdır. 
+A) 1987-ci ildə
+B) 1985–ci ildə
+C) 1997–ci ildə
+D) 1995–ci ildə 
+E) cavabların hamsı səhvdir
+98. PowerPoint Təqdimat faylı təşkil edilir 
+A) slayd ilə
+B) vərəq ilə
+C) cədvəl ilə 
+D) sənəd ilə 
+E) cavabların hamsı səhvdir 
+99. PowerPoint Təqdimat faylın neçə slayddan təşkil edilə bilər? 
+A) cavabların hamsı səhvdir 
+B) 3
+C) 25
+D) bir neçə 
+E) 1
+100. PowerPoint proqramının pəncərəsi neçə əsas hissədən ibarətdir?
+A) 7 
+B) 4 
+C) 5 
+D) 6 
+E) 3
+101. PowerPoint proqramının pəncərəsinə aid deyildir?
+A) Məsələlər paneli. 
+B) Alətlər paneli 
+C) İşçi və ya redaktə sahəsi 
+D) Məsələlərə çevik müraciət paneli
+E) Menyu sətri 
+102. PowerPoint Slaydın məzmununa aid deyil
+A) Riyazi və məntiqi ifadələr 
+B) Rəsm və qrafika
+C) Adio və video-təsvirlər
+D) Mətn və diaqramm
+E) Animasiya və effekt
+103. PowerPoint sistemində təqdimat faylarının tipi
+A) ppt 
+B) xls 
+C) doc
+D) mdb 
+E) htm . 
+104. PowerPoint sistemi hansı növ proqram təmintına daxildir
+A) Sistem proqram təminatı 
+B) Əməliyyat sistemi 
+C) Tətbiqi proqram təminatı 
+D) Iinstrumental proqram vasitələri 
+E) Cavabların hamısı düzdür
+105. PowerPoint proqramında Təqdimat yaratma menyusunda təqdimatın təşkili üsuludur 
+A) Cavabların hamısı düzdür 
+B) Tərtibat şablonundan seçmə
+C) Avtoməzmun masterindən seçmə
+D) Yeni təqdimat
+E) Mövcud təqdimatlardan seçmə
+106. PowerPoint proqramında File/Save as (Fayl/Necə saxlamaq) əmrindən istifadə etməklə yerinə yetirmək olmur?
+A) slaydın səhifə parametrlərini 
+B) faylın yerini dəyişdirmək
+D) faylın tipini dəyişdirmək
+C) faylın adını dəyişdirmək
+E) faylın açılması üçün parol təyin etmək. 
+107. PowerPoint proqramında File (Fayl) menyusunun əmrlərindən istifadə edrək yerinə yetirmək olmur?,
+A) Təqdimat faylına yeni obyektlərin əlavə olunması 
+B) Təqdimat slaydının səhifə parametrlərin təyin edilməsi, 
+C) Təqdimat faylının axtarışın, çapa, müxtəlif ünvan və qurğulara göndərilməsini, 
+D) Təqdimat faylının yaradılmasını və bağlanmasını
+E) Təqdimat faylının xassələrinin dəiydirilməsini 
+108. Microsoft PowerPoint proqramının slayd ilə iş rejimlərinin sayı 
+A) 3 
+B) 4 
+C) 5 
+D) 6 
+E) 7. 
+109. Microsoft PowerPoint proqramının slayd ilə iş rejimi deyildir
+A) Nümayiş etdirmə rejimlərinə malikdir. 
+B) Nizamlama, 
+C) Çap etmə 
+D) Adi (slayd hazırlamA) ,
+E) Cavabların hamısı düzdür
+110. Microsoft PowerPoint proqramında slaydın əsas sloydlarının sayı 
+A) Hec biri 
+B) 4 
+C) 5 
+D) 6 
+E) 8. 
+111. Microsoft PowerPoint proqramında Şablon nə üçün istifadə edilir? 
+A) Təqdimatın xarici görünüşü 
+B) Slaydların ardıcıllığı 
+C) Slaydların çapi 
+D) Slaydlarla iş rejimləri 
+E) Cavabların hamısı düzdür
+112. PowerPoint proqramında Insert (Əlavə etmək) menyusunun əmrlərindən istifadə edrək yerinə yetirmək olmur?,
+A) yeni slyad yaratmaq və cari slyadı dublləşdirmək
+B) slayda nömrə, tarix və vaxt əlavə etmək, 
+C) slaydın səhifə parametrlərini dəyişdirmək 
+D) slayda sxematik və adi diaqram, mətn qutusu, cədvəl, fayl, obyekt, simvol, rəsm əlavə etmək
+E) slayda hiperəlaqələr əlavə etmək
+113. PowerPoint proqramında slaydın bir obyektinə neçə animasiya effekti tətbiq etmək olar?
+A) cavabların hamsı səhvdir 
+B) 3
+C) 25
+D) bir neçə 
+E) 1
+114. PowerPoint proqramında obyektə tətbiq edilən animasiya effektləri neçə qrupa bölünür
+A) 4 
+B) 7 
+C) 5 
+D) 6 
+E) 3. 
+115. PowerPoint proqramında obyektə tətbiq edilən animasiya effektləri qrupuna daxil deyildir
+A) Yerdəyişmə yolu 
+B) Çıxış
+C) Seçilmə 
+D) Keçid
+E) Giriş
+116. PowerPoint proqramında Çıxış qrupuna daxil olan animasiya effektləri təyin edir
+A) animasiyalı obyektin slaydda itməsi (yox olması) üsullarını 
+B) animasiyalı obyektin slaydda əmələ gəlməsi (ortaya çıxması) üsullarını
+C) obyektə toxunduqda baş verən dəyişikləri
+D) slaydların bir- birini əvəz etməsi üsullarını
+E) obyektin slaydda tarektoriyasını
+117. PowerPoint proqramında Giriş qrupuna daxil olan animasiya effektləri təyin edir
+A) animasiyalı obyektin slaydda əmələ gəlməsi (ortaya çıxması) üsullarını
+B) animasiyalı obyektin slaydda itməsi (yox olması) üsullarını
+C) obyektə toxunduqda baş verən dəyişikləri
+D) slaydların bir- birini əvəz etməsi üsullarını
+E) obyektin slaydda tarektoriyasını 
+118. PowerPoint proqramında Seçilmə (fərqlənmə) qrupuna daxil olan animasiya effektləri təyin edir
+A) obyektə toxunduqda baş verən dəyişikləri 
+B) animasiyalı obyektin slaydda itməsi (yox olması) üsullarını
+C) animasiyalı obyektin slaydda əmələ gəlməsi (ortaya çıxması) üsullarını
+D) slaydların bir- birini əvəz etməsi üsullarını
+E) obyektin slaydda tarektoriyasını 
+119. PowerPoint proqramında Keçid effektləri təyin edir
+A) obyektin slaydda tarektoriyasını 
+B) animasiyalı obyektin slaydda itməsi (yox olması) üsullarını
+C) obyektə toxunduqda baş verən dəyişikləri
+D) slaydların bir- birini əvəz etməsi üsullarını
+E) animasiyalı obyektin slaydda əmələ gəlməsi (ortaya çıxması) üsullarını
+120. Microsoft PowerPoint proqramının slaydların nümayişi rejimlərinin sayı 
+A) 4 
+B) 2 
+C) 3 
+D) 6 
+E) 1
+121. Microsoft PowerPoint proqramının slaydların nümayişi rejimi deyildir
+A) Cavabların hamısı düzdür 
+B) Nümayişıin istifadəşilər tərəfindən idarə olunması 
+C) Təqdimatın proyekor vasitəsi ilə etdirilməsi 
+D) Təqdimatın avtomatik nümayiş etdirilməsi 
+E) Nümayişıin məruzəçi tərəfindən idarə olunması
+122. Microsoft PowerPoint proqramının slaydların nümayişi hansı funksional düymə ilə başlanır? deyildir
+A) F5
+B) F4 
+C) F3 
+D) F2 
+E) F1
+123. Microsoft PowerPoint proqramında Nümayişin dayandırılması/davamı üçün istifadə olunan “qaynar”düymə 
+A) Ctrl+"P"
+B) "S", "+" 
+C) Ctrl+"A"
+D) "В"
+E) "А"
+124. PowerPoint F5 düyməsi ilə təqdimatın nümayişi hansı slayddan başlanır?
+A) Birinci 
+B) Cari
+C) Növbəti
+D) Əvvəlki
+E) Cavabların hamısı səhvdir. 
+125. Microsoft PowerPoint proqramında bütün verilənlərin seçilməsi üçün istifadə olunan “qaynar”düymə 
+A) Ctrl+"A"
+B) "S", "+" 
+C) Ctrl+"P"
+D) "В"
+E) "А"
+126. Microsoft PowerPoint proqramında “köçürməni“ əvəz edən “qaynar”düymə 
+A) Ctrl+"C"
+B) "S", "+" 
+C) Ctrl+"A"
+D) "В"
+E) "А"
+127. Microsoft PowerPoint proqramında “əlavə et“ əvəz edən “qaynar”düymə 
+A) Ctrl+"V"
+B) "S", "+" 
+C) Ctrl+"C"
+D) Ctrl+"A"
+E) "А"
+128. Microsoft PowerPoint proqramında “yadda saxla“-nı əvəz edən “qaynar”düymə 
+A) Ctrl+"S"
+B) Ctrl+"A"
+C) Ctrl+"C"
+D) Ctrl+"V"
+E) Ctrl+"H" 
+129. MS POWER POINT faylları hansı genişlənməyə malikdir? (MS Power Point)
+A) Ppt, pps
+B) doc, docx
+C) xls
+D) dbm
+E) txt
+130. Yeni slayd əlavə etmək üçün hansı menyudan istifadə olunur? (MS PowerPoint)
+A) Ctrl+N
+B) Ctrl+M
+C) Ctrl+C
+D) Ctrl+E
+E) Ctrl+H
+131. PowerPoint proqramının təyinatı nədir? (MS Power Point)
+A) Reklam, prezentasiya hazırlamaq və təqdim etmək
+B) Kompüterdə yazı yazmaq və tənzimləmələr etmək
+C) Hesablama etdirmək və cədvəl meydana gətirmək
+D) Şəkil çəkmək
+E) Bazalar yaratmaq
+132. Power pointdə mətnlər hara yazılar? (MS Power Point)
+A) Düzbucaqlı şəkli çəkib içərisinə
+B) Kvadrat çəkib içərisinə
+C) Mətn qutusu əlavə edib içərisinə
+D) Slayda dirək yazırıq
+E) Yazmaq olmur. 
+133. Slaydlarda istifadə edilə biləcək musiqi formatı hansıdır? (MS Power Point)
+A) Mp3 
+B) Wav
+C) Ovu
+D) Bmp
+E) Mp4
+134. Slayd sıralayıcısı görünüşündəykən slayd necə silinər? (MS Power Point)
+A) Slayd seçilər Delete düyməsinə basılar. 
+B) Slayd Görünüşündə Slayd silinməz. 
+C) Slayd seçilər kopyala əmri verilərək silinər. 
+D) Slayd seçilər Backspace düyməsinə basılar. 
+E) Heç biri düz deyil. 
+135. Power pointdə slaydlara tarix və saat necə əlavə olunar? (MS Power Point)
+A) İnsert (Вставка)- Date and time(Дата и время)
+B) View (Вид)- Date and time(Дата и время)
+C) Design(Дизайн)- Date and time(Дата и время)
+D) File (Файл)- Date and time(Дата и время)
+E) Storyboard (Раскадровка)- Date and time(Дата и время)
+136. Power Pointdə cədvəl gətirmək və onun formatlaşdırmaq olar? (MS Power Point)
+A) Olar
+B) Olmaz
+C) Olar, ancaq gərək Wordlə əlaqələndirilməlidir. 
+D) Olar, ancaq gərək Excellə əlaqələndirilməlidir. 
+E) Gətirmək olar, amma formatlaşdırmaq olmaz
+137. Power Pointdə orfoqrafik səhvlər necə tapılır? (MS Power Point)
+A) Reviewing (Рецензирование)- Spelling (Орфография)
+B) İnsert (Вставка)- Spelling (Орфография)
+C) View (Вид)- Spelling (Орфография)
+D) Storyboard (Раскадровка)- Spelling (Орфография)
+E) File (Файл)- Spelling (Орфография)
+138. Power Pointdə slaydlara vaxt necə qoyulur? (MS Power Point)
+A) Animation (Анимация)- Automatically after (Автоматически после)
+B) Design (Дизайн)- Automatically after (Автоматически после)
+C) İnsert (Вставка)- Automatically after (Автоматически после)
+D) File (Файл)- Automatically after (Автоматически после)
+E) Slideshow (Показ слайдов)- Automatically after (Автоматически после)
+139. Excel çalışma kitabında sütun ilə sətırın birləştiyi hissəyə verilən ad hansıdır?
+A) Xana 
+B) Sətır 
+C) Sütun 
+D) Hisse
+E) Bölmə 
+140. Excel Bir xananın içinde  işaresi varsa bunun anlamı nədir?
+A) Xana kiçikdir 
+B) Formula sehvi 
+C) İş sehvi 
+D) Xana seçilmişdir
+E) Xanada hərflər çoxdur. 
+141. Excel-də Aşağıdakılardan hansi ilə avtomatik toplama aparılır?
+A) Σ 
+B) fx 
+C) % 
+D) Общий(general) 
+E) Heçbiri
+142. Excel’də şərtə bağlı işləm edən funksiya aşağıdakılardan hansıdır?
+A) =Əgər 
+B) =Ortalama 
+C) =Min 
+D) =Topla 
+E) =Max
+143. Excel’dəki bir cədvəldə ən böyük qiyməti verən funksiya aşağıdakılardan hansıdır?
+A) =Max 
+B) =Topla 
+C) =Əgər 
+D) =Min 
+E) =Ortalama
+144. Excel’dəki bir cədvəldə ən kiçik qiyməti verən funksiya aşağıdakılardan hansıdır?
+A) =Min 
+B) =Max 
+C) =Əgər 
+D) =Topla 
+E) =Ortalama 
+147. Excel-də Vurma işarəsi aşağıdakılardan hansıdır?
+A) * 
+B) :
+C) + 
+D) / 
+E) ^
+148. Excel-də Bölmə işarəsi aşağıdakılardan hansıdır?
+A) / 
+B) :
+C) + 
+D) * 
+E) ^
+149. Excel-də Toplama işarəsi aşağıdakılardan hansıdır?
+A) + 
+B) :
+C) / 
+D) * 
+E) ^
+150. Excel-də Çıxma işarəsi aşağıdakılardan hansıdır?
+A) - 
+B) / 
+C) + 
+D) * 
+E) ^
+159. Excel-de sayfaya sətir əlavə etmək üçün ardıcıllıq necədir?
+A) Sətir nomrəsinin üzərində sağ düymə-Sətr əlavə Et
+B) Fayl-Sətr əlavə et
+C) Əlavə et meyusundan-Əlavə et
+D) Formula-əlavə et
+E) Ctrl+L
+160. Excel-de sayfaya sütun əlavə etmək üçün ardıcıllıq necədir
+A) Sütun hərifinin üzərində sağ düymə-Sütun əlavə Et
+B) Fayl-Sətr əlavə et
+C) Əlavə et meyusundan-Əlavə et
+D) Formula-əlavə et
+E) Ctrl+H
+161. Excel programı ilə əlaqədar aşağıdaki bilgilərdən hansı səhvdir ?
+A) Excel səyfəsində sətır və sütun sayı bərabərdir
+B) Sətırlar hərflərlə ifadə ediləbilir
+C) Sütunlar rəqəmlərlə ifade edilebilir
+D) Sütunla sətirin birləşməsindən yaranan hissəyə xana deyilir. 
+E) Excel səhifəsinə fiqur gətirmək olur
+165. MS Excel-də nisbi ünvanı mütləq ünvana çevirmək üçün hansı simvoldan istifadə edilir?
+A) $ 
+B) & 
+C) # 
+D) % 
+E) @
+166. MS Excel-də düsturu yazmağa başlayarkən hansı simvoldan istifadə edilir?
+A) =
+B) =
+C) % 
+D) +
+E) heç bir simvoldan istifadə edilmir 
+169. Excel-də =B4+B5+B6+B7 cəminin alternative aşağıdakilardan hansıdır?
+A) =Topla(B4B7)
+B) =Topla(B4,B7)
+C) =Topla(B4B7)
+D) Heçbiri 
+E) =Topla(B3B8)
+170. Excel-də Aşağıdakilardan hansı formul ola bilməz?
+A) A1+B1
+B) =A1+B1
+C) =(A1+B1)
+D) =TOPLA(A1B1) 
+E) =MAK(A1B1)
+171. Excel-də A5 nəyi təmsil edər?
+A) A sütunu – 5. Sətir 
+B) 5. Sətiri
+C) A sütunu
+D) A sətiri – 5. Sütunu
+E) A sətiri 
+172. Excel-də (A1A7) nəyi təmsil edər?
+A) A1 dən A7 yə kimi olan xanaları 
+B) A1 və A7 xanalarını
+C) A1 və A7 xanalarından kenardakıları
+D) A1-ə kimi və A7-dən sonrakı xanaları
+E) A2-dən A6-ya kimi olan xanaları
+173. Excel-də qüvvətə yüksəlmə aşağıdakilardan hansıdır?
+A) ^ 
+B) :
+C) + 
+D) * 
+E) ;
+174. Excel-də Aşağıdakilardan hansında xana adi düzgün yazılmışdır?
+A) A1 
+B) AB
+C) 1A 
+D) A
+E) A1B
+175. Excel-də kökalma aşağıdakilardan hansıdır?
+A) =sqrt()
+B) sqrt()
+C) QRT
+D) =SRT
+E) =ABS() 
+180. Hansı proqram təminatı Microsoft Office paketinin tərkibinə daxildir?
+A) SQL Server
+B) Promt 
+C) Visual FoxPro
+D) Power Point 
+E) Yuxarıda sadalananların heç biri
+181. MS Excel-də düsturu yazmağa başlayarkən hansı simvoldan istifadə edilir? (MS Excel)
+A) =
+B) =
+C) % 
+D) #
+E) heç bir simvoldan istifadə edilmir 
+182. MS Excel-də nisbi ünvanı mütləq ünvana çevirmək üçün hansı simvoldan istifadə edilir? (MS Excel)
+A) $ 
+B) & 
+C) #
+D) % 
+E) @
+184. Elektron cədvəlləri yaratmaq üçün hansı proqramdan istifadə olunur? (MS Excel)
+A) MS Excel
+B) MS Word
+C) MS Power Point
+D) MS Accsess
+E) MS Outlook
+185. Excel proqramında kitabın bir neçə ardıcıl vərəqini necə seçmək olar? (MS Excel)
+A) Ctrl basılı tutularaq seçmək olar
+B) Alt basılı tutularaq seçmək olar
+C) Shift basılı tutularaq seçmək olar
+D) Home basılı tutularaq seçmək olar
+E) Tab basılı tutularaq seçmək olar
+186. Excel proqramında funksiyalarda xanalar intervalını göstərmək üçün hansı işarədən istifadə edilir? (MS Excel)
+A) Nöqtəli vergül
+B) Nöqtə
+C) Vergül
+D) İki nöqtə 
+E) Heç bir işarədən
+188. Oyuqda tarix yazarkən gün, ay və ili hansı simvolla ayırmaq lazımdır? (MS Excel)
+A) Nöqtə işarəsi ilə
+B) Vergül işarəsi ilə
+C) Nöqtəli vergül işarəsi ilə
+D) İki nöqtə işarəsi ilə
+E) Ulduz işarəsi ilə
+189. Excel proqramında Enter düyməsini basmaqla hansı xanaya keçmək olar? (MS Excel)
+A) Altdakı xanaya
+B) Yuxarıdakı xanaya
+C) Sağdakı xanaya
+D) Soldakı xanaya
+E) Heç bir xanaya
+190. Excel proqramındaki mətni Word proqramına necə keçirmək olar? (MS Excel)
+A) Hyperlink qoymaqla
+B) doc-u silib, . xls etməklə
+C) Keçirmək olmur. 
+D) SmartArt-dan istifadə etməklə
+E) Diqaramdan istifadə etməklə
+191. Excel proqramında xanalardakı mətnləri hansı istiqamətlərdə yazmaq olar? (MS Excel)
+A) Sağdan sola
+B) Soldan sağa
+C) Aşağıdan yuxarı
+D) Yuxarıdan aşağı
+E) Çarpaz istiqamətdə
+193. Hansı funksiyanın köməyi ilə A1-in B1-ə nisbətinin qiymətini hesablamaq olar? (MS Excel)
+A) Divide funksiyası
+B) Sum funksiyası
+C) İf funksiyası
+D) Sumif funksiyası
+E) Truth funksiyası
+194. Düstur sətirində yazılmış =SUM(В2В4) ifadəsi nəyi hesablayır? (MS Excel)
+A) B2, B3 və B4 xanalarının cəmi
+B) B3 və B4 xanalarının cəmi
+C) B2 və B4 xanalarının cəmi
+D) B2, B3 və B4 xanalarının hasilini
+E) B2 xanasının B4 xanasına hasilini
+196. =TOPLA (A1 A3 A7) düsturunun açılışı nədir? (MS Excel)
+A) A1+A2+A3+A7
+B) A1 
+C) A1+A3+A7
+D) A3+A2
+E) A1+A2+A3+A4+A5+A6+A7
+197. =Average(B1B5) funksiyasının nəyi ifadə edir? (MS Excel)
+A) B1-dən B5-ə qədər olan xanaların ortalamasını tapır
+B) B1 xanasındakı ədədin B5 xanasındaki ədədə vurar
+C) B1 xanasındakı ədədin B5 xanasındaki ədədə bölər
+D) B1 və B5 xanalarının ortalamasını tapır. 
+E) B1-dən B5-ə qədər olan xanaların cəmini tapır
+198. C3 Hüceyrəsində işçininn maaşı var. Buna görə işçinin maaşının %15%-ini hesablayan düstur aşağıdakılardan hansıdır? (MS Excel)
+A) =C3*15%
+B) =C3*15
+C) C3*15
+D) =C3*1,5
+E) C3*15%
+199. Aşağıdakı işarələrdən hansı Excel də bərabər deyil mənasını verər? (MS Excel)
+A) <>
+B) ><
+C) <
+D) >=
+E) <=
+200. C8 xanasını sabit xana olaraq ifadə edən variant aşağıdakılardan hansıdır? (MS Excel)
+A) $C$8
+B) $8$C
+C) $C8$
+D) *C*8
+E) *8*C

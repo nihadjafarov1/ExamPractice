@@ -1,0 +1,1813 @@
+1. Qiyməti rəqəmlərlə ifadə olunan verilənlər tipidir:
+A) hesabi
+B) mətn 
+C) şərti 
+D) göstərici 
+E) məntiqi
+2. Qiyməti işarələr qrupu ilə ifadə olunan verilənlərin tipidir:
+A) mətn 
+B) şərti 
+C) hesabi 
+D) göstərici 
+E) məntiqi
+3. Qiyməti true/false kəmiyyətləri ilə ifadə olunan verilənlərin tipidir:
+A) məntiqi 
+B) şərti 
+C) hesabi 
+D) göstərici 
+E) mətn
+4. Proqramlaşdırmada yaddaş ünvanları ilə işləmək üçün hansı tip verilənlərdən istifadə olunur?
+A) göstərici 
+B) məntiqi 
+C) hesabi 
+D) şərti 
+E) mətn
+5. Hesabi verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) rəqəmlərlə 
+B) simvollarla 
+C) mətnlə 
+D) məntiqi kəmiyyətlə 
+E) ünvanla
+6. Məntiqi verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) true/false 
+B) bit 
+C) və/və ya 
+D) rəqəm/ədəd 
+E) simvol
+7. Mətn tipli verilənlərdə qiymətlər nə ilə ifadə olunur?
+A) simvollarla 
+B) təsvir 
+C) ədəd 
+D) məntiqi kəmiyyət 
+E) rəqəm
+8. Aşağıdakılardan hansı verilənlərin tipinə aid deyil?
+A) şərt 
+B) mətn 
+C) məntiqi 
+D) göstərici 
+E) hesabi
+9. Süni intellektin proqram təminatı ənənəvi proqramlardan birinci növbədə onunla fərqlənir ki, o, əsasən ... tipli verilənləri emal edir.
+A) simvol 
+B) təsvir 
+C) göstərici 
+D) həqiqi 
+E) ədəd
+10. Labirintdə axtarış modelində ilkin verilənlərdən məqsədə ... axtarışı aparılır.
+A) optimal yolun 
+B) ən uzun yolun 
+C) ənənəvi yollar
+D) maksimal yolun 
+E) doğru yolun orta qiymətinin 
+11. “informatika” sözünün yaddaşda saxlanması üçün nə qədər yer tələb olunur?
+A) 88 bit 
+B) 11 bit 
+C) 11 bayt 
+D) 24 bayt 
+E) 8 bayt
+12. Verilənin adının seçilməsi əsasən onun ... aid olur.
+A) semantikasına 
+B) sintaksisinə 
+C) uzunluğuna 
+D) qiymətinə 
+E) strukturuna
+13. 18 Mbayt nəyə bərabərdir?
+A) 9∙211 Kbayt 
+B) 144 bit 
+C) 3∙211 Kbayt 
+D) 9∙210 Kbayt 
+E) 3∙222 bayt
+14. Hesablayın: 3 Mbayt + 15 Kbayt = ?
+A) 3 087 Kbayt 
+B) 3 087 Mbayt 
+C) 18 Kbayt
+D) 18 Mbayt 
+E) 3 015 Mbayt
+15. Hesablayın: 4 Mbayt – 9 Kbayt = ?
+A) 4 087 Kbayt 
+B) 3 996 Kbayt 
+C) 4 086 Kbayt 
+D) 13 Mbayt 
+E) 4 087 Mbayt
+16. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) verilənlərin təsviri 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması
+D) Ünsiyyət 
+E) qədul olunma
+17. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) verilənlərin strukturu 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması 
+D) təlim 
+E) qədul olunma
+18. Verilənlər bazasında iki cədvəl arasında hansı mümkün hallar ola bilər? 1. Birin-birə 2. Birin-çoxa 3. Dairəvi əlaqə 4. Çoxun-birə 5. Düzxətli əlaqə 6. Çoxun-çoxa 
+A) 1,2,4,6
+B) 1,6
+C) 3,5
+D) 2,5,6
+E) 1,3,5,6
+19. MS Access proqramında verilənlərin tipinə aid deyil? 
+A) Kompleks
+B) Pul
+C) Mətn
+D) Memo
+E) Ədəd 
+20. Qeyri-səlis məntiq nəzəriyyəsinin banisi kimdir? 
+A) Lütfi Zadə 
+B) Aristotel
+C) Leybnis
+D) Corc Bul
+E) Əl Xərezmi
+21. Bunlardan hansı informasiyanın əsas xassələrinə aid deyil? 
+A) Məxfilik 
+B) Obyektivlik
+C) Adekvatlıq
+D) Aktuallıq
+E) Dəqiqlik
+22. A3 vərəqinin ölçüsü nə qədərdir? 
+A) 297mm x 210mm
+B) 297mm x 420mm
+C) 594mm x 420mm
+D) 594mm x 841mm
+E) 210mm x 148mm
+23. I nəsil kompüterlərin element bazası nə olmuşdur? 
+A) Elektron lampalar
+B) İnteqral mikrosxemlər
+C) Tranzistorlar
+D) Böyük ölçülü relelər
+E) Dişli çarxlar
+24. Göz vasitəsilə qəbul edilən informasiya necə adlanır? 
+A) Vizual 
+B) Dad
+C) Qoxu
+D) Səs
+E) Taktil
+25. 1 kilobaytda neçə bit var? 
+A) 8192
+B) 8
+C) 100
+D) 1024
+E) 1000
+26. Kompüterlərin aşağıdakı növlərindən hansı fərdi kompüter deyil? 
+A) Super kompüterlər
+B) Planşet kompüterlər
+C) Noutbuklar
+D) Masaüstü kompüterlər
+E) Cib kompüterləri
+27. Bunlardan hansılar giriş qurğusudur? 1. Sistem bloku 2. Monitor 3. Klaviatura 4. Printer 5. Skaner 
+A) 3,5
+B) 2,5
+C) 2,4
+D) 1,2,4
+E) 2,3,5
+28. Kompüter söndürüldükdə informasiya hansı yaddaşdan silinir? 
+A) Operativ(əməli) yaddaşdan
+B) Fləş yaddaşdan
+C) CD-ROM diskindən
+D) Sərt diskdən
+E) Yumşaq diskdən
+29. Noutbuklar hansı kompüter kateqoriyasına aiddir? 
+A) Mikrokompüter 
+B) Minikompüter
+C) Superkompüter
+D) Meynfreym
+E) Mobil kompüterlər
+30. Aşağıdakı komponentlərdən hansı verilənlərin ötürülməsini həyata keçirmək üçün zəruri deyil? 
+A) Radiosiqnallar (radio signals)
+B) Kommunikasiya qurğusu (Communications device)
+C) Qəbuledici qurğu (Receiving device)
+D) Göndərən qurğu (Sending device)
+E) Kommunikasiya proqramları (communication software)
+31. Aşağıdakılardan hansı verilənləri daşımaq üçün fiziki vasitədir? 
+A) Sarınmış cütlük kabel, koaksal kabel, fiber-optik kabel 
+B) Koaksal kabel, radiosiqnallar, mikrodalğalar
+C) Sarınmış cütlük kabel, radiosiqnallar
+D) Yüksək gərginliyə davamlı elektrik xətləri
+E) Radiosiqnallar, mikrodalğalar
+32. Aşağıdakılardan hansı yerli şəbəkədir? 
+A) Local area networks 
+B) World Wide Web
+C) Wide area networks
+D) Communications channel
+E) Sending device
+33. Rəqəmli siqnalları analoq siqnallara, analoq siqnalları rəqəmli siqnallara çevirən qurğu 
+A) Modem
+B) Körpü
+C) Şəbəkə kartı
+D) Qovşaq
+E) Yönləndirici
+34. Verilənlər bazası nədir? 
+A) Verilənlərin strukturlaşdırılmış, nizamlı yığınıdır 
+B) Əməliyyat sisteminin müvəqqəti olaraq yaratdığı bazadır
+C) Verilənlərin müvəqqəti istifadəsi üçün vasitədir
+D) Əməliyyat sisteminin müraciət etdiyi bazadır
+E) Proqramlaşdırma alətləri sisteminin kitabxanasıdır
+35. Aşağıdakılardan hansı internetin kommunikasiya xidmətinə aid deyil? 
+A) Video qeydiyyat
+B) Elektron poçt
+C) "On-line" ünsiyyət
+D) Telekonfrans
+E) İnternet-telefoniya
+36. Aşağıdakılardan hansı VBİS deyil? 
+A) ICQ 
+B) MySQL
+C) Oracle
+D) dBase II
+E) Access
+37. Verilənlər bazası yaratmaq və onların üzərində müxtəlif əməliyyatlar aparmaq üçün Microsoft şirkəti hansı proqramı MS Office proqramlar paketinə daxil etmişdir? 
+A) Microsoft Office Access 
+B) Microsoft Office Publisher
+C) Microsoft Office Word
+D) Microsoft Office FrontPage
+E) Microsoft Office Excel
+38. Hipermətn nədir? 
+A) Daxilində istinadlar (Hyperlinks, hiperəlaqələr) olan mətndir 
+B) Daxilində şəkillərin olduğu mətndir
+C) Tələb olunan mövzunu tam əhatə edən mətndir
+D) Elektron formada hazırlanmış Hyperbolik mətndir
+E) Başqa sənədlərə istinadların(Hyperlinks, hiperəlaqələr) oldmadığı mətndir
+39. VBİS nədir? 
+A) Verilənlər bazasının yaradılması üçün proqram vasitələrinin toplusu
+B) Verilənlər bazasının istifadəsinə göstəriş faylı
+C) Verilənlər bazasının təşkili üçün sxemlər toplusu
+D) Verilənlər bazasının əlaqələndirici kompüter topologiyası
+E) Verilənlər bazasının istifadəsi zamanı təhlükəsizliyin təmini üçün açar
+40. Nöqtələr çoxluğu şəklində olan qrafika necə adlanır? 
+A) Rastr 
+B) Frontal
+C) Vektor
+D) Üçölçülü
+E) Fraktal
+41. Obyektin, hadisənin və ya prosesin müəyyən xüsusiyyətlərini əks etdirən təqdimolunma formasına … deyilir. 
+A) Model 
+B) İnformasiya mübadiləsi
+C) Kompüter
+D) İnformasiyanın ötürülməsi
+E) Server
+42. Şəbəkə resurslarını idarə edən kompüter:
+A) Server
+B) Qovşaq
+C) Klient kompüter
+D) Müştəri kompüter
+E) Yönləndirici kompüter
+43. Bunlardan hansılar çıxış qurğusudur? 1. Klaviatura 2. Monitor 3. Sistem bloku 4. Printer 5. Maus 
+A) 2, 4
+B) 4, 5
+C) 1, 2, 4
+D) 1, 2, 5
+ E) 2, 5
+44. Məntiqi toplama (dizyunksiya) əməlinin doğruluq cədvəlinə görə yanlış cəm hansıdır?
+A)Doğru +Yalan=Yalan 
+B)Doğru +Doğru=Doğru
+C)Yalan +Yalan=Yalan
+D)Yalan +Doğru=Doğru
+ E)Doğru +Yalan=Doğru
+45. İnformasiyanın ölçü vahidləri
+A) Bit, Bayt
+B) DPI
+C) LPİ
+D) PPİ
+E) bps
+46. BIOS nədir?
+A) giriş və çıxış baza sistemi
+B) ünvanlar şini
+C) VBİS
+D) verilənlərin ötürülməsi protokolu
+E) Xarici yaddaş qurğusu
+47. Alqoritmin hansı növləri var?
+A) Budaqlanan, xətti, dövri
+B) Xətti, qeyri-xətti
+C) Dövri, sonlu
+D) Simmetrik, qeyri-simmetrik
+E) Təkrarlanan, budaqlanan
+48. 1 baytda mümkün olan kodların sayı nə qədərdir?
+A) 256
+B) 8
+C) 1024
+D) 4096
+E) 2
+49. Aşağıdakılardan hansı mətn emalı üçündür
+A) Notepad
+B) Facebook
+C) Photoshop
+D) Excel
+E) MS Windows 
+50. Komp qrafikasının növləri hansılardır
+A) Rastr, vektor
+B) Paint, Photoshop
+C) LAN, WAN
+D) Dizayn, Fraktal
+E)1D, 2D
+51. Rastr, fraktal, vektor, 3d bunlar nədir? 
+A) qrafika növləri
+B) mətn redaktorları
+C) cədvəl prosessorları
+D) antivirus vasitələri
+E) utilitlər
+52. www tərcüməsi? 
+A) ümumdünya hörümçək toru(şəbəkəsi)
+B) verilənlər bazası idarəetmə sistemi
+C) faylların ötürülməsi protokolu
+D) strukturlaşmış sorğu dili(şəbəkəsi)
+E) elektron poçt xidməti
+53. İnformasiya cəmiyyətində dövlət idarəçiliyi forması: 
+A) elektron hökumət
+B) avtomatlaşdırılmış hökumət
+C) İnformasiyalaşdırılmış hökumət
+D) monarxik hökumət
+E) demokratik hökumət
+54. Provayder nədir? 
+A) İnternet xidmətlərini təklif edən qurum
+B) İnternet xidmətlərini icra edən proqram
+C) İnternet xidmətlərini icra edən qurğular
+D) İnternet xidmətlərini təşkil edən verilənlər bazası
+E) İnternet xidmətlərini təmin edən verilənlər bazası
+55. Axtarış sistemlərinin əsas xarakteristikaları
+A) tamlıq, dəqiqlik, aktuallıq, axtarma sürəti, əyanilik
+B) etibarlılıq, dəqiqlik, aktuallıq, axtarma
+C) təhlükəsizlik, axtarma sürəti, əyanilik
+D) adekvatlıq, dəqiqlik, aktuallıq, axtarma sürəti, əyanilik
+E) müəyyənlik, axtarma sürəti, əyanilik
+56. Axtarış sisteminin əsas anlayışları: 
+A) İndeksləşdirmə, relevantlıq
+B) kodlaşdırma, relevantlıq
+C) kodlaşdırma, İndeksləşdirmə
+D) şıfrləmə, kommunikasiya
+E) modulyasiya, demodulyasiya
+57. Kompyuter şəbəkələrinin növləri: 
+A) LAN, WAN, MAN
+B) DNS, DLL
+C) İBM, HP, Dell
+D) MS, Aple
+E) WWW, Wide
+58. İnternet nədir? 
+A) Ümumdünya şəbəkələr şəbəkəsi
+B) Web portal şəbəkəsi
+C) Axtarış saytı
+D) Lokal şəbəkələr şəbəkəsi
+E) Sosial şəbəkələr şəbəkəsi
+59. Kompyuterdə verilənlər hansı şəkildə emal olunur?
+A) ikilik kodların toplanması
+B) ikilik kodların vurulması
+C) onluq kodların toplanması
+D) onluq kodların vurulması
+E)siqnalların sıxılması
+60. Alqoritm nədir?
+A) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi və məntiqi əməliyyatların sonlu sayda ardıcıllığıdır
+B) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi əməliyyatların sonlu sayda ardıcıllığıdır
+C) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan məntiqi əməliyyatların sonlu sayda ardıcıllığıdır
+D) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi və məntiqi əməliyyatların sonsuz sayda ardıcıllığıdır
+E) verilmiş məsələni həll etmək üçün ilkin verilənlərlə icra olunan hesabi əməliyyatların sonsuz sayda ardıcıllığıdır
+61. Alqoritmin təsvir üsulları hansılardır?
+A) Sözlə; blok-sxemlə; Proqramla (alqoritmik dil); Psevdokodla
+B) Proqramla (alqoritmik dil); Psevdokodla; diaqramla
+C) Sözlə; blok-sxemlə; diaqramla
+D) Sözlə; diaqramla; simvollarla
+E) Proqramla (alqoritmik dil); simvollarla
+62. Alqoritmin növləri hansılardır?
+A) xətti (düz), budaqlanan və dövri
+B) xətti, rekursiv və dövri
+C) budaqlanan və rekursiv
+D) xətti, rekursiv və budaqlanan
+E) rekursiv və dövri
+63. Software nədir?
+A) Proqram təminatı
+B) Aparat təminatı
+C) Alqoritmik dillər
+D) Hüquqi təminat
+E) Təşkilatı təminat
+64. Aşağıdakılardan hansılar software-dir?
+A) MS Office
+B) Hard Disk
+C) Klaviatura
+D) Videokart
+E) CPU
+65. Aşağıdakılardan hansılar software deyil?
+A) Monitor
+B)MS Project
+C)MS Outlook
+D)MS Visio
+E)MS Excel
+66. Hardware nədir?
+A) Kompüterin aparat təminatı, texniki vasitələr
+B) Kompüterin aparat proqram təminatı
+C) Kompüterin təşkilatı təminatı
+D)alqoritmik dillər
+E) Kompüterin aparat hüquqi təminatı
+67. Aşağıdakılardan hansılar hardware -dir?
+A) Printer, plotter, modem 
+B) Paint, MS Access, Əməliyyat Sistemləri
+C) Utilitlər, Drayverlər
+D) MS Word, Arxivatorlar
+E) Dilmanc, Intelsoft
+68. Aşağıdakılardan hansılar hardware deyil?
+A)drayver
+B)maus
+C)klaviatura
+D)monitor
+E)modem
+69. Süni intellekt məsələlərində əsasən, ... istifadə edilir.
+A) evristik həlldən 
+B) cəbri həlldən 
+C) alqoritmik həlldən 
+D) q/maşın həllindən
+E) qrafik həlldən 
+70. Aşağıdakılardan hansı informasiya proseslərinə aid deyil?
+A) informasiyanın tamlığı 
+B) informasiyanın ötürülməsi
+C) informasiyanın toplanması 
+D) informasiyanın emalı
+E) informasiyanın saxlanması
+71. Aşağıdakılardan hansı intellektual sistemlər oblastında əsas problemlərə aid deyil?
+A) qrafika 
+B) biliklərin manipulyasiyası 
+C) biliklərin təqdim olunması 
+D) Ünsiyyət 
+E) qədul olunma
+72. Kiçik ekspert sistemləri adətən ... istifadə olunur. 
+A) fərdi kompüterlərdə 
+B) işçi stansiyalarda 
+C) mini kompüterlərdə
+D) super kompüterlərdə 
+E) maynfremlərdə
+73. Konkret sahə üzrə ayrılmış biliklər necə adlanır?
+A) baza bilikləri 
+B) linqvistik biliklər 
+C) deklarativ biliklər
+D) prosedur biliklər 
+E) məntiqi biliklər
+74. Ekspert sisteminin işlənməsi üçün hansı mütəxəsisslər lazımdır?
+A) ekspert, mühəndis, proqramlaşdıran 
+B) fizik, iqtisadçı, texnoloq
+C) proqramlaşdıran, riyaziyyatçı 
+D) fizik, mühəndis 
+E) mühəndis, iqtisadçı, riyaziyyatçı 
+75. İntellektual sistemlər məntiqi nəticələrdən istifadə etməklə:
+A) qərar qəbul etməlidir 
+B) proqnozlaşdırmalıdır 
+C) diaqnostika etməlidir 
+D) yuxarı səviyyəyə ötürməlidir 
+E) informasiyanı arxivləşdirməlidir
+76. Ekspert sistemlərinin ... onları qurulma prinsipləri və tipi ilə təyin olunur.
+A) arxitekturası 
+B) keyfiyyəti 
+C) səmərəliliyi 
+D) təyinatı 
+E) uyuşanlığı
+77. Baxılan sahəni təsvir edən uzunmüddətli verilənlərin və ya qaydaların saxlanması üçündür:
+A) biliklər bazası 
+B) əməli yaddaş 
+C) işçi yaddaş 
+D) interfeys 
+E) həledici
+78. Süni intellekt sistemlərində ən çox istifadə olunan proqramlaşdırma dili:
+A) Lisp 
+B) Alqol 
+C) fortran 
+D) pascal 
+E) beyzik
+79. İnsan təfəkkürünün işləmə mexanizminin kompyuterlərə keçirmək ilə bilavasitə məşğul olan müasir elmi istiqamət:
+A) süni intellekt 
+B) fizika 
+C) riyaziyyat 
+D) qeyri-səlis məntiq 
+E) həndəsə
+80. Süni intellekt sistemlərində ən çox hansı proqramlaşdırma dillərindən istifadə olunur?
+A) lisp və proloq 
+B) alqol və delfu 
+C) beyzik və mnemokod 
+D) fortran və beyzik 
+E) cobol və fortran
+81. Kompyuterdə verilənlər hansı şəkildə saxlanılır?
+A) ikilik kodlar
+B) onluq kodlar
+C) mətnlər
+D) həqiqi ədədlər
+E) məntiqi göstəricilər
+82. Elektron imza nədir?
+A) Elektron dünyada şəxsiyyəti müəyyənləşdirmə vasitəsidir.
+B) dövlət qurumlarının vətəndaşlara və biznes qurumlarına informasiya-kommunikasiya texnologiyalarından istifadə etməklə xidmət göstərməsidir.
+C) informasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri; 
+D) elektron sənəd dövriyyəsində istifadə olunan proqramlar, texniki vasitələr və texnologiyalar; 
+E) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+83. Elektron imzanın hansı növləri var?
+A) kor İmza, tələ İmza, vəkalət İmzası, inkar edilə bilməyən imza
+B) tərs imza, tələ İmza
+C) vəkalət İmzası, sənədli imza
+D) kor İmza, inkar edilə bilən imza
+E) inkar Edilə Bilməyən İmza, təsdiqlənməyən imza
+84. Elektron imza vasitələri:
+A) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+B) öz adından və ya qanunvericilikdə nəzərdə tutulmuş qaydada ona səlahiyyət vermiş şəxs adından çıxış edən fiziki şəxs; 
+C) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər; 
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+85. Elektron imza yaratma məlumatları:
+A) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər; 
+B) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+C) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+D) öz adından və ya qanunvericilikdə nəzərdə tutulmuş qaydada ona səlahiyyət vermiş şəxs adından çıxış edən fiziki şəxs; 
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+86. Elektron imzanın həqiqiliyi(tam cavabı göstərin):
+A) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+B) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün və təhrif edilmədiyinin təsdiqi;
+C) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün və dəyişdirilmədiyinin təsdiqi;
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olması
+E) yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+87. Sertifikat xidmətləri mərkəzi:
+A) elektron imza üçün sertifikat verən və imzaların istifadəsi üzrə qanunla müəyyən edilmiş digər xidmətləri göstərən hüquqi şəxs və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxs; 
+B) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs; 
+C) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs; 
+D) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+E) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd; 
+88. Elektron sənəd nədir?
+A) İnformasiya sistemində istifadə edilən elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd
+B) İnformasiya sistemində istifadə edilən ənənəvi formada təqdim edilən və imza ilə təsdiq olunmuş sənəd;
+C) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər;
+D) imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd;
+E) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+89. Fayl hansı halda elektron sənəd adlandırıla bilər?
+A) elektron imza ilə təsdiq olunubsa
+B) sertifikatlaşdırılıbsa
+C) möhür vurulubsa
+D) elektron imza ilə təsdiq olunmayıbsa
+E)sertifikatlaşdırılaraq möhür vurulubsa
+90. Rəsmi yazışmalar, hüquqi məsuliyyət nəzərdə tutan kompyuter faylları və öhdəliklər tələb edən informasiya mübadiləsi üçün kompüter vahidi: 
+A) elektron sənəd
+B) kompüter qovluğu
+C) kompüter faylı
+D) elektron daşıyıcı
+E) kompüter yaddaşı
+91. Aşağıdakılardan hansı doğrudur.
+A) Elektron sənəd kağız daşıyıcısı olan sənədə bərabər tutulur və onunla eyni hüquqi qüvvəyə malikdir
+B)Elektron sənəd- digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+C) Elektron sənəd -imza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd
+D) Elektron sənəd - müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+E) Elektron sənəd - sertifikat alarkən imza sahibinin bildirdiyi və sistemin işi zamanı onun barəsində toplanılan məlumatlar; 
+92. Elektron sənəd dövriyyəsi: 
+A) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri
+B) elektron sənəd dövriyyəsində istifadə olunan proqramlar, texniki vasitələr və texnologiyalar; 
+C) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri; 
+D) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+E) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr; 
+93. Elektron sənəd dövriyyəsi vasitələridir:
+A) Elektron sənəd dövriyyəsində istifadə olunan programlar, texniki vasitələr və texnologiyalar
+B) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri;
+C) digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+D) elektron imza yaradılması və yoxlanılması, eləcə də imza yaratma və yoxlama məlumatları yaratmaq üçün istifadə edilən proqram və texniki vasitələr;
+E) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri
+94. Sertifikatlaşdırılmış elektron imza vasitələri: 
+A) Müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron imza vasitələri
+B) müəyyən olunmuş tələblərə uyğunluğu sertifikatlaşdırma qaydaları əsasında təsdiq edilmiş elektron sənəd dövriyyəsi vasitələri; 
+C) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs; 
+D) elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs; 
+E) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+95. Elektron sənədin əsas mahiyyəti nədir?
+A) İnformasiyanı hazırlayan şəxsin həqiqiliyinin təyin olunması və 3-cü tərəfə informasiya yaradan şəxsi müəyyən etmə imkanının yaradılması
+B) elektron sənədi göndərən və alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs; 
+C) elektron imzanın həqiqiliyinin yoxlanılması yolu ilə elektron sənədin tamlığının (zəruri rekvizitlərə malik olması) və bütövlüyünün (ötürülmə zamanı texniki xətaların və təhriflərin olmaması) təsdiq edilməsi; 
+D) elektron imzanı yoxlama məlumatları vasitəsilə yoxlanılan elektron imzanın sahibinə məxsus olmasının, imzanın əlaqəli olduğu məlumat bildirişinin bütövlüyünün, dəyişdirilmədiyinin və təhrif edilmədiyinin təsdiqi;
+E) elektron imza yaratmaq üçün istifadə edilən və ancaq imza sahibinə bəlli olan kod və ya kriptoqrafik açardan ibarət təkrarolunmaz verilənlər;
+96. Elektron imza yaradılıb: 
+A) 20-ci əsrin 70-80-cı illərində
+B) 19-ci əsrin 70-80-cı illərində
+C) 20-ci əsrin 60-70-cı illərində
+D) 19-ci əsrin 80-90-cı illərində
+E) 20-ci əsrin 50-60-cı illərində
+97. Elektron imzadan istifadənin üstünlüklərinə aiddir: 
+A) vaxta qənaət, çatdırılma xərclərinin minimuma endirilməsi, yuksək təhlukəsizlik
+B) etibarlılıq, çatdırılma xərclərinin minimuma endirilməsi
+C) tamlıq, yuksək təhlukəsizlik
+D) dəqiqlik, yuksək təhlukəsizlik
+E) aktuallıq, çatdırılma xərclərinin minimuma endirilməsi, yuksək təhlukəsizlik
+98. Azərbaycanda elektron imzanın etibarlılıq müddəti: 
+A) 3il
+B) 5il
+C) 2il
+D) 1il
+E) 4il
+99. Elektron dövlət sistemində sənədlər necə təsdiq olunur? 
+A) Elektron imza ilə
+B) Möhürlə
+C) Qeydiyyatdan keçməklə
+D) Autentifikasiya ilə
+E) Sertifikatlaşma yolu ilə
+100. Elektron hökumətin əməliyyat prinsipləri:
+A) informasiya texnologiyalarından istifadə
+B) Bürokratik prinsip (telefon, faks)
+C) İş yerinə ziyarət, faks, telefon
+D) İnternətə çıxışın olduğu istənilən yer
+E) Web portal
+101. Elektron hökumət hansı əsas modullardan ibarətdir? 
+A) G2G hökumət hökumətə (government to government); G2B-hökumət biznesə (government to business); G2C hökumət vətəndaşlara (government to citizens) 
+B) sahibkar, müəssisə, vətəndaş
+C) hökümət, vətəndaş
+D) biznes, sahibkar, müəssisə, vətəndaş
+E) hökumət, idarəetmə, G2C hökumət vətəndaşlara (government to citizens)
+102. Elektron hökumətin 3 əsas faktoru:
+A) hökumət, vətəndaş və sahibkar (biznes qurumları)
+B) hökumət, elektron imza, biznes qurumları
+C) vətəndaş, elektron sənəd, sahibkar
+D) biznes, idarəetmə, sahibkar
+E) idarəetmə, elektron sənəd, biznes qurumları
+103. Elektron hökumətin xidmət saatları: 
+A) 7/24
+B) Həftəiçi, iş saatları daxilində
+C) saat 5-ə qədər
+D) günün birinci yarısı
+E) günün ikinci yarısı
+104. Azərbaycanın elektron hökumət portalı: 
+A) e-gov. az
+B) e-gov. com
+C) e-edu. com
+D) e-edu. az
+E) e-gov. ru
+105. Elektron hökumət anlayışı yaranıb: 
+A) 20-ci əsrin 90-cı illəri
+B) 20-ci əsrin 80-cı illəri
+C) 19-ci əsrin 90-cı illəri
+D) 20-ci əsrin 70-cı illəri
+E) 19-ci əsrin 80-cı illəri
+106. Elektron hökumət nədir?
+A) Dövlət qurumlarının vətəndaşlara və biznes qurumlarına informasiya-kommunikasiya texnologiyalarından istifadə etməklə xidmət göstərməsidir.
+B) Digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər; 
+C) İmza sahibini identikləşdirmək üçün nəzərdə tutulan və elektron imzanı yoxlama məlumatlarının imza sahibinə məxsus olması barədə sertifikat xidmətləri mərkəzinin verdiyi kağız və ya elektron sənəd; 
+D) İnformasiya sistemində istifadə üçün elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd.
+E) İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri; 
+107. Elektron hökumətin yaradılmasının əsas məqsədi(tam cavabı göstərin):
+A) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+B) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+C) Dövlət orqanlarının fəaliyyətinin operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə, həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+D) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla həmçinin öz aralarındakı münasibətlərin daha asan, sadə və şəffaf formada həyata keçirilməsinə nail olmaqdır. 
+E) Dövlət orqanlarının fəaliyyətinin səmərəliliyinin artırılması, operativliyin yüksəldilməsi və vətəndaşlarla, biznes qurumları ilə həyata keçirilməsinə nail olmaqdır. 
+108. Elektron poçt xidmətinin üstünlükləri
+A) operativlik, etibarlılıq, ucuzluq
+B) tamlıq, etibarlılıq, ucuzluq
+C) təhlükəsizlik, etibarlılıq, ucuzluq
+D) operativlik, etibarlılıq, aktuallıq
+E) operativlik, etibarlılıq, vaxta qənaət
+109. Elektron məktubun elementləri tam olaraq bunlardır: 
+A) göndərdiyimiz ünvan, mövzu, göndərən şəxsin ünvanı, cc, subyekt, tarix, reply to
+B) göndərdiyimiz ünvan, program, mövzu, 
+C) göndərən şəxsin ünvanı, cc, faylın tipi, subyekt, tarix, 
+D) mövzu, göndərən şəxsin ünvanı, 
+E) tarix, göndərdiyimiz ünvan, mövzu, göndərən şəxsin ünvanı, 
+110. Elektron məktuba daxil ola bilər: 
+A) rəsm, şəkil, mətn, material
+B) video, şəkil, mətn, material
+C) animasiya, mətn, material
+D) ancaq mətn, mətn, material
+E) bütün cavablar doğrudur
+111. Elektron yazışmalarda “ünsiyyət etikasına” görə mətnin ….. yazılması məsləhət deyil.
+A) Baş hərflərlə 
+B) Ənənəvi hərflərlə
+C) Rəngli hərflərlə
+D) Qalın ştrixlərlə
+E) Qrafik yazılarla
+112. Sistem programlarının növləri:
+A) ƏS, Utilitlər, Drayverlər, antivirus
+B) MS Word, MS Excel
+C) VBİS, AutoCad, MS Excel
+D) MS Access, 3DMax
+E) MS Excel, Dilmanc
+113. Antivirus nədir:
+A) kompüter viruslarından mühafizə üçün xüsusi proqramlardır. 
+B) kompüter viruslarından mühafizə üçün arxivatorlardır
+C) kompüter viruslarından mühafizə üçün mətn prosessorudur
+D) kompüter viruslarından mühafizə üçün alqoritmik dildir
+E) kompüter viruslarından mühafizə üçün cədvəl prosessorudur
+114. Aşağıdakılardan hansılar antivirusdur?
+A) Kaspersky Personal, Nod 32, Panda, Avast 
+B) MS Project, Maya, Avast 
+C) 3Dmax, Nod 32
+D) Photoshop, Kaspersky Personal
+E) Maya, Nod 32
+115. Hansılar antivirus deyil?
+A) Maya, Corel Draw, Paint
+B) Kaspersky Personal, Nod 32, Panda, Avast
+C) Dr. Solomon, Norton AntiVirus, Doctor Web, Aidstest,
+D) AVP, AntiViral Toolkit Pro Scaner, Antivirus Kaspersky Personal,
+E) AntiViral Toolkit Pro Monitor, Nod 32, Panda, Avast
+116. MS Office nədir? 
+A) Tətbiqi programlar dəsti
+B) Sistem proqramlar dəsti
+C) İnstrumental proqramlar dəsti
+D) Qrafiki proqramlar dəsti
+E) Antivirus proqramlar dəsti
+117. MS Office aiddir
+A) Excel
+B) Paint
+C) Notepad
+D) Photoshop
+E) 3D Paint
+118. MS Office aid deyil
+A) Paint 
+B) Excel
+C) Word
+D) Access
+E) Powerpoint
+119. Aşağıdakılardan hansı tətbiqi program təminatına aid deyil
+A) MS Windows
+B) Paint 
+C) Photoshop
+D) MS Excel
+E) Power Point
+120. Virus nədir?
+A) özünü digər proqramlara əlavə etməklə kompyuterləri yoluxduran və işə düşdükdə arzuolunmaz fəaliyyət göstərən proqram növüdür.
+B) kompüter viruslarından mühafizə üçün xüsusi proqramlardır. 
+C) Işə düşdükdə arzuolunmaz fəaliyyət göstərən proqram təminatıdır.
+D) Işə düşdükdə arzuolunmaz fəaliyyət göstərən proqram utilitdir.
+E) xüsusi nəzarət proqramıdır.
+121. Aşağıdakılardan hansılar antivirus proqramlarıdır?
+A) Dr. Solomon, Norton AntiVirus
+B) MS Word, MS Excel
+C) MS Access, CorelDraw
+D) MS Word, Paint
+E) Dr. Solomon, 3DMax
+122. Aşağıdakılardan hansılar arxivatorlardır?
+A) WinZİP və WinRAR
+B) SQL, MS Word
+C) MS Excel, 3DMax
+D) Oracle, Paint
+E) WinRAR, Oracle
+123. Antivirus programları:
+A) Virusları aşkarlamaq və ləğv etmək üçün
+B) Virusları və nazazlıqları aşkarlamaq üçün
+C) Virusları və nasazlıqları ləğv etmək üçün
+D) Kompyuter nasazlıqlarını və proqram səhvlərini aradan qaldırmaq üçün
+E) Proqram səhvlərini və kompyuter nasazlıqlarını aşkarlamaq üçün
+124. Verilmiş proqram fraqmentini icra etdikdə nəticədə nə çap olunacaq? Var k, s : integer; begin s : = 0; k : = 0; while s<512 do begin s : = s+10; k : = k+1; end; write(s); end.
+A) 520
+B) 521
+C) 52
+D) 51
+E) 510
+125. MS Access proqramında yaradılan fayl hansı uzantı ilə yaddaşda saxlanılır? 
+A) . mdb
+B) . bmp
+C) . pdf
+D) . doc
+E) . xls
+126. İnterpretatorun vəzifəsi nədir? 
+A) Proqramı sətir-sətir maşın koduna çevirib prosessora verir 
+B) Kompüterin resurslarını idarə edir
+C) Xarici qurğuların işini idarə edir
+D) Verilmiş mətni tələb olunan dilə komplyasiya edir (çevirir)
+E) Proqramı maşın koduna çevirib ayrı bir faylda saxlayır
+127. Proqram dilində aşağıdakı komandaların icrasından sonra S dəyişəni hansı qiyməti alacaq? S: =0; k: =25; d: =k-5; k: =2*k+k; S: =k-100; 
+A) -25
+B) -50
+C) 50
+D) 0
+E) 75
+128. Pascal dilində bunlardan hansılar identifikator ola bilməz? 1) end 2) readln 3) ay01 4) 1 ay 5) yxz123 6) 123yxz 
+A) 1, 2, 4, 6
+B) 3, 4, 6
+C) 2, 3, 6
+D) 1, 4, 5
+E) 1, 2, 5, 6
+129. Boolean tipli dəyişənlər hansı qiymətləri ala bilər? 
+A) True və False 
+B) Bütün simvolları
+C) -32768..32767
+D) Sözləri və ya sətrləri
+E) 1 işarə
+130. Pascal proqramlaşdırma dili kim tərəfindən və nə vaxt yaradılıb? 
+A) Niklaus Virt, 1971
+B) Con Fon Neyman, 1957
+C) Corc Bul, 1847
+D) Qreys Hopper, 1959
+E) Blez Paskal, 1642
+131. “MS Windows” hansı proqram təminatının növünə aiddir? 
+A) Sistem proqlamları 
+B) Ofis proqramları
+C) Qrafik redaktorlar
+D) Proqramlaşdırma alətləri
+E) Tətbiqi proqramlar
+132. Aşağıdakı proqramlaşdırma dillərindən hansı məntiqi proqramlaşdırma dilinə aiddir?
+A) Proloq 
+B) C++ 
+C) Pascal 
+D) Fortran 
+E) Java
+133. Ənənəvi proqramlaşdırmada əsasən ... istifadə edilir.
+A) alqoritmik həlldən 
+B) onluq həlldən 
+C) simvolik həlldən
+D) evristik həlldən 
+E) qrafik həlldən 
+134. Hadisə barəsində qeyd olunmuş məlumat adlanır:
+A) verilən
+B) məlumat
+C) bilik
+D) xəbər
+E) siqnallar
+135. Qərarların qəbul edilməsi üçün və ya analitik tədqiqatların aparılması üçün alıcı tərəfindən uyğun bir formada təqdim olunur :
+A) İnformasiya
+B) verilən
+C) alqoritmlər
+D) bilik
+E) siqnalları
+136. qərar qəbul etmək üçün uyğun bir formaya gətirilən məlumat, qərarların qəbulu və problemin həlli üçün istifadə olunan məlumat
+A) bilik
+B) verilən
+C) məlumat
+D) informasiya
+E) siqnallar
+137. Verilənin xassələrini göstərin:
+A) rezentativlik, dəqiqlik, gerçəklik
+B) obyektivlik, etibarlılıq, dəqiqlik
+C) forma və eyni məzmunlu
+D) həcmi və keyfiyyəti
+E) kütləvi, həcmi, həmcins
+138. İnformasiya sözünün latınca mənası
+A) məlumat
+B) xəbər
+C) Son xəbərlər
+D) qeyri müəyyənlik
+E) bilik
+139. İnformasiya nəzəriyyəsində informasiya budur:
+A) qeyri-müəyyənliyi tamamilə aradan qaldıran və ya azaldan məlumat
+B) yeniliyə malik informasiya
+C) müxtəliflik əks etdirir
+D) bir çox mənbələrdən və bir çox formalarda bizim beynimizə daxil olur və bizim biliyimizi formalaşdırır.
+E) məsələninmühüm atributu
+140. Aşağıdakılardan hansı doğrudur:
+A) informasiya material daşıyıcısı ilə bağlı ola bilər, lakin ondan asılı olmadan da mövcud ola bilər
+B) informasiya həmişə material daşıyıcısı ilə bağlıdır
+C) Informasiya daşıyıcısı yalnız maddi obyektlər (kağız, daş, maqnit diskləri və s. )kimi çıxış edə bilər
+D) yalnız səs və işıq dalğaları ola bilər
+E) informasiya material daşıyıcısı ilə bağlı deyil
+141. İnformasiyanın qorunması bunsuz mümkün deyil:
+A) informasiya daşıyıcısı
+B) xətti əlaqə
+C) kitabxana, arxiv
+D) Kompüter
+E) çap materialları(kitab, qəzet, şəkillər)
+142. Əsas məlumat prosesləri:
+A) saxlanılması, emalı, ötürülməsi
+B) çeşidlənməsi
+C) axtarış, kodlaşdırma, çeşidlənmə
+D) təsviri, sistemləşdirilməsi
+E) axtarış, transfer
+143. Bu məlumat kiminsə şəxsi rəyindən asılı deyil:
+A) Obyektiv
+B) Tam
+C) Cari
+D) Orijinal
+E) Faydalı
+144. Anlaşma və qərar qəbul edilməsi üçün kafi məlumat adlanır:
+A) açıq-aydın
+B) tam
+C) aktual
+D) cari
+E) faydalı
+145. İstehlakçının ehtiyaclarına müvafiq məlumatdır:
+A) faydalı məlumat
+B) doğru məlumat
+C) fərdi məlumat
+D) qorunan məlumat
+E) tam məlumat
+146. Həqiqəti əks etdirən informasiyanı aşağıdakı kimi adlandırırlar
+A) Düzgün
+B) Faydalı
+C) Tam
+D) Obyektiv
+E) Aktual
+147. Qarşıya qoyulan vəzifələrin həlli üçün kifayət edən məlumat necə adlanır?
+A) Tam
+B) Aktual
+C) Obyektiv
+D) Faydalı
+E) Düzgün
+148. İnformasiyanın aktuallığı nə deməkdir:
+A) bu vaxta kimi vacib olduğu üçün
+B) kiminsə fikirlərindən asılı deyil
+C) rahat forma və həcminə görə
+D) onun əsasən istehlakçıdan alınması imkanına görə
+E) Qərarların qəbul edilməsi üçün kifayətdir
+149. İnformasiya açıqlığı deməkdir:
+A) onun alınması imkanı əsasən istehlakçınındır
+B) Bu vaxta qədər vacib olduğu üçün
+C) kiminsə fikirlərindən asılı olmadığı üçün
+D) forma və həcminin rahat olduğu üçün
+E) Qərarların qəbul edilməsi üçün kifayət qədərdir
+150. Toplanmış məlumatlar onların təsvir edilən hadisələri adekvat əks etdirmək xüsusiyyəti, qabiliyyətidir
+A) verilənlərinrezentativliyi(təqdimatlılığı)
+B) Məlumatların dəqiqliyi 
+C) məlumatların etibarlılığı
+D) verlənlərinaktuallığı 
+E) məlumatlarınadekvatlığı
+151. Bilik aşağıdakı 3-lükdən biri ola bilər:
+A) maddi, konseptual, metabilik 
+B) sintaktik, semantik, praqmatik
+C) obyektiv, subyektiv, ümumiləşdirən
+D) Konkret, ümumiləşdirən, şərti 
+E) метаbilik, ümumiləşdirən, dəqiq
+152. İstifadə edilən informasiya konkret sahənin bilik nğvü ola bilər
+A) Maddi
+B) Konseptual
+C) Метаbilik
+D) dəqiq
+E) adekvat
+153. Bir çox sahələrdə istifadə və müəyyənediləninformasiya, bilik növü ola bilər
+A) Konseptual
+B) метаverilən
+C) dəqiq
+D) əyani
+E) adekvat
+154. İnsan informasiya verir
+A) nitqilə, jestlərlə
+B) maqnit sahəsi ilə
+C) informasiya daşıyıcıları ilə
+D) Optik disklər lə
+E) düzgün cavab yoxdur
+155. Kompüter hansı informasiya növü ilə işləyir:
+A) Səs, qrafik, mətn, say
+B) vizual, toxunulmaqla duyulan, eşitmə, dad
+C) qrafik, mətn, say, səs, eşitmə, dad, vizual, toxunulmaqla duyulan
+D) qrafik, mətn, say
+E) mətn, say
+156. Məlumatların qavranma üsuluna görə növləri:
+A) vizual, eşitmə, toxunulmaqla duyulan, iybilmə, dad
+B) Səs, qrafik, mətn, say
+C) qrafik, mətn, say, səs, eşitmə, dad, vizual, toxunulmaqla duyulan
+D) eşitmə, dad, vizual, toxunulmaqla duyulan, qrafik
+E) mətn, say
+157. İnsan ən çox həcmdə kompyuterdən informasiya yardımını alır
+A) görmə
+B) Eşitmə
+C) toxunma hissi
+D) iybilmə
+E) dad reseptorları
+158. Real obyektə, hadisəyə, prosesə informasiya dəstəyi ilə yaradılan obrazın uyğunluq səviyyəsi budur
+A) informasiyanın adekvatlığı
+B) informasiyanın aktuallığı
+C) informasiyanın təqdimatlılığı
+D) informasiyanın kütləviliyi
+E) informasiyanın dəqiqliyi
+159. Qərar müəyyən mənada ən yaxşı variant seçimi mümkün olan çoxlu məlumata əsaslanır
+A) qərarların qəbul edilməsi
+B) idarəsi
+C) adekvatlığı
+D) proqramın yerinə yetirilməsi
+E) şərti alqoritm
+160. İqtisadi proseslərin gedişini əks etdirən çevirilən və təmizlənmiş məlumatlardır
+A) iqtisadi informasiya
+B) iqtisadi informatika
+C) informasiya
+D) bilik
+E) verilənlər
+161. idarəetmə funksiyasına görə İqtisadi informasiya bölünür:
+A) bütün variantlar doğrudur
+B) normativ-sorğu
+C) plan
+D) uçot
+E) analitik
+162. Bunlardan hansı informasiya daşıyıcısı ola bilməz:
+A) işıq şüası
+B) Optik disk
+C) sərt disk
+D) kağız
+E) ağac
+163. İnformasiyanın əsas fiziki kompüter daşıyıcıları:
+A) sərt disk, floppi disk, fləş-disk, CD və DVD diskləri
+B) Sərt disk, CD və DVD diskləri
+C) məlumat bazası
+D) İnsan beyni, daş
+E) ağac, kağız
+164. informasiya semantik nəzəriyyədə budur:
+A) yeniliyi olan məlumatlar
+B) İmpulslar, siqnallar, texniki və bioloji sistemlərdə bağlı olan kodlar
+C) ayrılmaz bir parka
+D) hər cür məlumatlar, xəbərlər, bilik
+E) Qeyri-müəyyənlikləri tamamilə aradan qaldıran və ya azaldan, onların alınması qədər mövcud olan məlumatlar
+165. Praqmatik aspect nöqteyi nəzərindən informasiyanın xarakteristikası
+A) faydalılıq
+B) onun mənası
+C) informasiyanın miqdarı
+D) informasiyanın qurluşu
+E) bütün variantlar
+166. Semantik aspekt baxımından informasiyanın xarakteristikası
+A) onun mənası
+B) informasiyanın miqdarı
+C) informasiyanın qurluşu
+D) Faydalılığı
+E) bütün variantları
+167. İnformasiya miqdarının ən kiçik ölçü vahidi:
+A) Bit
+B) Bayt
+C) Dit
+D) Hers
+E) Кbayt
+168. Artma qaydasında məlumatın ölçü vahidi.
+A) bayt, Kilobayt, Meqabayt, Qiqabayt, Теrabayt
+B) Meqabayt, Bayt Qiqabayt, Терабайт
+C) Bayt, Meqabayt, Qiqabayt, Терабайт, Kilobayt
+D) Bayt, Meqabayt, Qiqabayt, Kilobayt, petabayt
+E) Kilobayt, Meqabayt, Qiqabayt, Тerabayt, petabayt, bayt
+169. 1 kilobayt bərabərdir
+A) 1024 bayt
+B) 1000 bayt
+C) 1024 кбайт
+D) 1000 simvol
+E) 1024 Vahid və sıfırlar
+170. 1 MB bərabərdir:
+A) 1024 KB
+B) 1024 bayt
+C) 220 bayt
+D) 1024 sıfır və birlər
+E) Bütün cavablar doğrudu
+171. 1 GB bərabərdir:
+A) 1024 megabayt
+B) 1000 megabayt
+C) 1024 kb
+D) 1000000000 simvol
+E) 1024 bayt
+172. 1Tbayt bərabərdir
+A) 1024 Gbayt
+B) 1024 bayt
+C) 220 bayt
+D) 1024 sıfır və birlər
+E) Bütün cavablar doğrudur
+173. Təbii dil ilə formal dil arasında əsas fərq:
+A) qrammatika və sintaksis ciddi qaydaların iştirakı ilə
+B) hər sözün simvol sayı müəyyən sabit sayı keçmir
+C) hər sözün daha iki dəyərləri var
+D) hər sözün yalnız bir mənası var
+E) hər sözün yalnız bir mənası var və qrammatika və sintaksisin ciddi qaydaları var
+174. Formal dillər:
+A) proqramlaşdırma dili
+B) İngilis dili
+C) işarə dili
+D) Rus dili
+E) Çin dili
+175. Bu- informasiyanın kodlaşdırılmasıdır:
+A) məlumat onun verildiyi bir formadan başqa formaya çevrilir
+B) ilkin məlumat əldə etmək üçün
+C) məlumatların qorunması
+D) Axtarış və informasiya çevrilməsi
+E) Bütün cavablar səhvdir
+176. Beynəlxalq standart Unicode-də bir simvol necə kodlaşdırılır
+A) 2 bayt
+B) 1 bayt
+C) 256 bayt
+D) 65,536 bay
+E) 2 bit
+177. Kodlaşdırma cədvəli beynəlxalq standart kimi qəbul olunub:
+A) ASCII
+B) SR1251
+C) MS-DOS
+D) R-KOI8
+E) Unicode
+178. 16 bit ilə kodlanmış ən böyük natural ədəd
+A) 65536
+B) 65535
+C) 256
+D) 32768
+E) 32767
+179. 64 simvoldan ibarət əlifbanın bir simvolunun informasiya miqdarı
+A) 6 bit
+B) 64 bit
+C) 1 bayt
+D) 8 bit
+E) 9 bit
+180. Mətn informasiyanın neçə simvolunu 8-bitlik ikilik kodla kodlaşdırmaq olar?
+A) 256
+B) 65356
+C) 1024
+D) 210
+E) 128
+181. 128 rəng palitrasını kodlaşdırmaq üçün informasiya sayı neçə bitdir
+A) 7
+B) 256
+C) 65356
+D) 128
+E) 1
+182. Dörd eyni ehtimallı hadisələrdən birinin bas verməsi məlumatı nə qədər informasiya daşıyır?
+A) 2 bit
+B) 3 bit
+C) 1 bit
+D) 4 bit
+E) 5 bit
+183. 2eyni ehtimallı hadisələrdən birinin bas verməsi məlumatı nə qədər informasiya daşıyır?
+A) 1 bit
+B) 2 bit
+C) 3 bit
+D) 4 bit
+E) 5 bit
+184. 16 eyni ehtimallı hadisələrdən birinin bas verməsi məlumatı nə qədər informasiya daşıyır?
+A) 4 bit
+B) 1 bit
+C) 2 bit
+D) 3 bit
+E) 5 bit
+185. 256 işarliəlfbanın kodlaşdırılması üçünhərbirsimvoluninformasiya miqdarı nəqədərdir?
+A) 8 bitlər
+B) 256 bitlər
+C) 16 bitlər
+D) 4 bitlər
+E) 128 bitlər
+186. Xəbər nə vaxt informasiya yükü dasıyır?
+A) yeni və anlaşıqlı məlumatlar olarsa
+B) insan biliyini təkmilləşdirir
+C) yeni məlumatlar var
+D) aydın məlumatlar var
+E) dolu məlumatlar var
+187. Hər sətirdə 80 simvol olmaqla 50 sətirdən ibarət olan informasiya səhifəsi nece kiloibaytdir? (1 Кbayt ~ 1000 bayt)
+A) 4 kbayt
+B) 400 bayt
+C) 3200 bit
+D) 40 Kb
+E) 4000 Kb
+188. 400 səhifəlik, səhifədə 40 sətir, sətirdə 50 isarə olan kitabın həcmi nə qədərdir? (1 Кbaytт - 1000 bayt)
+A) 800 Kbayt
+B) 80000 bayt
+C) 800 Kb
+D) 160 kbayt
+E) 8 Mbayt
+189. Əlifba 16 hərfdən ibarətdirdirsə, əlifbanın bir hərfi nə qədər informasiya daşıyır?
+A) 4 bit
+B) 1 bit
+C) 2 bit
+D) 3 bit
+E) 5 bit
+190. 32simvollu əlifbada yazılmış, 30 simvoldan ibarət olan informasiyanın həcmi?
+A) 150 bit
+B) 150 bayt
+C) 960 bayt
+D) 1,5 К bayt
+E) 50 bayt
+191. 128 işarəli əlfbada yazılmış səhifənin 80 sətri və hər sətrdə 60 simvolu olarsa həcmi neçə baytdır?
+A) 4200 bayt
+B) 33600 bayt
+C) 4200 bit
+D) 4800 bayt
+E) 4200
+192. 384 işarədən ibarət məlumat 16 simvollu əlifbada neçə bayt olacaq?
+A) 192 bayt
+B) 384 bayt
+C) 6144 bayt
+D) 1536 bayt
+E) 384 kbay
+193. Məlumat 25 sətir üzrə 3 səhifə itutur. Hər sətirdə 60 simvol yazılıb. Əgər bütün məlumat 1125 baytdan ibarətdirsə, istifadə edilmiş əlifba neçə simvoldan ibarətdir?
+A) 4 simvolu
+B) 2 simvolu
+C) 3 simvolu
+D) 5 simvol
+E) 1 simvol
+194. Hesablama sistemi ədədləri təqdim etmək üsuludur
+A) müəyyən miqdar əhəmiyyətə malik olan simvolların köməyi ilə
+B) Daimi vəziyyətli vergül ilə
+C) ərəb rəqəmlərinin köməyi ilə
+D) on rəqəmin köməyi ilə
+E) roma ədədlərinin köməyi ilə
+195. Say sistemiləri bölünür
+A) Mövqeli və mövqesiz
+B) ərəb və roma
+C) əlifba və rəqəmli
+D) Təqdim olunan bir sıra şəklində
+E) 2 və onluq
+196. Mövqeli say sistemində hesablama:
+A) hər bir rəqəmin qiyməti ədədin yazısında onun tutduğu mövqedən asılıdır
+B) hər bir rəqəmin qiyməti o ədədin yazısında tutduğu mövqedən asılı deyildir
+C) hər bir rəqəmin qiyməti ədədin yazılışında ayrı-ayrı hallarda, rəqəmin tutduğu mövqedən asılı deyil 
+D) ədədlərin yazılışı üçün istifadə olunan simvolların sayı birə bərabərdir.
+E) Hər bir simvolun qiymətinin miqdarı ədədin kodundakı vəziyyətindən asılı deyil
+197. İkilik say sistemindəhesablama bu dəyərlərə qarşı çıxır:
+A) kompüterin elementi yalnız iki vəziyyətdən istifadə etməklə məlumatların avtomatik işlənməsinə və əməliyyatların sadəliyinə imkan verir
+B) Sözü gedən sistemdən gündəlik həyatda geniş istifadə
+C) ədədin yazılışı ikilik say sistemində açıq və aşkardır
+D) kompüterin yaddaşına qənaət qənaət
+E) elektrik enerjisinə qənaət imkanı
+198. Onluq say sistemində verilmiş 1510ədədiikilik say sistemində necə yazılır?
+A) 1111(2)
+B) 111(2)
+C) 11(2)
+D) 10001(2)
+E) 1001(2)
+199. İkilik sayı sistemində yazılmış 10102ədədi onluq say sistemində necə qeyd edilir?
+A) 10
+B) 100
+C) 101
+D) 110
+E) 111
+200. Rəqəmin qiyməti onun ədədin yazılışındakı vəziyyətindən asılı deyil:
+A) mövqesiz say sistemləri
+B) mövqeli say sistemləri
+C) ərəbsay istemi
+D) ərəb və unar say sistemi
+E) ərəb və slavyan say sistemi
+201. Roma saysistemində yazılmış DCX ədədi nəyə bərabərdir?
+A) 610
+B) 510
+C) 690
+D) 410
+E) 690
+202. Roma say sistemində yazılmış CDX ədədi nəyə bərabərdir?
+A) 410
+B) 510
+C) 610
+D) 590
+E) 690
+203. 213(10) ədədinin ayrılışının düzgün yazılışını seçin:
+A) 2*102 + 1*101 + 3*100
+B) 3*102 + 1*101 + 2*100
+C) 2*103 + 1*102 + 3*101
+D) 2*22 + 1*21 + 3*20
+E) 3*22 + 1*21 + 2*20
+204. 110001(2)ədədini onluq say sistemində göstərin:
+A) 49
+B) 50
+C) 25
+D) 51
+E) 59
+205. 101,1(2)ədədini onluq say sistemində göstərin :
+A) 5.5
+B) 5.2
+C) 6.5
+D) 6.2
+E) 5.6
+206. 38 ədədini ikilik say sistemində göstərin:
+A) 100110(2)
+B) 110110(2)
+C) 11001(2)
+D) 110(2)
+E) 111101(2)
+207. 132(8) ədədini onluq say sistemdə göstərin:
+A) 90
+B) 80
+C) 45
+D) 19
+E) 60
+208. 1011101(2)ədədini səkkizlik say sistemində göstərin :
+A) 135(8)
+B) 531(8)
+C) 140(8)
+D) 26(8)
+E) 315(8)
+209. CD(16) ədədini onluq say sistemində yazın :
+A) 205(10)
+B) 65(10)
+C) 520(10)
+D) 5020(10)
+E) 250(10)
+210. 23(10) ədədini 16-lıq say sistemində göstərin:
+A) 17(16)
+B) 13(16)
+C) 54(16)
+D) 7(16)
+E) 71(16)
+211. 110111(2) ədədini 16-lıq say sisteminə tərcümə edin:
+A) 37(16)
+B) 45(16)
+C) 23(16)
+D) 54(16)
+E) 73(16)
+212. 3C(16) ədədini səkkizlik say sisteminə tərcümə edin:
+A) 74(8)
+B) 47(8)
+C) 71(8)
+D) 25(8)
+E) 52(8)
+213. 37(8) ədədini onluq say sisteminə tərcümə edin:
+A) 31(10)
+B) 13(10)
+C) 52(10)
+D) 12(10)
+E) 25(10)
+214. 13(8) ədədini 16-lıq say sisteminə tərcümə edin:
+A) D(16)
+B) b(16)
+C) C(16)
+D) A(16)
+E) E(16)
+215. Bir bit informasiya bu şəkildə təqdim oluna bilər
+A) 0 və ya 1
+B) 1
+C) 2
+D) 0, 2
+E) 0 və 1
+216. Onlardan biri ikilik şəkildə bir baytı ifadə edir:
+A) 1001101
+B) 11
+C) 123000
+D) АВСД
+E) düzgün cavab yoxdur
+217. Onlardan biri ikilik şəkildə bir baytı ifadə etmir: 
+A) 0 00112000 
+B) B) 0 
+C) 11111111 
+D) 1001101 
+E) 1111 
+218. 1 bayt nəyə bərabərdir: 
+A) 8 bit 
+B) 10 bit 
+C) 10 Кбайт 
+D) 10 bod 
+E) 16 bit 
+219. Kompüter - bu: 
+A) İnformasiya ilə işləmək üçün çoxfunksiyalı elektron qurğu 
+B) Ədədlər emalı üçün elektron qurğu 
+C) mətnlərlə işləmək üçün qurğu 
+D) istənilən növ informasiyanın saxlanması üçün qurğu 
+E) analoq siqnalların emalı üçün qurğu 
+220. Mexaniki hesablayıcı qurğu icad edib: 
+A) B. Paskal 
+B) P. Norton 
+C) Q. Leybnis 
+D) Ç. Bebbic 
+E) L. Da Vinçi 
+221. Rəqəmsal hesablayıcı maşınların əsas prinsipləri işlənib hazırlanmışdır 
+A) Con fon Neyman 
+B) Blez Paskal 
+C) Vilhelm Leybnis 
+D) Çarlz Bebbic 
+E) Vilhelm Şikkard 
+222. İlk Elektron Hesablama Maşını adlanırdı 
+A) ENİAK 
+B) MİNSK 
+C) BESM 
+D) IВМ 
+E) Абак
+223. İlk proqramlaşdırılan hesablama maşınının yaradılması ideyasını irəli sürüb 
+A) Ç. Bebbic 
+B) Q. Leybnis 
+C) B. Paskal 
+D) P. Norton 
+E) A. Lavleys 
+224. Elektron hesablama maşını (EHM) budur: 
+A) informasiyanın avtomatik emalı üçün nəzərdə tutulmuş texniki vasitələr kompleksi 
+B) informasiyanın emalı üçün aparat və proqram vasitələri kompleksi 
+C) Ona daxil olan komponentlərin qarşılıqlı fəaliyyət prinsiplərini, 
+D) qayda və tərkibini yaradan model 
+E) Hesab-məntiqi qurğu hesablama maşını 
+225. Fəaliyyət prinsipi üzrə hesablama maşınları üç böyük sinfə bölünür: 
+A) analoq, rəqəmsal, hibrid 
+B) analoq, rəqəmsal, elektron 
+C) Lampa, tranzistor, mikroprosessor 
+D) Kiçik, böyük, 
+E) böyük, çoxböyük, meynfreymlər 
+226. Ölçüsünə və funksional imkanlarına görə EHM-ləri bu siniflərə bölmək olar: 
+A) kiçik-EHM-lər, böyük EHM-lər, super EHM-lər 
+B) super kiçik EHM-lər, kiçik EHM-lər, böyük EHM-lər 
+C) super-EHM-lər, sverxsuper EHM-lər 
+D) böyük EHM-lər, Super EHM-lər, sverxsuper EHM-lər 
+E) kiçik EHM-lər, böyük EHM-lər, sverxböyük EHM-lər
+227. Bu meynfreymdir: 
+A) böyük- EHM 
+B) sverxböyük- EHM 
+C) super- EHM 
+D) kiçik- EHM 
+E) sverxkiçik- EHM 
+228. I-ci nəsilEHM-lərin baza elementləri: 
+A) elektron lampalar 
+B) Tranzistorlar 
+C) inteqral sxemlər 
+D) Böyük və çox böyük inteqral mikrosxemlər. 
+E) registrlər
+229. II-ci nəsil EHM-lərin baza elementləri: 
+A) tranzistorlar 
+B) elektron lampalar 
+C) inteqral sxemlər 
+D) Böyük və çox böyük inteqral sxemlər 
+E) registrlər
+230. III-cü nəsilEHM-lərin baza elementləri: 
+A) inteqral sxemlər 
+B) Tranzistorlar 
+C) Electron lampalar 
+D) Böyük və çoxböyük inteqral mikrosxemlər. 
+E) registrlər 
+231. IV-cü nəsil EHM-lərin baza elementləri: 
+A) Böyük və çoxböyük inteqral mikrosxemlər 
+B) Tranzistorlar 
+C) elektron lampalar 
+D) İnteqral sxemlər 
+E) mikrosxemlər 
+232. Dünyanın ilk proqramçısı kimdir: 
+A) A. Lavleys 
+B) Q. Leybnis 
+C) Con fon Neyman 
+D) B. Paskal 
+E) Ç. Bebbic 
+233. Analoq hesablama maşınlarının xüsusiyyəti: 
+A) rəqəmsiz, o fasiləsiz şəkildə məlumat düzəldir 
+B) rəqəmli, o fasiləsiz şəkildə məlumat düzəldir 
+C) rəqəmsiz, o дискретной formada məlumat düzəldir 
+D) rəqəmli, o дискретной formada məlumat düzəldir 
+E) düzgün cavab yoxdur 
+234. Böyük inteqral sxem özündə nə cəmləşdirir? 
+A) bu kristal lövhədir, burada onlarla və yüzlərlə məntiqi elementlər yerləşir 
+B) bir platada müxtəlif kondensatorlar vardır 
+C) bu Hesablayan Elektron Maşınlar işləmək üçün proqramlar qəbul 
+D) Bu müxtəlif funksiyaları yerinə yetirən lampaların dəstidir 
+E) mikrosxem dəsti 
+235. Alqoritm - bu: 
+A) aydın və dəqiq göstəriş ifaçısı, qarşıya qoyulan vəzifələrin həlli istiqamətində fəaliyyət ardıcıllığı deməkdir 
+B) bəzi həqiqi fikirlər, onlar qarşıya qoyulan məqsədə nail olunmasına yönəlməlidir 
+C) öz maddi köməyi ilə dünya nişanlarının və siqnalların konkret ifası üçün nəzərdə tutulan 
+D) İfaçı üçün təlimatlar sistemi 
+E) təsəvvür proqramlaşdırma dilində proqram kodu təsəvvür edir 
+236. Alqoritm icraçısı - bu 
+A) müəyyən hərəkətləri yerinə yetirməyi bacaran insan və ya kompüter dəsti 
+B) vacib əməllərin aydın və dəqiq göstərişi 
+C) müəyyən şərtlərlə fəaliyyətini yerinə yetirir 
+D) elementləri birləşdirənəlaqəli mərhələlərin yerinə yetirilməsialqoritmi 
+E) vəziyyətdən asılı olaraq alqoritm fəaliyyət göstərir 
+237. Düzgün hökmü seçin 
+A) alqoritm blok-sxem şəklində, həm də proqramlaşdırma dilində yazıla bilər 
+B) yalnız kompüter alqoritmin icraçısı ola bilər 
+C) alqoritm - bu, icra oluna bilən bütün komandaların məcmusudur 
+D) blok-sxem şəklində təqdim olunan alqoritmin, icraçısı kompyuter deyil 
+E) alqoritm proqramlaşdırma dilində yazılıb, icraçı insan deyil 
+238. Alqoritmin qrafik təsviri-bu: 
+A) Həndəsi füqurların köməyilə alqoritmin təsvir üsuludur 
+B) Alqoritmin cədvəl və hesablama düsturları ilə təsviridir. 
+C) İcra oluna bilən bütün komandaların yığımıdır 
+D) İxtiyari formada sxematik təsvirdir 
+E) Formallaşdırılmışməsələdir 
+239. Fərdi kompüterin qurğuları funksional olaraq hansı his-sələrdən təşkil olunmuşdur ? 
+A) daxili və xarici qurğulardan 
+B) prosessor və ətraf qurğulardan 
+C) ana plata və ətraf qurğulardan 
+D) vinçester və ətraf qurğulardan 
+E) magistral şin və ətraf qurğulardan 
+240. Fərdi kompüterin daxili qurğular harada yerləşir? 
+A) sistem blokunda 
+B) ana platada 
+C) prosessorda 
+D) sistem şinində 
+E) vinçesterdə 
+241. Qrafik rejimdə monitorun ayırdetmə imkanı 640x400, mətn rejimində isə 16x80- dır. Bir simvol üçün neçə piksel tələb olunur? 
+A) 40x5 
+B) 50x4 
+C) 25x8 
+D) 20x8 
+E) 80x2 
+242. Maşım sözü 2 bayt olan kompyuterdə sözün ünvanı hansı addımla dəyişir? 
+A) 16 
+B) 8 
+C) 1 
+D) 32 
+E) 2
+243. Maşım sözü 4 bayt olan kompyuterin operativ yaddaşı 2Kbaytdır. Sonuncu baytın və sonuncu maşın sözünün onluq ünvanını göstərin 
+A) 2048 və 2048 
+B) 2047 və 2044 
+C) 2048 və2045 
+D) 2047 və 2047 
+E) 2048 və 2044 
+244. İkqat sözün uzunluğuneçə baytdır? 
+A) 32 bayt 
+B) 16 bayt 
+C) 0.5 bayt 
+D) 64 bayt 
+E) Heç biri düz deyil
+245. I nəsil EHM -lərdə proqramlar hansı dildə yazılırdı? 
+A) Maşın dilində 
+B) Alqol dilində 
+C) Fortran dilində 
+D) Basic dilində 
+E) PL/1 dilində 
+246. Bu EHM-lərdən hası keçmiş SSRİ-də yaradılmışdır? 
+A) BESM-2 
+B) ENIAC 
+C) EDVAC 
+D) UNİVAC-1 
+E) EDSAC 
+247. Kompyuterin işi tam olaraq haradakı informasiya ilə müəyyən olunur? 
+A) Operativ yaddaşdakı informasiya ilə 
+B) Daimi yaddaşındakı informasiya ilə 
+C) Xarici yaddaşındakı informasiya ilə 
+D) Prosessorun reqis-tirlərində saxlanan informasiya ilə 
+E) Heç bidi döğru deyil 
+248. Analitik maşın haqqında bu fikirlərdən biri doğru deyil. Onu göstərin. 
+A) Analitik maşının proyektini Con fon Neyman vermişdir 
+B) Burad ilk dəfə informasiyanın əmr və verilənlərə bölünmə prinsipi reallaşmışdır
+C) Müasir kompyuterlərin birbaşa sələfi hesab olunur 
+D) Analitik maşın "anbar" və "dəyirman" kimi iki mühüm bloka malik idi 
+E) Analitik maşının proyektinin işlənməsində qrafinya Ada Lavleysin xüsusi rolu olmuşdur
+249. İstəlilən ədədinikilikrəqəmlərlə təvirinin mümkünlüyünü ilk olaraq kim təklif etmişdir?
+A) Q. V Leybnis 
+B) B. Paskal 
+C) V. Şikard 
+D) C. Bul 
+E) Ç. Bebbic
+250. Kompyuterin arxitekturasının əsas ideyası nə vaxt formulirovka olunm-uşdur? 
+A) XVII əsrin 40-cı illərində B. Paskal tərəfindən 
+B) XX əsrin 30-cu illərinin sonlarında 
+C) XX əsrin 40-cı illərinin sonlarındaCon fon Neyman tərəfindən 
+D) XIX əsrin əvəllərində Jakkard tərəfindən 
+E) XIX əsrin 30-cu illərində Ç. Bebbic tərəfindən 
+251. Hesabi-məntiqi qurğu... 
+A) proqramın əmrini yerinə yetirən blokdur 
+B) operativ yaddaşın həcmini artıran qurğudur 
+C) oyuqdur 
+D) reqistrdir 
+E) prosessorun daxilində deyil 
+252. Kompyuterin məntiqi sxeminə daxil deyil.. 
+A) xarici qurğular 
+B) verilənlər şini 
+C) Ünvanlı daxili yaddaş
+D) idarəetmə qurğusu 
+E) hesabi-məntiqi qurğu 
+253. Bunlardan hansı kompyuterin mərkəzi qurğusuna aiddir? 
+A) operativ yaddaş 
+B) monitor 
+C) klaviatura 
+D) disk sürücüsü 
+E) maus 
+254. Bunlardan hansı daxiletmə qurğusu deyil? 
+A) printer 
+B) maus 
+C) klaviatura 
+D) skayner 
+E) mikrofon 
+255. Idarəetmə qurğusu... 
+A) kompyuterin işini verilən proqram əsasında idarə edir 
+B) prosessorun işini idarə edir 
+C) monitorun işini idarə edir 
+D) informasiyanın giriş-çıxış qurğularının işini idarə edir 
+E) heç biri doğru deyil.
+256. Kompyuter verilənlərin hansı növü ilə işləyir? 
+A) analoq və ədədi 
+B) həqiqi və yalan 
+C) simvol, ədədi, qrafik, səs 
+D) obyektiv və subyektiv 
+E) hamısı ilə 
+257. Kompyuter verilənlərin hansı növü ilə işləyir? 
+A) analoq və ədədi 
+B) həqiqi və yalan 
+C) simvol, ədədi, qrafik, səs 
+D) obyektiv və subyektiv 
+E) hamısı ilə 
+158. Blok-sxemi şəkildə təsvir olunan alqoritm yerinə yetirildikdən sonra n nəyə bərabər olar?
+A) 3 
+B) 4 
+C) 5 
+D 6 
+E) 2 
+258. Bunlardan hansı 0.9 düzgün onluq kəsrinin ikilik ifadəsidir? 
+A) 0.1110011100... 
+B) 0.11001100... 0
+C) .10101010... 
+D) 0.111000111000... 
+E) 0.0101010101... 
+259. Onaltılıq EF,12 ədədini ikilik say sistemində yazmalı 
+A) 11101111,00010010 
+B) 11111110,11010011 
+C) 11001110,11010011 
+D) 11010110,11010011 
+E) 11000110,11101001 
+260. Neyman arxitekturalı kompüter neçə və hansı hissələrdən ibarətdir? 
+A) iki hissədən - mərkəzi və periferiya 
+B) üç hissədən – prosessor, yaddaş və giriş-çıxış qurğularından 
+C) iki hissədən – mərkəzi prosessor və ətraf qurğulardan 
+D) üç hissədən – saxlayıcı, emaledici və təqdimedici 
+E) üç hissədən – qəbuledici, emaledici, xaricedici 
+261. Say sistemi dedikdə, nə başa düşülür? 
+A) ədədlərin rəqəmlər vasitəsilə ifadə olunması üsulu 
+B) ədədlərin hesab-lanması qaydaları sistemi 
+C) asan hesablama qaydaları sistemi 
+D) müxtəsər hesablama qaydaları sistemi 
+E) bu variantların heç biri 
+262. Ədədin işarəsi harada və necə göstərilir? 
+A) soldan 0-cı mərtəbədə, 0 və ya 1 şəklində 
+B) soldan 0-cı mərtə-bədə, (-) və ya (+) şəklində 
+C) soldan 1-ci mərtə-bədə, 0 və ya 1 şəklində 
+D) soldan 1-ci mərtə-bədə, (-) və ya (+) şəklində 
+E) sağdan 1-ci mərtə-bədə, 0 və ya 1 şəklində 
+263. Ədədləri bir say sistemindən digərinə çevirməyə səbəb nədir? 
+A) Kompüter üçün 2-lik, istifadəçi üçün isə 10-luq say sistemi münasibdir 
+B) say sisteminin biri emal, digəri saxlama, başqası istifadə üçün münasibdir 
+C) say sistemlərinin çoxluğu manevretmə imkanlarını artırır 
+D) bir say sistemi etibarlıdır, lakin yaddaşda çox yer tutur 
+E) bir say sistemi yaddaşda az yer tutur, lakin emal vaxtını uzadır 
+264. Say sistemi… 
+A) kodlaşdırmanın bir formasıdır 
+B) kompüterin hesabi əsasıdır 
+C) hesablamanın təməl qaydasıdır 
+D) alqoritmin tərkib hissəsidir 
+E) kompüter qurğu-larının vəhdət halında işləməsinin təməlidir
+265. Təyinatına görə EHM-lərin hansı sinfi yoxdur? 
+A) Gibrid EHM-lər. 
+B) Boyük EHM-lər. 
+C) Mini-EHM-lər. 
+D) Mikro-EHM-lər. 
+E) Fərdi kompyuterlər.
+266. 1999 ədədini Roma say sistemində yazmalı.
+A) MCMXCIX 
+B) MMCXCXI 
+C) MCMCXIX 
+D) MCCMMXX 
+E) MMCCCXIX 
+267. İkilik yazılışlarında 4 vahid yerləşdirən ədədi göstərin 
+A) 15 
+B) 18 
+C) 21 
+D) 22 
+E) 28
+268. Böyük EHM-lərə aiddir: 
+A) İri müəssisələrdə istifadə olunması. 
+B) Məhsuldarlığının az olması. 
+C) Elektron lampalı elementlərdən təşkil olunması. 
+D) Qiymətinin ucuz olması. 
+E) Yaddaşın az olması. 
+269. Hansı II nəsil kopyuterlərə aiddir? 
+A) Yarımkeçiricilərdən ibarət idi. 
+B) Yaddaş tutumu, işləmə sürəti və avadanlığın iş sürəti yüksək idi 
+C) Elektron lampalı elementlərdən ibarət idi. 
+D) Mikroelektronika-lardan təşkil olunmuşdur
+E) İntegral sxemlər vasitəsilə yaradılmışdı. 
+270. Xarici yaddaşdakı proqram çağrılarkən ... düşür və ... emal olunur. Nöqtələrin yerinə uyğun gələn anlayışları yazın. 
+A) Operativ yaddaş qurğusu, prosessor 
+B) Prosessor, prosesso-run reqistrləri 
+C) Daimi yaddaş qurğusu , prosessor 
+D) Giriş qurğusu, prosessor 
+E) Çıxış qurğusu, prosessor 
+271. Hansı I nəsil kopyuterlərə aiddir? 
+A) Elektron lampalı element-lərdən ibarət idi. 
+B) Yaddaş tutumu, iş-ləmə sürəti və ava-danlığın iş sürəti yük-sək idi. 
+C) Yarımkeçiricilərdən ibarət idi. 
+D) Mikroelektronikalardan təşkil olunmuş-dur.
+E) İntegral sxemlər vasitəsilə yara-dılmışdı. 
+272. 0.1112 + x8 = 167 tənliyini həll edin, burada 2,7,8 -say sisteminin əsasıdır. 
+A) 14,1 
+B) 12,125
+C) 14,125 
+D) 12,325 
+E) 12,375
+273. İlk lampalı EHM necə adlanırdı? 
+A) ENIAC 
+B) STRELA 
+C) UNİVAC 
+D) MESM 
+E) BESM-1
+274. Neyman arxitekturalı kompüter neçə və hansı hissələrdən ibarətdir? 
+A) iki hissədən - mərkəzi və periferiya 
+B) üç hissədən – pro-sessor, yaddaş və giriş-çıxış qurğu-larından 
+C) iki hissədən – mərkəzi prosessor və ətraf qurğulardan 
+D) üç hissədən – saxlayıcı, emaledici və təqdimedici 
+E) üç hissədən – qəbuledici, emaledici, xaricedici
+275. EHM-lərin nəsilləri nə ilə fərqlənir? 
+A) element bazası ilə 
+B) məhsuldarlığı ilə 
+C) funksional imkanları ilə 
+D) qabariti ilə 
+E) tətbiq imkanları ilə
+276. 7 ədədinin sürüşkən vergüllü ikilik ifadəsində M -ikilik mantissa və p -ikilik tərtib nəyə bərabərdir? 
+A) M=0.111 , p=11 
+B) M=0.11, p=101 
+C) M=0.11, p=11 
+D) M=0.101 , p=11 
+E) M=0.101, p=111 
+277. Onluq 21 ədədinin sürüşkən vergüllü ikilik ifadəsində mantissada neçə ikilik vahid vardır?
+A) 3 
+B) 2 
+C) 1 
+D) 4 
+E) 5
+278. Kompyutelərin tarixən ilkin təsnifatı bunlardan hansi hesab olunur? 
+A) Təyinatına görə təsnifat 
+B) Buraxılış vaxtina görə təsnifat 
+C) Ölçüsünə görə təsnifat 
+D) Dizaynına görə təsnifat 
+E) Mikroprosessorun etibarlılığına görə təsnifat 
+279. Onluq 653 ədədi 16-lıq say sistemində nəyə bərabərdir? 
+A) 28D 
+B) 1382 
+C) 2813 
+D) D82 
+E) 2831 
+280. 4710=21x tənliyində x əsasını tapın: 
+A) 23 
+B) 22 
+C) 21 
+D) 20 
+E) 19 
+281. III nəsil kompyuterlərin yaradılması üçün zəmin oldu? 
+A) İnteqral sxemlərinin yaradılması. 
+B) Yeni proqram təminatının yaradılması 
+C) Yeni element bazasının yaradılması.
+D) İnformasiyanın təhlükəsizliyinin artırılması.
+E) Hesablama maşınlarının sayının artması. 
+282. Hansı ədədlər mantissa və tərtiblə verilir? 
+A) sürüşkən vergüllü ədəd 
+B) sabit vergüllü ədəd 
+C) simvol tipli verilənlər m
+D) əntiqi dəyişənlər 
+E) bütün rasional ədədlər 
+283. Sürüşkən nöqtəli (vergüllü) formada mantissa necə olmalıdır? 
+A) vergüldən sonra yalnız qiymətli rəqəm gəlməlidir 
+B) vergüldən sonra ixtiyari qiymətli rəqəm gələ bilər 
+C) vergüldən sonra ədədin müsbət tərtibi gəlməlidir 
+D) vergüldən sonra ədədin mənfi tərtibi gəlməlidir 
+E) vergüldən əvvəl ədədin tam hissəsinə aid qiymətli rəqəm gəlməlidir
+284. 32 mərtəbəli kompüterdə mantissa və tərtib üçün neçə bayt ayrılır? 
+A) mantissa üçün 3, tərtib üçün 1 bayt 
+B) mantissa üçün 2, tərtib üçün 2 bayt 
+C) mantissa üçün 4, tərtib üçün 1 bayt 
+D) mantissa üçün 3, tərtib üçün 2 bayt 
+E) mantissa üçün 4, tərtib üçün 2 bayt
+285. Roma say sistemindəki DCX ədədi 10-luq say sitemində nəyə bərabərdir? 
+A) 610 
+B) 510 
+C) 590 
+D) 410 
+E) 530
+286. Roma say sistemindəki CDX ədədi 10-luq say sitemində nəyə bərabərdir? 
+A) 410 
+B) 510 
+C) 590 
+D) 610 
+E) 530 
+287. 1101112 ədədi 16-lıq say sistemində nəyə bərabərdir? 
+A) 37 
+B) 45 
+C) 23 
+D) 54 
+E) 73
+288. 10111012 ədədi 8-liq say sistemində nəyə bərabərdir? 
+A) 135 
+B) 315 
+C) 140 
+D) 153 
+E) 513
+289. 01011 və 101 ikilik ədədlərinin hasilini hesablayın 
+A) 110111 
+B) 1011101 
+C) 101010 
+D) 101111 
+E) 1100110
+290. Fərdi kompüterin qurğuları funksional olaraq hansı his-sələrdən təşkil olunmuşdur ?
+A) daxili və xarici qurğulardan 
+B) prosessor və ətraf qurğulardan 
+C) ana plata və ətraf qurğulardan 
+D) vinçester və ətraf qurğulardan 
+E) magistral şin və ətraf qurğulardan 
+291. Fərdi kompüterin daxili qurğular harada yerləşir? 
+A) sistem blokunda 
+B) ana platada 
+C) prosessorda 
+D) sistem şinində 
+E) vinçesterdə 
+292. Qrafik rejimdə monitorun ayırdetmə imkanı 640x400, mətn rejimində isə 16x80- dır. Bir simvol üçün neçə piksel tələb olunur? 
+A) 40x5 
+B) 50x4 
+C) 25x8 
+D) 20x8 
+E) 80x2
+293. Maşım sözü 2 bayt olan kompyuterdə sözün ünvanı hansı addımla dəyişir? 
+A) 16 
+B) 8 
+C) 1 
+D) 32 
+E) 2
+294. Maşım sözü 4 bayt olan kompyuterin operativ yaddaşı 2Kbaytdır. Sonuncu baytın və sonuncu maşın sözünün onluq ünvanını göstərin 
+A) 2048 və 2048 
+B) 2047 və 2044 
+C) 2048 və2045 
+D) 2047 və 2047 
+E) 2048 və 2044 
+295. İkqat sözün uzunluğu neçə baytdır?
+A) 4 bayt 
+B) 2bayt 
+C) 0.5 bayt 
+D) 8bayt 
+E) 0.25bayt 
+296. I nəsil EHM -lərdə proqramlar hansı dildə yazılırdı? 
+A) Maşın dilində 
+B) Alqol dilində 
+C) Fortran dilində 
+D) Basic dilində 
+E) PL/1 dilində
+297. Bu EHM-lərdən hası keçmiş SSRİ-də yaradılmışdır? 
+A) STRELA 
+B) ENIAC 
+C) EDVAC 
+D) UNİVAC 
+E) EDSAC 
+298. Kompyuterin işi tam olaraq haradakı informasiya ilə müəyyən olunur? 
+A) Operativ yaddaşdakı informasiya ilə 
+B) Daimi yaddaşındakı informasiya ilə 
+C) Xarici yaddaşındakı informasiya ilə 
+D) Prosessorun reqis-tirlərində saxlanan informasiya ilə 
+E) Heç bidi döğru deyil
+299. Analitik maşın haqqında bu fikirlərdən biri doğru deyil: 
+A) Analitik maşının proyektini Con fon Neyman vermişdir 
+B) Burad ilk dəfə informasiyanın əmr və verilənlərə bölünmə prinsipi reallaşmışdır
+C) Müasir kompyuterlərin birbaşa sələfi hesab olunur 
+D) Analitik maşın "anbar" və "dəyirman" kimi iki mühüm bloka malik idi 
+E) Analitik maşının proyektinin işlənməsində qrafinya Ada Lavleysin xüsusi rolu olmuşdur
+300. İstəlilən ədədin ikilik rəqəmlərlə təvirinin mümkünlüyünü ilk olaraq kim təklif etmişdir?
+A) Q. V Leybnis 
+B) B. Paskal 
+C) V. Şikard 
+D) C. Bul 
+E) Ç. Bebbic
+301. İlk elektromexaniki kompyuteri hansı alim yaratmışdır? 
+A) K. Tsuze 
+B) B. Paskal 
+C) Q. Ayken 
+D) Q. V. Leybnis 
+E) Leonardo da 
+F) Vinçi 

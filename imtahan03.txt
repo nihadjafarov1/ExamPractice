@@ -1,0 +1,1854 @@
+1. İnformasiyanın çevrilməsi haqqında elm olub hesablama texnikasının əsasında yaranıb
+A) informatika
+B) internet
+C) informasiya
+D) modelləşdirmə
+E) avtomatlaşdırma
+2. İnformatika nələri nisbi müstəqil istiqamətlər kimi fərqləndirir
+A) məzmun, təşkilatı, texniki, alqoritmik və proqram məsələləri 
+B) məzmun, proqram məsələləri, alqoritmik və inzibati məsələləri
+C) istənilən məsələ
+D) proqram məsələləri
+E) heç biri
+3. İnformatika öyrənir
+A) informasiya, texniki proqram və s. təminatı məsələlərini
+B) biliklərin kompyuterdə əks olunmasını
+C) riyazi məsələlərin həllini
+D) texniki proqramların həlli üsullarını və idarəetmə məsələlərini
+E) istənilən məsələnin həlini
+4. Mütərəqqi informasiya texnoogiyalarına nə vaxt keçilməyə başlanmışdır?
+A) 80-ci illərin axırı 90-cı illərin əvvəlləri
+B) 70-ci illərin sonu 80ci illərin əvvəlləri
+C) 80-85ci illərdə
+D) 60cı illərin sonu 70ci illərin əvvəlləri
+E) 70ci illərin sonu
+5. Sistem fəaliyyəti nədən aslıdır
+A) informasiyanın miqdarından
+B) informasiyanın ölçüsündən
+C) informasiyanın sürətindən
+D) informasiyanın tezliyindən
+E) informasiyadan aslı deyil
+6. İnformasiya neçə aspektə tədqiq edilir
+A) 3
+B) 6
+C) 5
+D) 7
+E) 8
+7. İnformasiya hansı aspektdə tədqiq edilir
+A) praqmatik, semantik, sintaksis
+B) semantik, stoxastik, statik
+C) statik, dinamik, determinik
+D) statik, dinamik, emprik
+E) statik, dinamik
+8. İdarəetmə funksiyalarının tədqiqi və ümumiyyətlə idarəetmə prossesinin təşkilinin təhlili baxımından hər hansı bir vahidini neçə hissəyə ayırmaq olar
+A) 3
+B) 5
+C) 2
+D) 6
+E) 4
+9. İdarəetmə funksiyalarının tədqiqi və ümumiyyətlə idarəetmə prossesinin təşkilinin təhlili baxımından hər hansı bir vahidi hansılardır
+A) idarəedici sistem, idarəedilən sistem obyektin informasiya sistemi
+B) idarəedici sistem, stasionar sistem
+C) stasionar sistem, stoxastik sistemlər, informasiya sistemi və astatik
+D) stoxastik sistem, informasiya sistemi, astatik sistemi
+E) statik sistem, astatik sistem
+10. İnformasiya sistemi idarəedici və idarəedilən istemlər arasında nə rolunu oynayır
+A) əlaqələndirici
+B) qəbuledici
+C) şəbəkə
+D) dinamik
+E) ötürücü
+11. İnformasiya sistemi idarə edilən sistemin vəziyyətini əks etdirən informasiyanın yığılması saxlanılması axtarışı işlənməsi və nəyin təmin edir
+A) ötürülməsini
+B) determinikləşdirilməsini
+C) saxlanmasını
+D) stoxastikləşdirilməsini
+E) dinamikləşdirilməsini
+12. İdarəedici sistem əsas məqsəd və əmrlərinin məzmununu əvvəlcə nə sistemində müəyyən edir
+A) informasiya
+B) induktiv
+C) astatik
+D) statik
+E) stoxastik
+13. İnformasiya sistemi istehsalı izləyən və idarə edən orqan nə ilə təmin edir
+A) informasiya ilə
+B) biliklə
+C) istehsalla
+D) materialla
+E) heç nə ilə
+14. İnformasiyanın ən çox yayılmış hissəsini nə təşkil edir
+A) iqtisadi informasiya
+B) fiziki informasiya
+C) riyazi informasiya
+D) modelləşdirmə
+E) kompyuter
+15. İdarəetmə prossesində informasiyanın neçə cür baxımdan təsnifləşdirilməsi daha məqsədəuyğundur
+A) 2
+B) 3
+C) 5
+D) 6
+E) 4
+16. İdarəetmə prossesində informasiyanın hansı baxımdan təsnifləşdirilməsi daha məqsədəuyğundur
+A) funksional və texnoloji
+B) texnoloji və obyektiv
+C) funksional
+D) funksional və obyektiv
+E) müxtəlif
+17. Təcrübə göstərir ki funksional baxımdan təyiniləşdirilmiş informasiyanın funksiyaları necədir
+A) müxtəlif
+B) eyni
+C) xəttiləşdirilmiş
+D) qeyri xəttiləşdirilmiş
+E) parabolik
+18. Doğru cavabı seçin: Təcrübə göstərir ki funksional baxımdan təyiniləşdirilmiş informasiyanın funksiyaları
+A) müxtəlifdir
+B) eynidir
+C) qeyri xəttiləşdiriliş
+D) parabolik
+E) xəttiləşdirilmiş
+19. İqtisadi informasiya yaranma mərhələləri və mənbələri əlamətinə görə hansı informasiya növünə ayrılır
+A) ilkin və törəmə
+B) ilkin və sonrakı
+C) ilkin və sonuncu
+D) sonuncu və törəmə
+E) ilkin
+20. Törəmə informasiya neçə yerə bölünür
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+21. Törəmə informasiyanın növüdür
+A) aralıq və nəticə
+B) aralıq
+C) nəticə
+D) ötürücü və törəmə
+E) törəmə
+22. Törəmə informasiyanın növünü göstərin
+A) aralıq və nəticə
+B) aralıq ötürücü
+C) nəticə
+D) ötürücü
+E) törəmə
+23. İqtisadi informasiya doğruluğuna görə bölünür
+A) tam artıq və natamam
+B) artıq və natamam
+C) artıq və orta
+D) tam və orta
+E) orta və natamam
+24. Yararlı informasiyanın təkrarlanması nəticəsində mövcud olan və idarəetmə işlərində istifadə edilməyən informasiyaya nə deyilir
+A) artıq informasiya
+B) natamam informasiya
+C) orta informasiya
+D) törəmə informasiya
+E) dolğun informasiya
+25. İqtisadi məsələlərin həllini təmin etməyən idarəetmənin tələblərini ödəməyən məlumatlara nə deyilir
+A) natamam informasiya
+B) artıq informasiya
+C) orta informasiya
+D) törəmə informasiya
+E) dolğun informasiya
+26. İdarəetmə məsələlərinin düzgün və səmərəli həlli üçün informasiya nəinki yararlı və dolğun həm də necə olmalıdır
+A) obyektiv və düzgün
+B) obyektiv
+C) doğru
+D) tam və düzgün
+E) natamam və doğru
+27. Bu informasiya bilməkdən və bilmədən yol verilən səhvlər nəticəsində meydana gəlirlər
+A) düzgün olmayan informasiya
+B) düzgün informasiya
+C) səhv və obyektiv informasiya
+D) obyektiv informasiya
+E) natamam informasiya
+28. Bir qayda olaraq sabitlik əmsalının qiyməti neçədən çox olduqda informasiya şərti-sabit hesab edilə bilər
+A) 0.85
+B) 0.75
+C) 0.50
+D) 0.95
+E) 0.83
+29. Sabitlik əmsalının qiyməti neçədən çox olduqda informasiya şərti-sabit hesab oluna bilər
+A) 0.85
+B) 0.76
+C) 0.23
+D) 0.45
+E) 0.65
+30. Siqnalların formalarına görə informasiya bu növlərə ayrılır
+A) rəqəm, hərf, qrafiki
+B) rəqəm və qrafiki
+C) qrafiki və hərfi
+D) rəqəm və hərfi
+E) hərfi və işarə
+31. İqtisadi informasiyanın quruluşu neçə prinsip üzrə yaradıla bilər
+A) 2
+B) 5
+C) 4
+D) 3
+E) 6
+32. İqtisadi informasiyanın quruluşunda hansı prinsip üstünlük təşkil edir
+A) iyerarxik
+B) birsəviyyəli 
+C) çoxsəviyyəli
+D) ikisəviyyəli
+E) birsəviyyəli və çoxsəviyyəli
+33. İqtisadi informasiyanın bölünməz hissəsi necə adlanır
+A) rekvizit
+B) rekurent
+C) stoxastik
+D) iyerarxik
+E) determinik
+34. Doğru cavabı seçin: İqtisadi informasiyanın bölünməz hissəsi necə adlanır
+A) rekvizit
+B) rekurent
+C) stoxastik
+D) iyerarxik
+E) determinik
+35. İnformasiya oxları birləşib nə təşkil edir
+A) informasiya sistemini
+B) massivləri
+C) matrisləri
+D) modulları və matrrisləri
+E) iyerarxiyanı
+36. Məzmununa görə informasiya daşıyıcıları hansı daşıyıcılara bölünür
+A) ilkin və təkrar
+B) təkrar
+C) ilkin və son
+D) birinci və ikinci
+E) birinci və sonuncu
+37. İşlənmə prossesinə görə informasiya daşıyıcıları hansı daşıyıcılara bölünür
+A) başlanğıc və nəticə
+B) başlanğıc və son
+C) başlanğıc
+D) xüsusi
+E) nəticə
+38. İnformasiyanın kodlaşdırılması eyni zamanda nəticə informasiyasının nəyini sürətləndirir
+A) dekodlaşdırılması
+B) kodlaşdırılması
+C) terminallaşdırılması
+D) avtomatlaşdırılması
+E) sürətinin
+39. İqtisadi informasiyanı hansı sistemlər kodlaşdıra bilər
+A) sıralı, seriyalı, mövqeli
+B) kodlaşdırıla bilinən 
+C) sıralı və mövqeli
+D) sıralı və başlanğıc mövqeli
+E) hər hansı sistem
+40. Məlumatların daha yığcam və tez əks etdirilməsini kəsb edir
+A) kodlaşdırma
+B) fayl
+C) dekodlaşdırma
+D) modelləşdirmə
+E) heç biri
+41. Məlumatların xətti təşkili zamanı istisna olmaqla hər bir yazılış özündə əvvəlki və sonrakı əlaqələr olur
+A) birinci və sonuncu
+B) sonuncu
+C) birinci və ikinci
+D) birinci və beşinci
+E) sonuncu
+42. Məlumatların ardıcıl təşkili bir qayda olaraq hansı anlayışlara uyğun gəlir
+A) massiv və fayl
+B) massiv, bit və kb
+C) fayl
+D) fayl və bit
+E) kb
+43. Dəyişdirilməsi lazım gələn yazılışlar massivinə deyilir
+A) əsas yazılışlar massivi
+B) əlavə yazılışlar massivi
+C) sabit yazılışlar massivi
+D) kənar yazılışlar massivi
+E) dəyişdirilmiş massiv
+44. Məlumatlar adətən bu formada yaranır
+A) nizamlandırılmış
+B) müəyyənləşdirilmiş
+C) eyniləşdirilmiş
+D) strukturlaşdırılmış
+E) massivlər
+45. Birinci ağacların nizamlılığı anlayışını müəyyən etmək hansı anlayışı daxil etmək tələb olunur
+A) bir sıra ilkin anlayışlar
+B) bir sıra müxtəlif anlayışlar
+C) bir sıra eynitipli anlayışlar
+D) müxtəlif anlayışlar
+E) heç biri
+46. Məlumatların ardıcıl təşkili bir qayda olaraq bu anlayışlardan birinə uyğun gəlir
+A) massiv və fayl
+B) massiv
+C) fayl
+D) fayl və bit
+E) kb
+47. Sistemləri neçə əlamətə görə təsnifləşdirmək olar
+A) 2
+B) 3
+C) 5
+D) 4
+E) 6
+48. Sistemləri hansı əlamətlərə görə təsnifləşdirmək olar 1. fəaliyyət şərtlərinə görə 2. mürəkkəblik dərəcəsinə görə 3. ehtimal şərtlərinə görə
+A) 1 və 2
+B) 2 və 3
+C) 1 və 3
+D) 1, 2, 3
+E) heç biri
+49. Fəaliyyət şərtlərinə görə sistemlər hansılara bölünür
+A) determinə olunmuş və ehtimallı
+B) determinə olunmuş və stoxastik
+C) determinə olunmuş sistemlər
+D) droselli və şırnaqlı
+E) droselli
+50. Mürəkkəblik dərəcəsinə görə sistemlər bu sistemlərə bölünür
+A) sadə, mürəkkəb, çox mürəkkəb
+B) sadə və mürəkkəb
+C) sadə, orta, mürəkkəb
+D) sadə, mürəkkəb, cox sadə
+E) mürəkkəb və çox mürəkkəb
+51. Obyektin xüsusiyyətindən asılı olaraq funksional alt sistemlərin sayı neçə ola bilər
+A) 10 addan çox
+B) 1 addan çox
+C) 5 addan çox
+D) 100 addan çox
+E) 15 addan çox
+52. İnformasiya sistemlərini tətbiq sahəhərinə görə neçə əsas sinifə bölmək olar
+A) 4
+B) 2
+C) 3
+D) 5
+E) 6
+53. Özündən əvvəlki sistemlərin üstünlüklərini səmərəli şəkildə birləşdirən nə texnologiyasına xüsusi diqqət yetirilir
+A) müstəvi-server
+B) server
+C) modelləşdirmə
+D) informasiya
+E) kompyuter
+54. İnformasiya sisteminin böyük modelinin başlıca xüsusiyyətləri onun hansı şəbəkədən ibarət olmasıdır
+A) iki səviyyəli
+B) qlobal
+C) iyerarxik
+D) lokal
+E) lokal və qlobal
+55. Texnologiya termini yunan sözü olub hansı sözdən götürülüb
+A) techne
+B) texnos
+C) texno
+D) texnolog
+E) texnolos
+56. Texnologiya terminin mənası nədir
+A) bacarıq və ustalıq
+B) texnika
+C) informasiya
+D) termin
+E) oxunuş
+57. İnformasiya texnologiyasının qərar qəbulunun təmin edilməsi sistemin tərkibinə neçə əsas komponent daxildir
+A) 3
+B) 5
+C) 2
+D) 4
+E) 1
+58. Mərkəzləşdirilmiş texnologiyanın neçə müsbət cəhəti var
+A) bir sıra
+B) 2
+C) 3
+D) 4
+E) 5
+59. Müşahidələr göstərir ki idarəetmə sferalarında çalışan mütəxəssislərin vaxtının orta hesabla neçə faizi sənədlərlə işə sərf olunur?
+A) 31%
+B) 50%
+C) 75%
+D) 100%
+E) 90%
+60. İdarəetmə sferalarinda çalışan mütəxəssislərin vaxtinin neçə faizi iqtisadi təhlil işinə sərf edilir?
+A) 8%
+B) 5%
+C) 10%
+D) 50%
+E) 40%
+61. Çoxproqramlı rejimdə birinci və ikinci proqramin daxil edilməsi hansı vaxtda aparıla bilər?
+A) eyni vaxtda
+B) birinci proqram icra edildikdən sonra
+C) istənilən vaxt
+D) hər bir dəqiqə keçdikdən sonra
+E) aralarinda müəyyən vaxt məhtudiyyətiylə
+62. Məlumatın avtomatlaşdırılmış işlənməsi sistemlərinin ehtiyacları baxımından bu prosesin neçə cəhətin fərqləndirmək lazımdır
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+63. Periferiya avadanlıqıarı içərisində nəqdsiz pul dövriyyəsinin təşkili vasitələri xüsusi yer tutur. Həmin vasitələri şərti olaraq nə adlandırırlar
+A) plastik pullar və elektron pullar
+B) plastik pullar və kağız pullar
+C) elektron pullar kağız pullar inetal pullar 
+D) kağız pullar
+E) inetalpullar kagız pullar
+64. Qlobal komputer şəbəkələri ticarət və istehsal müəssələri üçün bütün gün ərzində fasiləsiz işləyən nə funksiyasını yerinə yetirir
+A) reklamçı 
+B) istifadəçi
+C) sayt
+D) istehsalçı
+E) anons
+65. Şəbəkənin funksiyası müəyyən informasiyanın nəyindən ibarətdir
+A) bir komputerdən digərinə ötrülməsindən
+B) informasiyanın internet vasitəsiylə ötürülməsindən
+C) informasiyanın @ mail vasitəsiylə ötrülməsindən
+D) informasiyanın yaddaş kartı vasitəsiylə digər komputerə ötürülməsindən
+E) ölçüsündən
+66. Doğru variantı seçin. İnformatika elmi öyrənir
+A) informasiya, texniki proqram və s. təminatı məsələlərini
+B) biliklərin komputerdə əks olunması 
+C) riyazi məsələlərin həllini
+D) texniki proqramların və alqoritmik məsələlərin həllini 
+E) alqoritmik məsələlərin həllini
+67. Hər hansı bir təşkilat vahidini neçə hissəyə ayırmaq olar
+A) 3
+B) 5
+C) 4
+D) 7
+E) 6
+68. Bu sistem idarəedici və idarə edilən sistemlər arasında əlaqələndirici rolunu oynayır
+A) informasiya
+B) astotik
+C) statik
+D) stoxastik
+E) analitik
+69. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq translyator neçə yerə ayrılır
+A) 2
+B) 5
+C) 6
+D) 4
+E) 8
+70. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq translyator hansılara bölünür 1. konpliyatorlar 2. interpetatorlara 3. generatorlara
+A) 1 və 2
+B) 1,2 və3
+C) 1və3
+D) 2və3
+E) yalnız 3
+71. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq traslyator hansılara bölünür
+A) konpliyator və interpertator
+B) konpliyator və fazifikator
+C) kanpliyator translyator interpertator
+D) interpertaror generator
+E) interpertator və fazifikator
+72. Məlumatların məntiqi təşkilini elementar vahidi olmaqla informasiyanın bölünməyən quruluş vahidi hesab edilən rekvizitinə uyğun gələni
+A) sahə
+B) fayl
+C) açar
+D) menyu
+E) model
+73. Bir-birilə məntiqi əlaqədə olan rekvizitlərə uyğun sahələrin toplusudur
+A) yazılış
+B) fayl
+C) açar
+D) model
+E) menyu
+74. Doğru variantı seçin: Bir-birilə məntiqi əlaqədə olan rekvizitlərə uyğun sahələrin toplusudur
+A) yazılış
+B) fayl
+C) açar
+D) model
+E) menyu
+75. Ayrı-ayrı sahələrdə qiymətləri göstərilən eyni quruluşa malik yazılış nüsxələrinin çoxluğudur
+A) fayl
+B) açar
+C) menyu
+D) model
+E) elektron qurğu
+76. Müxtəlif sahələrdə qiymətləri göstərilən eyni quruluşa malik yazılış nüsxələrinin çoxluğudur
+A) fayl
+B) açar
+C) menyu
+D) model
+E) elektron qurğu
+77. Ümumi halda yazılış açarları neçə növ olur
+A) 2
+B) 3
+C) 5
+D) 4
+E) 6
+78. Ümumi halda yazılış açarlarının düzgün sırasını göstərin
+A) birinci və ikinci açar
+B) ikinci və üçüncü açar
+C) əvvəlinci və sonuncu açar
+D) sonuncu açar
+E) birinci və sonuncu açar
+79. Məlumat bordlarındakı çoxməqsədli qaydada istifadəni məlumatların mühafizəsini təmin edir
+A) MBİS
+B) Sİ
+C) EHM
+D) SİS
+E) KM
+80. MB-nin quruluşu formalaşdıqdan sonra informasiya mənbəyi olan sənədlərdən MB-nin nəyi həyata keçirilir
+A) yüklənməsi
+B) oxunması
+C) ötürülməsi
+D) silinməsi
+E) tətbiqi
+81. Bu sistem məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+82. Hansı sistem məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+83. Sistemlərdən biri məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+84. Burada məlumatlar xüsusi obyektlərdə saxlanılır
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+85. İstifadəçi iş yerində yalnız müxtəlif rejimlərdə hansı əməliyyatları yerinə yetirmək imkanına malikdir
+A) giriş və çıxış
+B) lokal və qlobal
+C) daxili və xarici
+D) daxili
+E) xarici
+86. Harada fərdi komyuterlərdən istifadənin texnoloji baxımdan özünəməxsus xüsusiyyətləri və üstünlükləri var
+A) avtomatlaşdırılmış informasiya texnologiyalarında
+B) kompyuter modelləşdirilməsində
+C) EHM-lərdə
+D) süni intellekt sistemlərində
+E) avtomatik idarəetmə sistemlərində və EHM-lərdə
+87. Bunlardan biri yeni informasiya texnikasının inkişafının aparıcı meyli hesab edilir
+A) qloballaşdırma
+B) canlandırma
+C) modelləşdirmə
+D) kompyuter
+E) avtomatlaşdırma
+89. Texnoloji əməliyyatları neçə əlamətə görə təsnifləşdirmək olar
+A) müxtəlif
+B) iki
+C) üç
+D) beş
+E) on
+90. Hansı texnologiya məsələlərin qoyuluşu və onların həlli alqoritmləri ilə birbaşa əlaqədardır
+A) maşındaxili
+B) elektron
+C) terminal
+D) informasiya
+E) xüsusi
+91. Aşağıdakılardan hansı tranzaksiyaların idarə olunması sisteminə qoyulan əsas tələbdir
+A) Ədalətlilik prinsipi 
+B) Bloklaşdırma 
+C) Ratifikasiya 
+D) Vaxt nişanı 
+E) Uzun ömürlülük 
+92. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur 
+A) Bloklaşdırma 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+93. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur? 
+A) Vaxt nişanı 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+94. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur? 
+A) Ratifikasiya 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+95. Tranzaksiyaların seriallanan olması üçün əsas şərt nədir? 
+A) Qrafda dövrün olmaması 
+B) Qrafda dövrün olması 
+C) Qrafda təpə nöqtələrinin sayının 10-dan az olması 
+D) Qrafda təpə nöqtələrinin sayının 10-dan çox olması 
+E) Tranzaksiyanın uzun olması 
+96. İki fazalı bloklaşdırma mexanizmində ikinci fazada hansı əmr yerinə yetirilir 
+A) Unlock 
+B) Update 
+C) Write 
+D) Lock 
+E) Delete 
+97. D-qrafda nə yoxlanılır 
+A) Dövrün olub-olmaması 
+B) Tranzaksiyaların sayı 
+C) Tranzaksiyaların istiqaməti 
+D) Tranzaksiyaların ötürülməsi 
+E) Tillərin istiqaməti 
+98. Tranzaksiyaların idarə olunmasının baza alqoritmində DO əmri nəyi bildirir?
+A) Aktiv vəziyyət 
+B) Passiv vəziyyət 
+C) Hazır vəziyyət 
+D) Tranzaksiyanı aktivləşdirmək 
+E) Alttranzaksiyanı yerinə yetirmək 
+99. Tranzaksiyaların idarə olunmasının baza alqoritmində INIT əmri nəyi bildirir 
+A) Passiv vəziyyət 
+B) Hazır vəziyyət 
+C) Aktiv vəziyyət 
+D) Tranzaksiyanı aktivləşdirmək 
+E) Alttranzaksiyanı yerinə yetirmək 
+100. Tranzaksiyaların idarə olunmasının baza alqoritmində Ready əmri nəyi bildirir 
+A) Hazır vəziyyət 
+B) Aktiv vəziyyət 
+C) Tranzaksiyanı aktivləşdirmək 
+D) Passiv vəziyyət 
+E) Alttranzaksiyanı yerinə yetirmək 
+101. Tranzaksiyaların idarə olunmasının baza alqoritmində Reject əmri nəyi bildirir 
+A) Tranzaksiya yerinə yetirilə bilmir 
+B) Tranzaksiyanın nəticəsi verilənlər bazasına yazılır 
+C) Tranzaksiya ləğv olunur 
+D) Məlumat göndərilir 
+E) Məlumat alınır 
+102. Tranzaksiyaların idarə olunmasının baza alqoritmində Commit əmri nəyi bildirir? 
+A) Tranzaksiyanın nəticəsi verilənlər bazasına yazılır 
+B) Tranzaksiya ləğv olunur 
+C) Məlumat göndərilir 
+D) Məlumat alınır 
+E) Tranzaksiya yerinə yetirilə bilmir 
+103. Tranzaksiyaların idarə olunmasının baza alqoritmində Send əmri nəyi bildirir 
+A) Məlumat göndərilir 
+B) Tranzaksiya ləğv olunur 
+C) Tranzaksiyanın nəticəsi verilənlər bazasına yazılır 
+D) Tranzaksiya yerinə yetirilə bilmir 
+E) Məlumat alınır 
+104. Tranzaksiyaların idarə olunmasının baza alqoritmində Update əmri nəyi bildirir 
+A) Emal etmək 
+B) Məlumat alınır 
+C) Məlumat göndərilir 
+D) Tranzaksiya ləğv olunur 
+E) Tranzaksiyanın nəticəsi verilənlər bazasına yazılır 
+105. Bloklaşdırma alqoritmində Lock əmri nəyi bildirir 
+A) Bloklaşdırmanı 
+B) Blokdan azad olunmanı 
+C) Növbənin boş olmasını 
+D) Növbənin bir addım yuxarı yerdəyişməsini 
+E) Resursun emal olunmasını 
+106. Bloklaşdırma alqoritmində Unlock əmri nəyi bildirir 
+A) Blokdan azad olunmanı 
+B) Növbənin boş olmasını 
+C) Növbənin bir addım yuxarı yerdəyişməsini 
+D) Resursun emal olunmasını 
+E) Bloklaşdırmanı 
+107. Bloklaşdırma alqoritmində R=lock əmri nəyi bildirir 
+A) Resursun blokda olmasını 
+B) Resursun blokda olmamasını 
+C) Növbənin bir addım yuxarı yerdəyişməsini 
+D) Blokdan azad olunmanı 
+E) Resursun emal olunmasını 
+108. Bloklaşdırma alqoritmində Inqueue əmri nəyi bildirir 
+A) Tranzaksiya növbəyə durur 
+B) Nəticə buferə yazılır 
+C) Nəticə verilənlər bazasına yazılır 
+D) Nəticə stabil yaddaşa yazılır 
+E) Resurs emal olunur 
+109. send (TM: ready) nəyi bildirir 
+A) TM qovşağına hazırlıq barədə məlumat göndərilir 
+B) TM qovşağına tranzaksiyadan imtina barədə məlumat göndərilir 
+C) TM qovşağına nəticənin stabil yaddaşa yazılması barədə məlumat göndərilir 
+D) TM qovşağına nəticənin verilənlər bazasına yazılması barədə məlumat göndərilir 
+E) TM qovşağına lokal yoxlama nöqtəsinin yaradılması barədə məlumat göndərilir 
+110. send(TM: Reject) nəyi bildirir? 
+A) TM qovşağına tranzaksiyadan imtina barədə məlumat göndərilir 
+B) TM qovşağına hazırlıq barədə məlumat göndərilir 
+C) TM qovşağına nəticənin stabil yaddaşa yazılması barədə məlumat göndərilir 
+D) TM qovşağına nəticənin verilənlər bazasına yazılması barədə məlumat göndərilir 
+E) TM qovşağına lokal yoxlama nöqtəsinin yaradılması barədə məlumat göndərilir 
+111. Aşağıdakılardan hansı aktiv vəziyyəti göstərir 
+A) DO 
+B) INIT 
+C) Start 
+D) Tact 
+E) Ready 
+112. Aşağıdakılardan hansı passiv vəziyyəti göstərir 
+A) INIT 
+B) DO 
+C) Start 
+D) Tact 
+E) Ready 
+113. Aşağıdakılardan hansı hazırlıq vəziyyəti göstərir 
+A) Ready 
+B) INIT 
+C) DO 
+D) Start 
+E) Tact 
+114. Aşağıdakılardan hansı tranzaksiyanın yaradılmasını göstərir 
+A) Tact 
+B) Ready 
+C) INIT 
+D) DO 
+E) Start 
+115. Aşağıdakılardan hansı alttranzaksiyanın yerinə yetirilməsininə başlamağı göstərir? 
+A) Start 
+B) Tact 
+C) Ready 
+D) INIT 
+E) DO 
+116. Aşağıdakılardan hansı tranzaksiyanın yerinə yetirilməməsini göstərir?
+A) Reject 
+B) Commit 
+C) Abort 
+D) Send 
+E) Rec 
+117. Aşağıdakılardan hansı tranzaksiyanın nəticəsinin verilənlər bazasına yazılmasını göstərir 
+A) Commit 
+B) Abort 
+C) Send 
+D) Rec 
+E) Reject 
+118. Aşağıdakılardan hansı məlumatın göndərilməsini göstərir 
+A) Send 
+B) Commit 
+C) Abort 
+D) Rec 
+E) Reject
+119. Aşağıdakılardan hansı resursun bloklaşdırılması üçündür 
+A) Lock 
+B) Unlock 
+C) Delete 
+D) Write 
+E) Inqueue 
+120. Aşağıdakılardan hansı resursun blokdan azad olunması üçündür 
+A) Unlock 
+B) Delete 
+C) Write 
+D) Inqueue 
+E) Lock 
+121. Aşağıdakılardan hansı tranzaksiyanın pozulması üçündür 
+A) Delete 
+B) Unlock 
+C) Write 
+D) Inqueue 
+E) Lock 
+122. Aşağıdakılardan hansı tranzaksiyanın növbəyə yazılması üçündür 
+A) Inqueue 
+B) Delete 
+C) Unlock 
+D) Write 
+E) Lock 
+123. Aşağıdakılardan hansı tranzaksiyanın nəticəsinin verilənlər bazasına yazılması üçündür 
+A) Write DB 
+B) Write Buf 
+C) Write SM 
+D) Delete Buf 
+E) Delete DB 
+124. Aşağıdakılardan hansı tranzaksiyanın nəticəsinin buferə yazılması üçündür 
+A) Write Buf 
+B) Write SM 
+C) Delete Buf 
+D) Delete DB 
+E) Write DB 
+125. Aşağıdakılardan hansı buferin pozulması üçündür?
+A) Delete Buf 
+B) Write SM 
+C) Write DB 
+D) Delete DB 
+E) Write Buf 
+126. Qərar qəbuletmə prosesi...... ?
+A) Mövcud alternativlər sırasında optimal qərarın, yəni alternativin müxtəlif meyarları ödəmək şərti ilə seçimi deməkdir
+B) Təşkilatın istifadə etdiyi xarakterli sənədlər, alternativin müxtəlif əlamətləri üçün meyarları şdəmək üçün olan sənədlərdir
+C) Tətbiqi proqramlarda verilənlərin ötürülməsidir
+D) Optimal sürətin seçimi deməkdir
+E) Heç biri
+1. İmitasiyalı modelləşdirmə nədir?
+A) Proseslərin reallıqdakı kimi təsvirinə imkan verən model
+B) Proseslərin sadələşdirilmiş qaydada təsvirinə imkan verən model
+C) Proseslərin mürəkkəb qaydada təsvirinə imkan verən model
+D) B, C
+E) Düzgün cavab yoxdur
+127. Hansı verilənlərlə kifayət qədər dayanıqlı statistika almaq mümkündür
+A) Nəticəsi proseslərin təsadüfi xarakteri ilə təyin edilən 
+B) Nəticəsi proseslərin ilkin xarakteri ilə təyin edilən
+C) Nəticəsi proseslərin son xarakteri ilə təyin edilən
+D) Nəticəsi əvvəlcədən düşünülmüş olan verilənlərlə
+E) Düzgün cavab yoxdur
+128. İmitasiyalı modelləşdirmə necə metoddur
+A) Tədqiqat 
+B) Əlverişsiz
+C) Təyinat
+D) Təqdimat
+E) Təsadüfi
+129. Tədqiqat metodu nədir
+A) A, B, C 
+B) Real sistemin dəqiqliklə təsvirinə imkan verir
+C) Tədqiq olunacaq sistem modellə əvəz olunur
+D) Sistem haqqında informasiya almaq məqsədilə sınaqlar keçirilir
+E) B, C
+130. Model nədir
+A) Tədqiq olunan obyektin hər hansı bir formal dillə təsviri 
+B) Tədqiq olunan obyektin fiziki qaydada təsviri
+C) Tədqiq olunan obyektin müəyyən dəyişikliklərlə təsviri
+D) Obyektin girişlərinin riyazi təsviri
+E) Obyektin çıxışlarının riyazi təsviri
+131. Modelləri təsnifləndirmək üçün istifadə olunan əsas meyyarlar hansılardır
+A) Bütün cavablar doğrudur
+B) Xətti, qeyri xətti
+C) Kəsilməz, diskret
+D) Determinə olunmuş, stoxastik
+E) Dinamiki, statik
+132. İmitasiyalı modelləşdirmə hansı modelləmənin xüsusi halıdır
+A) Riyazi modelləşdirmə
+B) Fiziki modelləşdirmə
+C) Sadə modelləşdirmə
+D) Mürəkkəb modelləşdirmə
+E) Məntiqi modelləşdirmə
+133. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir 
+A) inkişaf etmiş kommunikativ qabiliyyət
+B) inkişaf etməmiş kommunikativ qabiliyyət
+C) inkişaf etmiş korporativ qabiliyyət
+D) inkişaf etməmiş korporativ qabiliyyət
+E) hamısı
+134. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir  
+A) mürəkkəb pis formalaşmış məsələləri həll etmə bacarığı
+B) sadə pis formalaşmış məsələləri həll etmə bacarığı
+C) mürəkkəb yaxşı formalaşmış məsələləri həll etmə bacarığı
+D) sadə yaxşı formalaşmış məsələləri həll etmə bacarığı
+E) heç biri
+135. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir     
+A) öz-özünə öyrənmə qabiliyyəti
+B) öz-özünə öyrətmə qabiliyyəti
+C) öz-özünə öyrənmə keyfiyyəti
+D) öz-özünə öyrətmə keyfiyyəti
+E) heç biri
+136. İntellektual informasiya sistemləri (İİS) üçün aşağıdakı əlamətlər xarakterikdir     
+A) Adaptivlik
+B) Adekvatlıq
+C) Aktuallıq
+D) Dolğunluq
+E) Tamlıq
+137. Əldə olunmuş biliklər müəyyən qaydalar formasında ifadə olunmaqla ... əmələ gətirirlər      
+A) biliklər bazasını
+B) verilənlər bazasını
+C) ekspert biliyini
+D) mühəndis biliyini
+E) süni intellekti
+138. Biliklərin təsvir modeli ...     
+A) ekspertlərdən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+B) sistemdən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+C) predmet sahəsindən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+D) verilənlər bazasından alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+E) bilik bazasından alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+139. ... qaydalara əsaslanan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir.    
+A) Produksion model 
+B) semantik şəbəkə modeli
+C) relyasion model
+D) formal məntiq modeli
+E) freym model
+140. Biliklərin təsvirinin məntiqi modeli ... modeldəki şərt əlaqələrinin məntiqi ifadəsinə əsaslanır     
+A) produksion
+B) freym
+C) formal
+D) relyasion
+E) semantik
+141. Biliklərin təsvirinin ... modeli hər bir obyektin onu səciyyələndirən müəyyən cəhətlər, göstəricilər, xüsusiyyətlər, bir sözlə, kriteriyalara münasibətinə əsasan qurulur     
+A) relyasion
+B) produksion
+C) freym
+D) semantik
+E) formal məntiq
+142. Ekspert sistemlər:     
+A) konkret predmet sahəsində mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks proqramlardır
+B) informatika sahəsində mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks proqramlardır
+C) kibernetika sahəsində mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks proqramlardır
+D) texnologiya sahəsində mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks proqramlardır
+E) bütün sahələrdə mütəxəssis biliklərini özündə əks etdirən və az kvalifikasiyalı istifadəçilərə qərara gəlməkdə məsləhətçi olan mürəkkəb kompleks proqramlardır
+143. Ekspert:       
+A) müəyyən predmet sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+B) informatika sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+C) kibernetika sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+D) texnologiya sahəsində mükəmməl biliyə, böyük təcrübəyə malik yüksək kvalifikasiyalı mütəxəssisdir
+E) bütün sahələrdə mükəmməl biliyə, böyük təcrübəyə malik az kvalifikasiyalı mütəxəssisdir
+144. İzah mexanizmi:     
+A) sistemdə həllin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+B) sistemdə proqramın tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+C) sistemdə əmrin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+D) sistemdə sorğunun tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+E) sistemdə verilənlərin tapılması ardıcıllığını, sistemdən necə istifadə olunması qaydasını izah edir
+145. Aralıq mexanizm:      
+A) istifadəçi ilə sistem arasında münasibəti təşkil edir
+B) sifarişçi ilə sistem arasında münasibəti təşkil edir
+C) icraçı ilə sistem arasında münasibəti təşkil edir
+D) istehsalçı ilə sistem arasında münasibəti təşkil edir
+E) idxalçı ilə sistem arasında münasibəti təşkil edir
+146. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Daxili interpretasiya
+B) Xarici interpretasiya
+C) Daxili inteqrasiya
+D) Xarici inteqrasiya
+E) Heç biri
+147. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir
+A) Strukturlaşma
+B) Vizuallaşma
+C) Təkminləşmə
+D) Testləşmə
+E) Heç biri
+148. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir 
+A) Bağlılıq
+B) Passivlik
+C) Aktuallıq
+D) Adekvatlıq
+E) Dolğunluq
+149. Aşağıdakı xüsusiyyət bilikləri səciyyələndirən əsas cəhətdir  
+A) Aktivlik
+B) Passivlik
+C) Aktuallıq
+D) Adekvatlıq
+E) Dolğunluq
+150. Bilikləri üç böyük qrupa bölmək mümkündür   
+A) Faktlar (faktiki biliklər) 
+B) Qraflar (faktiki biliklər) 
+C) Testlər (faktiki biliklər) 
+D) Qrafiklər (faktiki biliklər) 
+E) Formalar (faktiki biliklər) 
+151. Bilikləri üç böyük qrupa bölmək mümkündür   
+A) Qaydalar (qərar qəbul olunması üçün biliklər) 
+B) Əmrlər (qərar qəbul olunması üçün biliklər) 
+C) Sorğular (qərar qəbul olunması üçün biliklər) 
+D) Verilənlər (qərar qəbul olunması üçün biliklər) 
+E) Qərarlar (qərar qəbul olunması üçün biliklər) 
+152. Bilikləri üç böyük qrupa bölmək mümkündür  
+A) Metabiliklər (bilik haqqında bilik) 
+B) Meqabiliklər (bilik haqqında bilik) 
+C) Giqabiliklər (bilik haqqında bilik) 
+D) Zetabiliklər (bilik haqqında bilik) 
+E) Pentabiliklər (bilik haqqında bilik) 
+153. Biliklərin təsvir modeli:     
+A) ekspertlərdən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+B) istifadəçilərdən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+C) sifarişçilərdən alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+D) icraçılardan alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+E) istehsalçılardan alınmış biliklərin müəyyən qaydalar formasında təqdim olunmasına xidmət edir
+154. Yaradılma məqsədindən asılı olaraq ES ... qrupa bölünür  
+A) 8
+B) 12
+C) 6
+D) 14
+E) 9
+155. Biliklərin paylanma xarakterinə görə mərkəzləşmiş və paylanmış ... əsasında yaradılan ES mövcuddur.    
+A) BB
+B) VB
+C) İS
+D) Sİ
+E) heç biri
+156. ES-in yaradılması ... mərhələdən ibarətdir  
+A) 5
+B) 7
+C) 8
+D) 6
+E) 3
+157. İntellektual proqram təminatının yaradılması texnologiyası məhşur alqoritmik dillərdən istifadə etməklə işlənmiş ənənəvi ... təminatından kifayət dərəcədə fərqlənir      
+A) proqram
+B) kompüter
+C) sistem
+D) riyazi
+E) texniki
+158. ES-də biliklərin təsvir modellərinin təsnifatı belədir  
+A) produksion model, semantik şəbəkə modeli
+B) produksion model, lokal şəbəkə modeli
+C) produksion model, qlobal şəbəkə modeli
+D) produksion model, vizual şəbəkə modeli
+E) produksion model, qarışıq şəbəkə modeli
+159. ES-də biliklərin təsvir modellərinin təsnifatı belədir 
+A) freym model, formal məntiq modeli
+B) freym model, faktiki məntiq modeli
+C) freym model, vizual məntiq modeli
+D) freym model, riyazi məntiq modeli
+E) freym model, fiziki məntiq modeli
+160. ES-də biliklərin təsvir modellərinin təsnifatı belədir  
+A) relyasion model, problem yönümlü modellər
+B) relyasion model, obyekt yönümlü modellər
+C) şəbəkə modeli, problem yönümlü modellər
+D) şəbəkə modeli, obyekt yönümlü modellər
+E) iyerarxik model, problem yönümlü modellər
+161. Produksion model:     
+A) qaydalara əsaslanan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir
+B) qaydalara əsaslanmayan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir
+C) əmrlərə əsaslanan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir
+D) əmrlərə əsaslanmayan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir
+E) sorğulara əsaslanan modeldir, bilikləri "Əgər (şərt) , onda (nəticə) " tipində təsvir etməyə imkan verir.
+162. Semantik şəbəkə:    
+A) istiqamətlənmiş qrafdır, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+B) istiqamətlənməmiş oxdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+C) istiqamətlənməmiş obyektdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+D) istiqamətlənməmiş xəttdir, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+E) istiqamətlənmiş blokdur, onun təpələri anlayışları, xətlər isə anlayışlar arasındakı münasibətləri ifadə edir
+163. Semantik şəbəkədə olan münasibətlər   
+A) "hissə- tam" tipli əlaqələr (sinif-qrup, element- çoxluq) 
+B) "hissə- tam" tipli fərqlər (sinif-qrup, element- çoxluq) 
+C) "hissə- tam" tipli əmrlər (sinif-qrup, element- çoxluq) 
+D) "hissə- tam" tipli sorğular (sinif-qrup, element- çoxluq) 
+E) "hissə- tam" tipli sistemlər (sinif-qrup, element- çoxluq) 
+164. Semantik şəbəkədə olan münasibətlər (II) :   
+A) funksional əlaqə ("baş verir", "təsir edir" və s. ) 
+B) sistemli əlaqə ("baş verir", "təsir edir" və s. ) 
+C) strukturlu əlaqə ("baş verir", "təsir edir" və s. ) 
+D) məntiqi əlaqə ("baş verir", "təsir edir" və s. ) 
+E) xüsusi əlaqə ("baş verir", "təsir edir" və s. ) 
+165. Semantik şəbəkədə olan münasibətlər  
+A) kəmiyyət xarakterli əlaqə (çox, az, bərabər və s. ) 
+B) keyfiyyət xarakterli əlaqə (çox, az, bərabər və s. ) 
+C) kəşviyyat xarakterli əlaqə (çox, az, bərabər və s. ) 
+D) mühafizə xarakterli əlaqə (çox, az, bərabər və s. ) 
+E) müşayiət xarakterli əlaqə (çox, az, bərabər və s. ) 
+166. Semantik şəbəkədə olan münasibətlər   
+A) məkan xarakterli əlaqə (uzaq, yaxın, altında, üstündə, içində və s. ) 
+B) kəmiyyət xarakterli əlaqə (uzaq, yaxın, altında, üstündə, içində və s. ) 
+C) keyfiyyət xarakterli əlaqə (uzaq, yaxın, altında, üstündə, içində və s. ) 
+D) kəşviyyat xarakterli əlaqə (uzaq, yaxın, altında, üstündə, içində və s. ) 
+E) mühafizə xarakterli əlaqə (uzaq, yaxın, altında, üstündə, içində və s. ) 
+167. Semantik şəbəkədə olan münasibətlər  
+A) atribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s. ) 
+B) disribut əlaqələr (cəhətlərə malikdir, mahiyyəti var və s. ) 
+C) əsas əlaqələr (cəhətlərə malikdir, mahiyyəti var və s. ) 
+D) sıx əlaqələr (cəhətlərə malikdir, mahiyyəti var və s. ) 
+E) açıq əlaqələr (cəhətlərə malikdir, mahiyyəti var və s. ) 
+168. Semantik şəbəkədə olan münasibətlər (VI) :  
+A) məntiqi əlaqələr (və, və ya, yox) 
+B) riyazi əlaqələr (və, və ya, yox) 
+C) funksional əlaqələr (və, və ya, yox) 
+D) tam əlaqələr (və, və ya, yox) 
+E) düz əlaqələr (və, və ya, yox) 
+169. Semantik şəbəkədə olan münasibətlər  
+A) linqvistik əlaqələr
+B) linqvistik vasitələr
+C) linqvistik xüsusiyyətlər
+D) linqvistik xarakter
+E) linqvistik sistemlər
+170. Freym model 
+A) hər hansı qavranışın abstrakt obrazıdır
+B) hər hansı qavranışın qrafiki obrazıdır
+C) hər hansı qavranışın orijinal obrazıdır
+D) hər hansı qavranışın struktur obrazıdır
+E) hər hansı qavranışın yazılı obrazıdır
+171. Giriş icazəsinin olmasına görə ES ... ola bilərlər  
+A) fərdi və kollektiv
+B) xüsusi
+C) açıq və qapalı
+D) ümumi
+E) mürəkkəb və sadə
+172. İlkin ekspert sistemlərində ...   
+A) konkret məsələnin həlli prosesində istifadə olunan biliklərin dəyişməsi nəzərə alınmırdı
+B) məntiqi məsələnin həlli prosesində istifadə olunan biliklərin dəyişməsi nəzərə alınmırdı
+C) konkret məsələnin həlli prosesində istifadə olunan biliklərin dəyişməsi nəzərə alınırdı
+D) müəyyən məsələnin həlli prosesində istifadə olunan biliklərin dəyişməsi nəzərə alınırdı
+E) konkret məsələnin həlli prosesində istifadə olunan proqramların dəyişməsi nəzərə alınmırdı
+173. Tipik statik ekspert sistemləri (ES) aşağıdakı əsas komponentlərdən ibarətdir 
+A) biliklər bazası; verilənlər bazası adlandırılan işçi yaddaş
+B) biliklər bazası; verilənlər bazası adlandırılan xarici yaddaş
+C) biliklər bazası; verilənlər bazası adlandırılan daxili yaddaş
+D) biliklər bazası; verilənlər bazası adlandırılan əsas yaddaş
+E) biliklər bazası; verilənlər bazası adlandırılan əlavə yaddaş
+174. Tipik statik ekspert sistemləri (ES) aşağıdakı əsas komponentlərdən ibarətdir      
+A) izahat sistemi; biliklərin əldə olunması komponentləri
+B) proqram sistemi; biliklərin əldə olunması komponentləri
+C) biliklərin əldə olunması komponentləri; əməliyyat sistemi
+D) biliklərin əldə olunması sistemləri; izahat sistemi
+E) izahat sistemi; biliklərin əldə olunması sistemləri
+175. Verilənlər bazası (işçi yaddaş) həll olunan məsələnin ...  
+A) cari verilənlərinin saxlanmasına xidmət edir
+B) əvvəlki verilənlərinin saxlanmasına xidmət edir
+C) sonrakı verilənlərinin istifadəsinə xidmət edir
+D) bəzi verilənlərinin saxlanmasına xidmət edir
+E) müəyyən sistemlərin saxlanmasına xidmət edir
+176. Ekspert sistemlərinin işlənməsində müxtəlif predmet oblastlarından mütəxəs¬sislər cəlb edilir:      
+A) ekspert sistemlərinin realizasiyasını həyata keçirən proqramçılar
+B) ekspert sistemlərinin istismarını həyata keçirən istifadəçilər
+C) ekspert sistemlərinin realizasiyasını həyata keçirən istehlakçılar
+D) ekspert sistemlərinin istismarını həyata keçirən istehlakçılar
+E) ekspert biliklərinin realizasiyasını həyata keçirməyən proqramçılar
+177. İntellektual sistemlərin yaradılmasının sənaye texnologiyasının mərhələlərinə aiddir
+A) bütün variantlar
+B) Layihənin yerinə yetirilə bilməsinin tədqiqi
+C) Sistemin ümumi konsepsiyasının işlənməsi
+D) Prototip seriyalarının testləşdirilməsi və işlənməsi
+E) Baş obrazın sınağı və işlənməsi
+178. Ekspert sistemlərinin işlənib hazırlanmasının mümkün olması üçün aşağıdakı tələblər ödənilməlidirlər
+A) ekspertlər istifadə etdikləri metodları izah etmək və təbii dildə fikir bildirmək qabiliyyətinə malik olmalıdırlar
+B) istifadəçilər istifadə etdikləri metodları izah etmək və təbii dildə fikir bildirmək qabiliyyətinə malik olmalıdırlar
+C) sifarişçilər istifadə etdikləri metodları izah etmək və təbii dildə fikir bildirmək qabiliyyətinə malik olmalıdırlar
+D) istehsalçılar istifadə etdikləri metodları izah etmək və təbii dildə fikir bildirmək qabiliyyətinə malik olmalıdırlar
+E) icraçılar istifadə etdikləri metodları izah etmək və təbii dildə fikir bildirmək qabiliyyətinə malik olmalıdırlar
+179. Ekspert sistemlərinin işlənib hazırlanmasının mümkün olması üçün aşağıdakı tələblər ödənilməlidirlər 
+A) məsələnin həlli əməliyyatları deyil, yalnız müzakirələri tələb edir
+B) problemin həlli əməliyyatları deyil, yalnız müzakirələri tələb edir
+C) funksiyanın həlli əməliyyatları deyil, yalnız müzakirələri tələb edir
+D) modelin həlli əməliyyatları deyil, yalnız müzakirələri tələb edir
+E) proqramın həlli əməliyyatları deyil, yalnız müzakirələri tələb edir
+180. Ekspert sistemlərinin işlənib hazırlanmasının mümkün olması üçün aşağıdakı tələblər ödənilməlidirlər 
+A) məsələ həddən artıq çətin olmamalıdır
+B) məsələ həddən artıq çətin olmalıdır
+C) məsələ həddən artıq asan olmamalıdır
+D) məsələ həddən artıq asan olmalıdır
+E) heç biri
+181. Ekspert sistemlərinin işlənib hazırlanmasının mümkün olması üçün aşağıdakı tələblər ödənilməlidirlər 
+A) məsələ formal şəkildə olmamalıdır
+B) məsələ formal şəkildə olmalıdır
+C) məsələ məntiqi şəkildə olmalıdır
+D) məsələ məntiqi şəkildə olmamalıdır
+E) heç biri
+182. Ekspert sistemlərinin işlənib hazırlanmasının mümkün olması üçün aşağıdakı tələblər ödənilməlidirlər
+A) məsələnin həlli kifayət dərəcədə ”sağlam fikirə” əsaslanmamalıdır
+B) məsələnin həlli kifayət dərəcədə “sağlam fikirə” əsaslanmalıdır
+C) məsələnin həlli kifayət dərəcədə “sağlam fikirə” uyğun olmalıdır
+D) məsələnin həlli kifayət dərəcədə “sağlam fikirə” uyğun olmamalıdır
+E) heç biri
+183. Ekspert sistemlərinin realizasiyasının ənənəvi texnologiyası neçə əsas mərhələdən ibarətdir
+A) 6
+B) 3
+C) 7
+D) 4
+E) 2
+184. Ekspert sistemlərini ... adətən çevik prototip konsepsiyasından istifadə edilir
+A) layihələndirərkən 
+B) istifadə etdikdə
+C) istismar edərkən
+D) istismardan çıxardıqda
+E) heç biri
+185. mərhələsində ekspert sisteminin sonuncu istifadəçi üçün yararlılığı yoxlanılır          
+A) Təcrübi istismar
+B) Testləşdirmə
+C) Yerinə yetirmə
+D) Formallaşdırma
+E) Konseptuallaşdırma
+186. İdentifikasiya mərhələsində:     
+A) həll ediləcək məsələlər, layihənin məqsədi, ekspertlər və istifadəçilərin növləri müəyyənləşdirilir
+B) həll ediləcək proqramlar, layihənin məqsədi, ekspertlər və istifadəçilərin növləri müəyyənləşdirilir
+C) həll ediləcək sorğular, layihənin məqsədi, ekspertlər və istifadəçilərin növləri müəyyənləşdirilir
+D) həll ediləcək əmrlər, layihənin məqsədi, ekspertlər və istifadəçilərin növləri müəyyənləşdirilir
+E) heç biri
+187. ... faktiki xarakterli obyektləri, prosesləri və predmet oblastını, həmçinin onların xüsusiyyətlərini təsvir edən informasiyadır 
+A) Verilənlər
+B) Biliklər
+C) Məlumat
+D) Aksiomlar
+E) Verilənlər bazası
+188. İnlellektual informasiya sistemlərinin işlənib hazırlanmasında əvvəlcə ... toplanması və təsviri yerinə yetirilir 
+A) biliklərin
+B) məlumatların
+C) verilənlərin
+D) texniki vasitələrin
+E) hamısı birlikdə
+189. İnlellektual informasiya sistemlərində biliklər ... formada mövcuddur 
+A) 4
+B) 9
+C) 6
+D) 3
+E) 7
+190. biliklər faktların və hadisələrin təsviridir.   
+A) Deklarativ
+B) İlkin
+C) Funksional
+D) Prosedur
+E) Struktur
+191. Məntiqi modelin əsasını ... tərtib predikatların say sistemləri təşkil edir 
+A) birinci
+B) ikinci
+C) sonuncu
+D) əvvəlinci
+E) üçüncü
+192. Məntiqi modellər əsasən ... sistemlərində geniş tətbiq edilir 
+A) tədqiqat
+B) əməliyyat
+C) informasiya
+D) kompüter
+E) heç biri
+193. Produksion modeldə biliklər ”Əgər-onda” tipli ... yığımı şəklində təsvir olunurlar 
+A) qaydalar
+B) məlumatlar
+C) teoremlər
+D) verilənlər
+E) elementlər
+194. ... tipli ekspert sistemlərinin tərkibinə məntiqi nəticənin müəyyən mexanizmini realizə edən faktiki verilənlər bazası (işçi yaddaş) və qaydalar interpretatoru daxildir    
+A) Produksion
+B) məntiqi
+C) obyektyönümlü 
+D) semantik şəbəkə
+E) hamısı birlikdə
+195. İxtiyari produksion qaydalar biliklər bazasında saxlanılır və iki hissədən ibarətdir: 
+A) antesedent və konsekvent
+B) antesedent və konyuktiv
+C) konsekvent və aqreqativ
+D) konsekvent və freym 
+E) freym və aqreqativ
+196. Bir neçə konseptual obyekti təsvir etmək üçün verilənlərin strukturu ... adlanır
+A) freym
+B) relyasion
+C) obyekt
+D) qraf
+E) heç biri
+197. Slotlarda olan proseduralar əlaqəli və ya birləşdirilmiş ... adlanırlar 
+A) slotlar
+B) freymlər
+C) verilənlər
+D) sistemlər
+E) biliklər
+198. ... elementləri konkret qiymətlərin müəyyən edilməsində istifadə olunan qaydalar ola bilərlər 
+A) Slotun
+B) Obyektin
+C) Çoxluğun
+D) Sistemin
+E) Freymin
+199. Predmet oblastının verilənləri yığımı qarışılıqlı əlaqəli freymlər çoxluğunu təsvir edirlər ki, ...  
+A) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid freym sistemini əmələ gətirirlər
+B) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid informasiya sistemini əmələ gətirirlər
+C) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid bilik sistemini əmələ gətirirlər
+D) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid prosedur sistemini əmələ gətirirlər
+E) onlar da deklarativ və prosedur qiymətləri birləşdirən vahid proqram sistemini əmələ gətirirlər
+200. İyerarxik freymlər bir-biri ilə ... əlaqəsi ilə birləşmişlər   
+A) nəsl-növ
+B) növ-əlamət
+C) nəsl-əlamət
+D) informasiya
+E) nəsl-qrup
+201. ... öz valideynlərinin xarakteristikalarının qiymətlərini irsən ötürmək qabiliyyətinə malikdirlər 
+A) Freymlər
+B) Qraflar
+C) Növlər
+D) Prosedurlar
+E) İnsanlar
+202. Freymin şablonuna sinif kimi, freymin nüsxəsinə isə ... kimi baxmaq olar
+A) obyekt
+B) element
+C) sistem
+D) baza
+E) çoxluq
+203. Obyektyönümlü proqramlaşdırma dilləri obyekt və sinif yaradılması, həmçinin ... emalı prosedurasının təsviri vasitələrinə malikdirlər  
+A) obyektin
+B) sistemin
+C) bazanın
+D) verilənlərin
+E) informasiyanın
+204. İnformasiyanın ənənəvi emalı texnologiyası ... nəzəriyyəsinə əsaslanan hesab-lama¬lara istiqamətlənmişdir ki, bu da ... arxitekturalı EHM-də realizə olunur
+A) Tyurinq, Fon Neyman
+B) Tyurinq, Bebbiç
+C) Fon Neyman, Minski
+D) Viner, Bebbiç
+E) Fon Neyman, Viner
+205. Biliklərin emalı prosesi ... fəaliyyətində mühakimə yürütmək, sistemləşdirmək, maarifləndirmək və s. kimi sahələri modelləşdirir
+A) insan
+B) kompüter
+C) informasiya
+D) sistem
+E) hamısı birlikdə
+206. İntellektual informasiya sistemlərinin xarakterik cəhəti ...  
+A) informasiyanın ənənəvi emalı üsulundan fərqləndirən biliklərdən istifadə edilməsidir
+B) informasiyanın ənənəvi emalı üsulundan fərqləndirən sistemlərdən istifadə edilməsidir
+C) informasiyanın ənənəvi emalı üsulundan fərqləndirən proqramlardan istifadə edilməsidir
+D) informasiyanın ənənəvi emalı üsulundan fərqləndirən məlumatlardan istifadə edilməsidir
+E) informasiyanın ənənəvi emalı üsulundan fərqləndirən verilənlərdən istifadə edilməsidir
+207. Ənənəvi məntiq 2500 il bundan əvvəl ... tərəfindən təklif olunan formal sistemlər hesab olunur      
+A) Aristotel
+B) Sokrat
+C) Fales
+D) Diogen
+E) Homer
+208. Silloqizmin hər bir qaydası ... nəticəyə keçməyi müəyyən edir  
+A) anlayışlardan
+B) mühakimələrdən
+C) cümlələrdən
+D) aksiomlardan
+E) səbəblərdən
+209. Silloqizm hər şeydən əvvəl ... dildə olan ağıllı diskussiyaları idarə etmək üçün nəzərdə tutulmuşdur     
+A) təbii
+B) bədii
+C) ədəbi
+D) riyazi
+E) maşın
+210. Biliklərin kompüter emalı zamanı çoxqiymətliliyin aradan qaldırılması metodlarından biri:     
+A) relaksasiya
+B) reaksiya
+C) implikasiya
+D) inteqrasiya
+E) rekursiya
+211. Biliklərin etibarlılığının daha dəqiq qiymətləndirilməsi üçün ... teoreminə əsaslanan ehtimal yanaşması və başqa metodlar tətbiq edilir  
+A) Bayes
+B) Bayer
+C) Bazen
+D) Bolsano
+E) Bazis
+212. Praktikada qeyri səlis nəticələr geniş yer tutur ki, bu da ... nəzəriyyəsinin əsasında yaranan qeyri səlis məntiq bazasında qurulur   
+A) qeyri səlis çoxluqlar
+B) səlis çoxluqlar
+C) qeyri səlis massivlər
+D) qeyri səlis vektorlar
+E) səlis massivlər
+213. Biliklərin qiymətləndirilməsinin ehtimal metodu ... geniş inkişaf tapmışdır
+A) biliklər mühəndisliyində
+B) biliklər bazasında
+C) sistem mühəndisliyində
+D) ekspertizada
+E) verilənlər bazasında
+214. Subyektiv bayes metodunun həll etmədiyi problemlərdən biri:  
+A) bir-birini inkar edən hadisələrin ehtimallarının cəmi vahiddən böyük ola bilər
+B) bir-birini inkar etməyən hadisələrin ehtimallarının cəmi vahiddən böyük ola bilər
+C) bir-birini inkar etməyən hadisələrin ehtimallarının cəmi sıfırdan kiçik ola bilər
+D) bir-birini inkar edən hadisələrin ehtimallarının fərqi vahiddən böyük ola bilər
+E) bir-birini inkar etməyən hadisələrin ehtimallarının fərqi vahiddən böyük ola bilər
+215. Linqivistik biliklərin qeyri dəqiqliyinin uçotu üçün Lütfi Zadə tərəfindən ... ildə təklif edilmiş qeyri səlis çoxluqlar nəzəriyyəsi istifadə edilir 
+A) 1965-ci
+B) 1955-ci
+C) 1975-ci
+D) 1985-ci
+E) 1995-ci
+216. Qeyri səlis məntiqin və qeyri səlis nəticələrin meydana gəlməsinə səbəb: 
+A) Qeyri səlis riyaziyyat oblastında tədqiqatların inkişafı
+B) Ali riyaziyyat oblastında tədqiqatların inkişafı
+C) Qeyri səlis çoxluqlar oblastında tədqiqatların inkişafı
+D) Səlis riyaziyyat oblastında tədqiqatların inkişafı
+E) Qeyri səlis biliklər oblastında tədqiqatların inkişafı
+217. Biliklərin əldə olunması prosesi nədir 
+A) Ekspertlərdən biliklərin alınması prosesi
+B) Mühəndislərdən biliklərin alınması prosesi
+C) Bazadan biliklərin alınması prosesi 
+D) Biliklər bazasının yaradılması
+E) Biliklərin sistemləşdirilməsi
+218. Biliklər üzrə mühəndis ekspertlərdən aldığı informasiya əsasında ...  
+A) özünün xüsusi modelini yaradır
+B) özünün xüsusi bazasını yaradır
+C) özünün xüsusi biliyini yaradır
+D) özünün xüsusi sistemini yaradır
+E) özünün xüsusi informasiyasını yaradır
+218. Predmet oblastının ekspertinə çox böyük tələblər qoyulur və ona ... ixtisasına yiyələnmək vacibdir     
+A) biliklər üzrə mühəndis
+B) proqramçı
+C) sistem administratoru
+D) sistem mühəndisi
+E) sistemotexnik
+219. Analitiklərin biliklərin əldə olunması prosesində iştirakının səbəbləri (I) : 
+A) ekspertin biliklərindən istifadənin ən yaxşı üsulu dialoqdur
+B) mühəndisin biliklərindən istifadənin ən yaxşı üsulu monitorinqdir
+C) ekspertin sistemindən istifadənin ən yaxşı üsulu modelləşdirmədir
+D) informasiya sistemindən istifadənin ən yaxşı üsulu konseptuallaşdırmadır
+E) ekspertin bilikləri
+220. ... - yalnız toplanmış biliklərin ümumiləşdirilmiş sistemi deyil, həm də yeni biliklərin alınması üsuludur   
+A) Nəzəriyyə
+B) İntellekt
+C) İnformasiya
+D) Təcrübə
+E) heç biri
+221. Yeni biliklərin əsas keyfiyyət kriteriyaları:  
+A) daxili uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+B) xarici uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+C) daxili uyğunlaşma, sintez, obyektivlik, tarixçilikdir
+D) daxili uyğunlaşma, sistemlilik, subyektivlikdir
+E) kompleks uyğunlaşma, sistemlilik, obyektivlik, tarixçilikdir
+222. Biliklərin modallığı nədir 
+A) müxtəlif kateqoriyalarda mövcudluğu imkanları 
+B) eyni kateqoriyalarda mövcudluğu imkanları
+C) müxtəlif sistemlərdə mövcudluğu imkanları
+D) eyni sistemlərdə mövcudluğu imkanları
+E) kompleks uyğunlaşma, sistemlilik, obyektivlik
+223. Emprik biliklərin daxili uyğunlaşması nə ilə xarakterizə olunur
+A) modal, ziddiyyət, qeyri tamlıq
+B) model, ziddiyyət, qeyri tamlıq
+C) modal, uyğunlaşma, qeyri tamlıq
+D) modal, ziddiyyət, tamlıq
+E) model, ziddiyyət, tamlıq
+224. Biliklərin sistemliliyi nəyə əsaslanır   
+A) çoxsəviyyəli ierarxik təşkildə yeni biliklərin yerinin müəyyən olmasına
+B) eyni sistemlərdə mövcudluğu imkanlarına
+C) müxtəlif sistemlərdə mövcudluğu imkanlarına
+D) birsəviyyəli ierarxik təşkildə yeni biliklərin yerinin müəyyən olmasına
+E) çoxsəviyyəli ierarxik təşkildə yeni ekspertlərin yerinin müəyyən olmasına
+225. Biliklərin toplanması, təsviri, təqdimi, emalı, interpretasiyası və keyfiyyətinin qiymətləndirilməsi konkret ... tərəfindən yerinə yetirilir  
+A) insanlar
+B) kompüterlər
+C) sistemlər
+D) maşınlar
+E) verilənlər bazası
+226. Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(I) : 
+A) faktların təsviri və ümumiləşdirilməsi
+B) çoxsəviyyəli ierarxik təşkildə ekspertlərin yerinin müəyyən olması
+C) model, ziddiyyət, qeyri tamlıq
+D) faktların təsviri və yığılması
+E) hadisələrin təsviri və təsnifləşdirilməsi
+227. Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(II) :  
+A) faktlar arasında əlaqələrin aşkarlanması, qayda və qanunauyğunluqların formalaşdırılması
+B) hadisələr arasında əlaqələrin aşkarlanması, qayda və qanunauyğunluqların formalaşdırılması
+C) fərdlər arasında əlaqələrin aşkarlanması, qayda və qanunauyğunluqların formalaşdırılması
+D) elementlər arasında əlaqələrin aşkarlanması, qayda və qanunauyğunluqların formalaşdırılması
+E) obyektlər arasında əlaqələrin aşkarlanması, qayda və qanunauyğunluqların formalaşdırılması
+228. Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(III) :  
+A) predmet oblastının biliklər modelinin qurulması
+B) predmet oblastının ekspert modelinin qurulması
+C) verilənlər bazasının biliklər modelinin qurulması
+D) biliklər bazasının modelinin qurulması
+E) predmet oblastının biliklər bazasının qurulması
+229. Dərketmə prosesini aşağıdakı mərhələlərə bölmək olar(IV) :  
+A) model əsasında hadisələrin proqnozlaşdırılması və izahı
+B) model əsasında verilənlərin proqnozlaşdırılması və izahı
+C) model əsasında planların proqnozlaşdırılması və izahı
+D) model əsasında hadisələrin planlaşdırılması və izahı
+E) model əsasında biliklərin proqnozlaşdırılması və izahı
+230. Riyazi məntiq nəyi formalaşdırır 
+A) ümumi mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən, qiymətləndirən kriteriləri
+B) xüsusi mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən, qiymətləndirən kriteriləri
+C) müəyyən mühakimələri və nəticələri inkar etməyən, dəqiqliyi təmin edən, qiymətləndirən kriteriləri
+D) ümumi bilikləri və nəticələri inkar etməyən, dəqiqliyi təmin edən, qiymətləndirən kriteriləri
+E) xüsusi bilikləri və nəticələri inkar etməyən, dəqiqliyi təmin edən, qiymətləndirən kriteriləri
+231. Qeyri-səlis məntiq sistemi ... tərəfindən verilən qaydalar çoxluğundan qeyri-səlis məntiqi nəticə çıxarmaq qabiliyyətinə malikdir  
+A) istifadəçi
+B) mühəndis
+C) ekspert
+D) sistem
+E) kompüter
+232. Məntiqi nəticənin informasiyasının alınması: 
+A) Proqramın daxil edilməsi, faktiki verilənlərin daxil edilməsi
+B) Proqramın daxil edilməsi, Parametrik öyrədilmə
+C) Faktiki verilənlərin daxil edilməsi, Neyron şəbəkələrinin öyrədilməsi
+D) Neyron şəbəkələrinin öyrədilməsi, Parametrik öyrədilmə
+E) Xarici formatda biliklərin alınması və onların dərk edilməsi
+233. Misallar üzrə öyrədilmə: 
+A) İnduktiv öyrədilmə, Parametrik öyrədilmə
+B) Dialoq rejimində daxili formatda biliklərin alınması
+C) Faktiki verilənlərin daxil edilməsi, Proqramın daxil edilməsi
+D) Proqramın daxil edilməsi, Neyron şəbəkələrinin öyrədilməsi
+E) Faktiki verilənlərin daxil edilməsi, Parametrik öyrədilmə
+234. Biliklərin kənardan alınması: 
+A) Dialoq rejimində daxili formatda biliklərin alınması
+B) Analogiya üzrə nəticələr və biliklər əsasında öyrədilmə
+C) Neyron şəbəkələrinin öyrədilməsi
+D) Faktiki verilənlərin daxil edilməsi
+E) hamısı birlikdə
+235. ... biliklərin alınması məsələsi intellektual informasiya sistemlərinin müasir inkişafı mərhələsində aktualdır 
+A) Metasəviyyədə
+B) Xaricdən
+C) Kənardan
+D) Meqasəviyyədə
+E) heç biri
+236.... üzrə nəticələr xüsusi faktların ümumiləşdirilməsi əsasında ümumi qanunauyğunluqların alınmasına imkan verir   
+A) İnduksiya
+B) Deduksiya
+C) İmplikasiya
+D) İnteqrasiya
+E) hamısı birlikdə
+237. Süni neyron şəbəkəsi (SNŞ) ...    
+A) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş modelidir
+B) bu texniki beyinin, daha dəqiq desək əsəb toxumalarının sadələşdirilmiş modelidir
+C) bu bioloji beyinin, daha dəqiq desək əsəb toxumalarının modelidir
+D) bu süni beyinin, daha dəqiq desək əsəb toxumalarının mürəkkəbləşdirilmiş modelidir
+E) bu bioloji beyinin, daha dəqiq desək əzələ toxumalarının sadələşdirilmiş modelidir
+238. Süni neyron şəbəkələri sadə hesablama elementlərini...  
+A) süni neyronlar yığımını təsvir edir
+B) təbii neyronlar yığımını təsvir edir
+C) süni atomlar yığımını təsvir edir
+D) təbii atomlar yığımını təsvir edir
+E) süni hüceyrələr yığımını təsvir edir
+239. Neyroriyaziyyatın nəzəri əsasları ... -cı illərdə qoyulmuşdur  
+A) 1940
+B) 1950
+C) 1960
+D) 1936
+E) 1946
+240. Özünü ağıllı aparmaq qabiliyyətinə malik olan maşınların yaradılması ideyası «Kibernetikanın atası» adlanan ... əsərlərində öz əksini tapmışdır  
+A) Norbert Vinerin
+B) Con fon Neymanın 
+C) Çarlz Bebbicin
+D) A. Kolmoqorovun
+E) S. Lebedevin
+241. ... ideyasından C. Makkaloxom və U. Pitts tərəfindən istifadə edilərək özlərinin xüsusi nəzəriyyələrini yaratdılar    
+A) Vinerin
+B) Neymanın
+C) Bebbicin
+D) Lebedevin
+E) Kolmoqorovun
+242. Vinerin ideyasından ... tərəfindən istifadə edilərək özlərinin xüsusi nəzəriyyələrini yaratdılar     
+A) C. Makkaloxom və U. Pitts
+B) Styuart Mill və U. Pittsin
+C) Norbert Viner və C. Makkaloxom
+D) Fon Neyman və Styuart Mill
+E) Nyuton və U. Pittsin
+243. ... - qeyri-müəyyən həll alqoritmli məsələlər üçün kompüter proqramlarının yaradılması üsuludur   
+A) Genetik proqramlaşdırma
+B) Evolyusiya obyekti
+C) Çarpazlaşma operatoru 
+D) Mutasiya
+E) Məntiqi avtomatlar
+244.  ... - mövcud proqramların fraqmentlərinin kombinə edilməsi ilə yeni proqramı yaradır     
+A) Çarpazlaşma operatoru 
+B) Mutasiya
+C) Məntiqi avtomatlar
+D) Genetik proqramlaşdırma
+E) Evolyusiya obyekti
+245. Alqoritmik dildə yazılış proqramı nəyin yaddaşına daxil edilməlidir?
+A) BHM in
+B) komputerin
+C) hər hansı bir cihazın 
+D) yaddaş kartına
+E) fləşkarta
+246. Kompüter modelləşdirilməsi nə deməkdir
+A) Hesablama texnikası vasitələrinin köməyi ilə riyazi modelləşdirmə 
+B) Konseptual modelin qurulması 
+C) Maşın eksperimentinin aparılması 
+D) Sistemin formal modelinin qurulması
+E) Nəticələrin analizi və interpretasiyası, təqribi modelin qurulması
+247. Matlab komanda pəncərəsinin alətlər panelində Matlab-ın yaddaşının işçi oblastının tərkibinə baxışı hansı düymənin köməyi ilə həyata keçirmək olar
+A) Workspace Browser 
+B) Path Browser
+C) New Simulink Model 
+D) Help Window
+E) Undo
+248. Eksperimentin strateji planlaşdırılmasında hansı əsas məsələlər həll olunmalıdırlar
+A) Faktorların identifikasiyası və səviyyələrinin seçilməsi 
+B) Faktorların səviyyələrinin seçilməsi 
+C) Kompromiss həllin axtarışı 
+D) Faktorların identifikasiyası
+E) Tam faktor eksperimentindən istifadə edilməsi seçimi
+249. Modelləşdirmə nəticələrinin davamlığı nə cür qiymətləndirilə bilər
+A) Riyazi statistika metodları ilə 
+B) Ehtimal nəzəriyyəsi metodları ilə
+C) Ədədi inteqrallama metodu ilə 
+D) Dispersiyanın azaldılması metodları ilə 
+E) Müvafiq kriteriyaların köməyi ilə 
+250. Matlab-ın 6.0-a qədər olan versiyalar İntel Pentium 4 prosessorları ilə işləyə bilərlərmi
+A) İşləyə bilməzlər 
+B) İşləyə bilərlər
+C) Bəzi versiyaları işləyə bilərlər
+D) Prosessorun növündən asılı olaraq işləyə bilərlər 
+E) Yalnız 5.3 versiyası 
+251. Control System Toolbox paketində sıfırların, qütblərin və gücləndirmə əmsalının verilməsi və təsvir olunması obyektin modeli hansı tip funksiyanın köməyi ilə yaradılır
+A) Zpk – formalı 
+B) Tt-formalı
+C) SS – formalı
+D) Frd – formalı 
+E) Dss – formalı 
+252. Simulink kitabxanalar bölmələrindən hansı riyazi əməliyyatlar blokudur
+A) math 
+B) nolinear
+C) discret
+D) sources
+E) contious 
+253. Hər hansı bir abstrakt dildə sistemin formallaşdırılmış yazılışını hansı model təsvir edir?
+A) riyazi model 
+B) fiziki model 
+C) konseptual model
+D) statistik model
+E) imitasiya modeli
+254. Statistik eksperimentin əsasını nə təşkil edir?
+A) statistik sınaqlar metodu (Monte-Karlo metodu) 
+B) diferensil tənliklərin ədədi həll metodları 
+C) riyazi modellərin EHM-də realizəsi
+D) modelin alqoritmləşdirilməsi
+E) maşın eksperimentlərinin planlaşdırılması
+255. Control System Toolbox-un hansı əmrləri ötürmə funksiyasının qütblərinin hesablanması üçün nəzərdə tutulmuşdur
+A) Pole (< LTİ – obyekt >) 
+B) Zero (< LTİ – obyekt >) 
+C) Step (< LTİ – obyekt >) 
+D) İmpulse (< LTİ – obyekt >) 
+E) Bode (< LTİ – obyekt >) 
+256. Model vaxtının mexanizminin realizə olunması metodunun seçilməsi nədən asılıdır?
+A) Modelin mürəkkəbliyindən və tələb olunan dəqiqlikdən 
+B) Maşın eksperimentlərinin planlaşdırılmasından 
+C) Təsadüfi faktorlardan
+D) Modeldə qeyd olunan xüsusi vəziyyətlərdən və modeldən
+E) Modelləşdirmə alqoritmlərdən 
+258. İmitasiya modelləşdirilməsində sistemin giriş təsirləri hansı xarakter daşıyır
+A) Təsadüfi 
+B) Determinə
+C) Statik
+D) Statistik
+E) Kəsilməz 
+259. System İdentification paketi nə üçün nəzərdə tutulmuşdur
+A) Sistemlərin identifikasiyası üçün 
+B) Tezlik oblastında sistemlərin identifikasiyası üçün 
+C) İdarəetmə sisteminin işlənilməsi üçün
+D) Rabitə sistemlərinin modelləşdirilməsi üçün 
+E) Qeyri-xətti sistemlərin modelləşdirilməsi üçün 
+260. Xətti obyektin (sistemin) modelinin çoxhədlilər cütü ilə verilməsi nə deməkdir
+A) Ötürmə funksiyasını surət və məxrəcinin çoxhədli şəklində verilməsi 
+B) Sıfır, qütblər, ümumiləşdirilmiş ötürmə əmsalının verilməsi
+C) SİSO – birölçülü obyektlərin yazılışının verilməsi
+D) Vəziyyətlər fəzasında A, B, C, D parametrlərinin verilməsi və işlənməsi
+E) Sistemin diferensial tənliklər sistemi şəklində verilməsi
+261. Stasionar sistemin modellərinin yaradılmasında sys=tf (num, den, Ts) ifadəsindəki Ts nəyi göstərir
+A) Diskretləşdirmə intervalın 
+B) Diskretötürmə funksiyasının verilməsi 
+C) Kəsilməz ötürmə funksiyasının verilməsi
+D) Skalyar və ya matris 
+E) İdentifikatoru 
+262. Aşağıdakı funksiyalardan hansı diskret modeldə diskretləşmə intervalını daşıyır
+A) D2d 
+B) Tf 
+C) D2c 
+D) C2d
+E) Zpk
+263. Aşağıdakı funksiylardan hansı elementləri LTİ-modelinin qütbləri olan vektoru qaytarır
+A) P-pole (sys) 
+B) Z-zero (sys) 
+C) Pzmar (sys) 
+D) K=dcgain (sys) 
+E) P=covar (sys, w) 
+264. Matlab funksiyaları üzrə arayışın əsas pəncərəsi hansıdır
+A) Matlab Help Window 
+B) Library Simulink 
+C) İntitled 
+D) Bounce 
+E) Matlab Demo Window
+265. Simulink bloklar kitabxanasının Discrete (Diskret elementlər) bölməsində birinci tərtibli ektrapolyatoru göstərən blok hansıdır
+A) First – Order Hold 
+B) Discrete - Time İnteqrator
+C) Zero – Order Hold
+D) Unit Delay
+E) Discrete State – Space 
+266. Aşağıdakı funksiyalardan hansı müşahidəçi qurğunu formalaşdırır
+A) Estim 
+B) Rlocfind
+C) Acker 
+D) Reg 
+E) Plocus
+267. Matlab Sisteminin Help Navigator pəncərəsindəki aşağıdakı əvvəllərdən hansı «göstəricini» təsvir edir
+A) İndex 
+B) Search
+C) Favorites 
+D) Contents 
+E) Function Reference 
+268. Matlab 6.1. versiyasında portların işlənilməsinin göstərilməsi hansı əmrin köməyi ilə həyata keçirilir
+A) Show port tabels 
+B) Rotate block 
+C) Show drop Shadow 
+D) Flip block
+E) Screen colour 
+269. Simulink bloklar kitabxanasının Sinks (Alıcılar) bölməsində blok-diaqramı təsvir etmək üçün hansı blokdan istifadə olunur
+A) Scope 
+B) XY Graph 
+C) Display 
+D) To File 
+E) To Workspace 
+270. Simulink bloklar kitabxanasının Discrete (Diskret elementlər) bölməsində sistemin vəziyyətini formalaşdıran blok hansıdır
+A) Discrete State – Space 
+B) Discrete – Time İntegrator 
+C) Zero – Order Hold 
+D) First – Order Hold 
+E) Unit Delay
+271. Model bloklarına yazıları əlavə etmək üçün hansı əməliyyatı aparmaq lazımdır
+A) Yazılacaq yeri göstərməli və sol klaviş iki dəfə basılmalıdır
+B) Obyekti buferə köçürmək lazımdır 
+C) Text alignment əmrini yerinə yetirmək və fayl yaratmalıdır
+D) Modellərin yeni fayllarını yaratmaq lazımdır
+E) Flip name əmrini yerinə yetirməli 
+272. Plot Configuration pəncərəsinin alətlər panelində bode mag düyməsini basmaqla hansı nəticəni almaq olar
+A) Sistemin sıfır və qütbləri 
+B) Loqarifmik amplitud tezlik xarakteristikaları 
+C) Vahid təkanlı impuls təsirinə sistemin reaksiyası
+D) Vahid təkanlı təsirə sistemin reaksiyası
+E) Vahid sistemin reaksiyası 
+273. Control System Toolbox-un hansı əmri ötürmə funksiyasının sıfırlarının hesablanması üçün nəzərdə tutulmuşdur
+A) Zero (< LTİ – obyekt >) 
+B) Pole (< LTİ – obyekt >) 
+C) Step (< LTİ – obyekt >) 
+D) İmpulse (< LTİ – obyekt >) 
+E) Bode (< LTİ – obyekt >) 
+274. Modelləşdirmədə sabit addım metodundan istifadə etdikdə sistem vaxtının hesabı nə cür aparılır
+A) Tədqiqatçı tərəfindən seçilmiş qeyd olunmuş zaman intervallarından bir 
+B) Hadisələrin meydana gəldiyi andan 
+C) İmitasiyaya sərf olunan maşın vaxtı ilə 
+D) Modelin bir vəziyyətdən digərinə keçdiyi vaxt ilə 
+E) Modelləşdirməyə başlandığı andan
+275. Faktor fəzası nədir
+A) Model eksperimentində nəzarət olunan daxili və xarici parametrlər çoxluğu 
+B) Model eksperimentində nəzarət olunan xarici parametrlər çoxluğu göstəricisi
+C) Model eksperimentində nəzarət olunan daxili parametrlər çoxluğu
+D) Faktorların səviyyələrinin çoxluğu 
+E) Faktorların kəmiyyət və keyfiyyət göstəriciləri 
+276. Maşın eksperimentlərinin planlaşdırılmasında planlaşdırma mənbələrinin həlli ikinci qoyuluşda nə cür adlanır
+A) Taktiki planlaşdırma 
+B) Eksperimentin strateji planlaşdırılması
+C) Faktorların identifikasiyası 
+D) Faktor eksperimentin 
+E) Faktorlar fəzası
+277. Simulink bloklar kitabxanasının Linear (xətti elementlər) bölməsində kəsilməz zamanın cəmləyicisini hansı blok təsvir edir
+A) İntegrator 
+B) Transfer Fen 
+C) Derivative 
+D) Matrix Gain 
+E) Gain
+278. Simulink Library Browser pəncərəsindəki kitabxana icmalı menyusundakı Help hissəsi nəyi göstərir
+A) Kitabxana icmalının arayışının pəncərəyə çıxarılması 
+B) Blokların əlavə edilməsi və onların adlarına görə axtarışı 
+C) İnterfeys elementlərinin göstərişinin idarə olunması
+D) Kitabxana faylları ilə iş
+E) Modellə işləmək üçün xüsusi vasitələrinin tətbiqi 
+279. Matlab+Simulink sisteminin modellər pəncərəsinin alətlər panelindəki New Model düyməsinin təyinatı nədir
+A) Yeni model pəncərəsini (boş) açmaq
+B) Mövcud mdl-faylını açmaq 
+C) Mdl-faylını diskdə saxlamaq 
+D) Modelin blok-diaqramını çapa çıxarmaq
+E) Aralıq saxlama buferində modelin ayrılmış hissəsini kəsmək 
+280. Modelləşdirmə obyektlərini götürülməsi (silinməsi) üçün hansı əməliyyatı aparmaq lazımdır
+A) Əvvəlcə obyekti ayırmalı sonra isə Edit/Clean əmrini yerinə yetirməli 
+B) Edit/Paste əmrindən istifadə etməli
+C) Edit/Clear əmrindən istifadə etməli 
+D) File/Undo əmrindən istifadə etməli və yeni əmrləri buferə köçürməlidir
+E) Edit/Copy əmrindən istifad etməli 
+281. Plot Configuration pəncərəsinin alətlər panelində impulse düyməsini basmaqla hansı nəticəni almaq olar
+A) Vahid təkanlı impuls təsirinə sistemin reaksiyası 
+B) Loqarifmik amplitud tezlik xarakteristikaları 
+C) Naykvist diaqramı 
+D) Vahid təkanlı təsirə göstərilən reaksiya və sistemlilik
+E) Sistemin sıfır və qütbləri 
+282. Diskret sistemlər üçün model vaxtının idarə olunmasının hansı metodundan istifadə etmək əlverişlidir
+A) Xüsusi vəziyyətlərə görə modelləşdirmə 
+B) İmitasiya metodu 
+C) Sabit addım metodu
+D) Ardıcıl yaxınlaşma metodu və sabit addım
+E) T metodu 
+283. Sabit addımla modelləşdirmə alqoritmində Tm işarəsi nəyi göstərir
+A) Modelləşdirmə intervalını 
+B) Model vaxtının cari qiymətini 
+C) Tədqiq olunan sistemin fəaliyyətinin miqyas vaxtını 
+D) Hadisələrin paralel emal olunması vaxtını 
+E) Hadisələr arasındakı vaxtı
+284. Matlab sistemini sazlayarkən sistemin parametrlərinin lazımi qiymətlərini qoymaq üçün hansı komandadan istifadə olunur
+A) Preferences 
+B) Set Path
+C) Show GUİ layout Tool 
+D) Current Directory
+E) Undo 
+285. Sınaqların zəruri həcminin hesablanması üçün tətbiq olunan         ifadəsində Dy nəyi göstərir
+A) Dispersiyanı 
+B) Normalaşdırılmış normal paylanmanın qiymətini 
+C) Seçmə elementlərinin öz aralarındakı korrelyasiyası 
+D) Həqiqilik intervalını
+E) Müşahidə olunan dəyişənin qiyməti 
+286. Simulink bloklar kitabxanasının Linear (xətti elementlər) bölməsində sistemin vəziyyətini formalaşdıran blok hansıdır
+A) State-Space 
+B) Transfer Fen 
+C) Gain
+D) Derivative 
+E) İntegrator 
+287. İmitasiya modellərini işləyərkən və model eksperimentlərini apararkən maşın vaxtı anlayışının mahiyyəti nədən ibarətdir
+A) İmitasiyanın aparılmasına EHM vaxtının sərfini əks etdirən zaman 
+B) İmitasiya edilən sistemin fəaliyyət göstərdiyi zaman
+C) Modelin işinin təşkil edildiyi aşağıdakı zaman
+D) Təsadüfü hadisələrin modelləşdirilməsinə sərf olunan vaxt
+E) Modelləşdirilən sistemin bir vəziyyətdən digər vəziyyəti keçdiyi zaman 
+288. Statistik sınaqlar modelinin nəzəri əsasını nə təşkil edir
+A) Çebışev teoremi 
+B) Haus teoremi 
+C) Loqranj teoremi 
+D) Bessel funksiyaları
+E) Nyuton teoremi
+289. Matlab sistemini sazlayarkən opsiyalar və komandalar əsas menyunun hansı bölməsində yerləşirlər
+A) File 
+B) Window 
+C) Help
+D) Edit
+E) Format
+290. Communication paketi nə üçün nəzərdə tutulmuşdur
+A) Rabitə sistemlərinin modelləşdirilməsi üçün
+B) İdarəetmə sistemlərinin işlənilməsi üçün 
+C) Qeyri-xətti sistemlərin modelləşdirilməsi üçün
+D) Tezlik oblastında sistemlərin identefikasıyası üçün
+E) Sistemlərin identifikasiyası üçün 
+291. System İdentification Toolbox paketində siqnalın diskretləşdirmə intervalının dəyişmək yolu ilə onun çevrilməsini yerinə yetirən funksiya hansıdır
+A) İdreasamp 
+B) Defrena
+C) İdfilt
+D) İdinput 
+E) İdent
+292. Simulink ilə buraxıldıqda açılan pəncərələrdən hansı simulinkin kitabxanasının əsas vasitələrinin siyahısını göstərir
+A) Library Simulink 
+B) Matlab Demo Window
+C) Matlab Help Window
+D) Untitled 
+E) Bounce 
+293. Simulink Library Browser pənəcərəsindəki kitabxana icmalı menysundakı File hissəsi nəyi göstərir
+A) Kitabxana faylları ilə iş
+B) Blokların əlavə edilməsi və onların adlarına görə axtarışı 
+C) İnterfeys elmentlərinin göstəricisinin idarə olunması
+D) Kitabxana icmalının arayışının pəncərəyə çıxarılması
+E) Modellə işləmək üçün xüsusi vasitələrin tətbiqi 
+294. Aktiv eksperiment nədir
+A) Eksperiment zamanı tədqiqatçı faktorların səviyyəsini dəyişə bilir 
+B) Eksperiment zamanı tədqiqatçı faktorların səviyyəsini dəyişə bilmir
+C) Parametrlərin dəyişmə intervalı sabit qalır 
+D) Parametrlər geniş inetrvalda dəyişirlər 
+E) Hər bir faktorun vəziyyətinin müəyyən edilməsi imkanının olması 
+295. Maşın eksperimentlərinin planlaşdırılmasında planlaşdırma məsələlərinin həlli ilkin qoyuluşda nə cür adlanır
+A) Eksperimentin strateji planlaşdırılması 
+B) Faktorların identifikasiyası 
+C) Faktorların vəziyyətinin seçilməsi və planlaşdırma
+D) Faktor eksperimenti 
+E) Taktiki planlaşdırma
+296. Matlab+Simulink sisteminin modellər pəncərəsinin alətlər panelində kitabxana icmalı pəncərəsinin açılması üçün hansı düyməni basmaq lazımdır
+A) Library Browser 
+B) Undo
+C) Redo
+D) Paste
+E) Toggle Model Browser 
+297. Blokların ölçülərini dəyişmək üçün hansı əməliyyatı aparmaq lazımdır?
+A) Bloku seçmək, kursoru blokun künclərindən birinə qoyub, sol klavişi sıxmaq lazımdır 
+B) Modellərini yeni fayllarını yaratmaq lazımdır 
+C) Kitabxananın uyğun bölməsini açmaq lazımdır
+D) Undo düyməsi basılmalıdır
+E) Redo düyməsi basılmalıdır
+298. Modellər icmalı pəncərəsinin açılması üçün alətlər panelində hansı düyməni basmaq lazmıdır
+A) Togge Model Browser 
+B) Goto parent system
+C) Start/Pause/Continue 
+D) Normal Accelerator 
+E) Debug
+299. Mathcad-da cəbri tənlik və sistemlərin həlli üçün hansı menyu bəndindən istifadə olunur
+A) İnsert   
+B) Symbolics   
+C) Fayl   
+D) Matrix   
+E) Tools 
+300. Matlab-ın arayış sistemində konkret funksiya barəsində arayış almaq üçün hansı komandanı daxil etmək lazımdır
+A) Help funksiyasının adı 
+B) Help desk 
+C) Edit poof funksiyası
+D) Load   
+E) Zero 
+301. Mathcad-da interpolyasiya və proqnozlaşdırma funksiyaları hansı menyu bəndində yerləşir
+A) İnsert  
+B) Tools   
+C) Edit  
+D) Format   
+E) Symbolics
+302. Mathcad riyazi sistemində Ctol dəyişəni nəyi təyin edir
+A) Hesablamanın dəqiqliyini    
+B) Dəyişənin indeksini 
+C) Dəyişənin adını
+D) Massivin indeksini 
+E) Massivin elementlərini
+303. Mathcad-da cəbr ifadəsinin sadələşdirilməsi üçün hansı əməliyyatı icra etmək lazımdır
+A) Symbolics-Simplify 
+B) Symbolics-Factor 
+C) Symbolics-Expand
+D) Symbolics-Collect 
+E) Symbolics-Complex
+304. Mathcad-da şərt və pillə funksiyaları hansı alətlər panelində yerləşir
+A) İnsert 
+B) Symbolics 
+C) Matrix
+D) Tools 
+E) Format 
+305. Mathcad-da fayllarla işləmək üçün funksiyalar hansı menyu bəndində yerləşir
+A) İnsert    
+B) Symbolics   
+C) Format   
+D) Tools    
+E) Matrix
+306. Vektor hasili operatoru hansı paneldə yerləşir
+A) Matrix  
+B) Calculus 
+C) Calculator   
+D) Symbolic    
+E) Evaluate
+307. Matrisi sıfır dərəcəyə yüksəldəndə nə alınır
+A) başlanğıc matrisa    
+B) 0     
+C) tərs matris    
+D) tək matrisa    
+E) 1
+308. Mathcad proqramında riyazi əməliyyatlar hansı paneldə yerləşir
+A) Evaluation   
+B) Programming   
+C) Calculus    
+D) Symbolic    
+E) Matrix
+309. Mathcad proqramında vektor və matrislərlə işləmək üçün menyu bəndini göstərin
+A) İnsert    
+B) Tools    
+C) Format 
+D) Matrix
+E) Symbolic

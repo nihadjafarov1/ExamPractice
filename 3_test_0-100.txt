@@ -1,0 +1,594 @@
+1. İnformasiyanın çevrilməsi haqqında elm olub hesablama texnikasının əsasında yaranıb
+A) informatika
+B) internet
+C) informasiya
+D) modelləşdirmə
+E) avtomatlaşdırma
+2. İnformatika nələri nisbi müstəqil istiqamətlər kimi fərqləndirir
+A) məzmun, təşkilatı, texniki, alqoritmik və proqram məsələləri 
+B) məzmun, proqram məsələləri, alqoritmik və inzibati məsələləri
+C) istənilən məsələ
+D) proqram məsələləri
+E) heç biri
+3. İnformatika öyrənir
+A) informasiya, texniki proqram və s. təminatı məsələlərini
+B) biliklərin kompyuterdə əks olunmasını
+C) riyazi məsələlərin həllini
+D) texniki proqramların həlli üsullarını və idarəetmə məsələlərini
+E) istənilən məsələnin həlini
+4. Mütərəqqi informasiya texnoogiyalarına nə vaxt keçilməyə başlanmışdır?
+A) 80-ci illərin axırı 90-cı illərin əvvəlləri
+B) 70-ci illərin sonu 80ci illərin əvvəlləri
+C) 80-85ci illərdə
+D) 60cı illərin sonu 70ci illərin əvvəlləri
+E) 70ci illərin sonu
+5. Sistem fəaliyyəti nədən aslıdır
+A) informasiyanın miqdarından
+B) informasiyanın ölçüsündən
+C) informasiyanın sürətindən
+D) informasiyanın tezliyindən
+E) informasiyadan aslı deyil
+6. İnformasiya neçə aspektə tədqiq edilir
+A) 3
+B) 6
+C) 5
+D) 7
+E) 8
+7. İnformasiya hansı aspektdə tədqiq edilir
+A) praqmatik, semantik, sintaksis
+B) semantik, stoxastik, statik
+C) statik, dinamik, determinik
+D) statik, dinamik, emprik
+E) statik, dinamik
+8. İdarəetmə funksiyalarının tədqiqi və ümumiyyətlə idarəetmə prossesinin təşkilinin təhlili baxımından hər hansı bir vahidini neçə hissəyə ayırmaq olar
+A) 3
+B) 5
+C) 2
+D) 6
+E) 4
+9. İdarəetmə funksiyalarının tədqiqi və ümumiyyətlə idarəetmə prossesinin təşkilinin təhlili baxımından hər hansı bir vahidi hansılardır
+A) idarəedici sistem, idarəedilən sistem obyektin informasiya sistemi
+B) idarəedici sistem, stasionar sistem
+C) stasionar sistem, stoxastik sistemlər, informasiya sistemi və astatik
+D) stoxastik sistem, informasiya sistemi, astatik sistemi
+E) statik sistem, astatik sistem
+10. İnformasiya sistemi idarəedici və idarəedilən istemlər arasında nə rolunu oynayır
+A) əlaqələndirici
+B) qəbuledici
+C) şəbəkə
+D) dinamik
+E) ötürücü
+11. İnformasiya sistemi idarə edilən sistemin vəziyyətini əks etdirən informasiyanın yığılması saxlanılması axtarışı işlənməsi və nəyin təmin edir
+A) ötürülməsini
+B) determinikləşdirilməsini
+C) saxlanmasını
+D) stoxastikləşdirilməsini
+E) dinamikləşdirilməsini
+12. İdarəedici sistem əsas məqsəd və əmrlərinin məzmununu əvvəlcə nə sistemində müəyyən edir
+A) informasiya
+B) induktiv
+C) astatik
+D) statik
+E) stoxastik
+13. İnformasiya sistemi istehsalı izləyən və idarə edən orqan nə ilə təmin edir
+A) informasiya ilə
+B) biliklə
+C) istehsalla
+D) materialla
+E) heç nə ilə
+14. İnformasiyanın ən çox yayılmış hissəsini nə təşkil edir
+A) iqtisadi informasiya
+B) fiziki informasiya
+C) riyazi informasiya
+D) modelləşdirmə
+E) kompyuter
+15. İdarəetmə prossesində informasiyanın neçə cür baxımdan təsnifləşdirilməsi daha məqsədəuyğundur
+A) 2
+B) 3
+C) 5
+D) 6
+E) 4
+16. İdarəetmə prossesində informasiyanın hansı baxımdan təsnifləşdirilməsi daha məqsədəuyğundur
+A) funksional və texnoloji
+B) texnoloji və obyektiv
+C) funksional
+D) funksional və obyektiv
+E) müxtəlif
+17. Təcrübə göstərir ki funksional baxımdan təyiniləşdirilmiş informasiyanın funksiyaları necədir
+A) müxtəlif
+B) eyni
+C) xəttiləşdirilmiş
+D) qeyri xəttiləşdirilmiş
+E) parabolik
+18. Doğru cavabı seçin: Təcrübə göstərir ki funksional baxımdan təyiniləşdirilmiş informasiyanın funksiyaları
+A) müxtəlifdir
+B) eynidir
+C) qeyri xəttiləşdiriliş
+D) parabolik
+E) xəttiləşdirilmiş
+19. İqtisadi informasiya yaranma mərhələləri və mənbələri əlamətinə görə hansı informasiya növünə ayrılır
+A) ilkin və törəmə
+B) ilkin və sonrakı
+C) ilkin və sonuncu
+D) sonuncu və törəmə
+E) ilkin
+20. Törəmə informasiya neçə yerə bölünür
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+21. Törəmə informasiyanın növüdür
+A) aralıq və nəticə
+B) aralıq
+C) nəticə
+D) ötürücü və törəmə
+E) törəmə
+22. Törəmə informasiyanın növünü göstərin
+A) aralıq və nəticə
+B) aralıq ötürücü
+C) nəticə
+D) ötürücü
+E) törəmə
+23. İqtisadi informasiya doğruluğuna görə bölünür
+A) tam artıq və natamam
+B) artıq və natamam
+C) artıq və orta
+D) tam və orta
+E) orta və natamam
+24. Yararlı informasiyanın təkrarlanması nəticəsində mövcud olan və idarəetmə işlərində istifadə edilməyən informasiyaya nə deyilir
+A) artıq informasiya
+B) natamam informasiya
+C) orta informasiya
+D) törəmə informasiya
+E) dolğun informasiya
+25. İqtisadi məsələlərin həllini təmin etməyən idarəetmənin tələblərini ödəməyən məlumatlara nə deyilir
+A) natamam informasiya
+B) artıq informasiya
+C) orta informasiya
+D) törəmə informasiya
+E) dolğun informasiya
+26. İdarəetmə məsələlərinin düzgün və səmərəli həlli üçün informasiya nəinki yararlı və dolğun həm də necə olmalıdır
+A) obyektiv və düzgün
+B) obyektiv
+C) doğru
+D) tam və düzgün
+E) natamam və doğru
+27. Bu informasiya bilməkdən və bilmədən yol verilən səhvlər nəticəsində meydana gəlirlər
+A) düzgün olmayan informasiya
+B) düzgün informasiya
+C) səhv və obyektiv informasiya
+D) obyektiv informasiya
+E) natamam informasiya
+28. Bir qayda olaraq sabitlik əmsalının qiyməti neçədən çox olduqda informasiya şərti-sabit hesab edilə bilər
+A) 0.85
+B) 0.75
+C) 0.50
+D) 0.95
+E) 0.83
+29. Sabitlik əmsalının qiyməti neçədən çox olduqda informasiya şərti-sabit hesab oluna bilər
+A) 0.85
+B) 0.76
+C) 0.23
+D) 0.45
+E) 0.65
+30. Siqnalların formalarına görə informasiya bu növlərə ayrılır
+A) rəqəm, hərf, qrafiki
+B) rəqəm və qrafiki
+C) qrafiki və hərfi
+D) rəqəm və hərfi
+E) hərfi və işarə
+31. İqtisadi informasiyanın quruluşu neçə prinsip üzrə yaradıla bilər
+A) 2
+B) 5
+C) 4
+D) 3
+E) 6
+32. İqtisadi informasiyanın quruluşunda hansı prinsip üstünlük təşkil edir
+A) iyerarxik
+B) birsəviyyəli 
+C) çoxsəviyyəli
+D) ikisəviyyəli
+E) birsəviyyəli və çoxsəviyyəli
+33. İqtisadi informasiyanın bölünməz hissəsi necə adlanır
+A) rekvizit
+B) rekurent
+C) stoxastik
+D) iyerarxik
+E) determinik
+34. Doğru cavabı seçin: İqtisadi informasiyanın bölünməz hissəsi necə adlanır
+A) rekvizit
+B) rekurent
+C) stoxastik
+D) iyerarxik
+E) determinik
+35. İnformasiya oxları birləşib nə təşkil edir
+A) informasiya sistemini
+B) massivləri
+C) matrisləri
+D) modulları və matrrisləri
+E) iyerarxiyanı
+36. Məzmununa görə informasiya daşıyıcıları hansı daşıyıcılara bölünür
+A) ilkin və təkrar
+B) təkrar
+C) ilkin və son
+D) birinci və ikinci
+E) birinci və sonuncu
+37. İşlənmə prossesinə görə informasiya daşıyıcıları hansı daşıyıcılara bölünür
+A) başlanğıc və nəticə
+B) başlanğıc və son
+C) başlanğıc
+D) xüsusi
+E) nəticə
+38. İnformasiyanın kodlaşdırılması eyni zamanda nəticə informasiyasının nəyini sürətləndirir
+A) dekodlaşdırılması
+B) kodlaşdırılması
+C) terminallaşdırılması
+D) avtomatlaşdırılması
+E) sürətinin
+39. İqtisadi informasiyanı hansı sistemlər kodlaşdıra bilər
+A) sıralı, seriyalı, mövqeli
+B) kodlaşdırıla bilinən 
+C) sıralı və mövqeli
+D) sıralı və başlanğıc mövqeli
+E) hər hansı sistem
+40. Məlumatların daha yığcam və tez əks etdirilməsini kəsb edir
+A) kodlaşdırma
+B) fayl
+C) dekodlaşdırma
+D) modelləşdirmə
+E) heç biri
+41. Məlumatların xətti təşkili zamanı istisna olmaqla hər bir yazılış özündə əvvəlki və sonrakı əlaqələr olur
+A) birinci və sonuncu
+B) sonuncu
+C) birinci və ikinci
+D) birinci və beşinci
+E) sonuncu
+42. Məlumatların ardıcıl təşkili bir qayda olaraq hansı anlayışlara uyğun gəlir
+A) massiv və fayl
+B) massiv, bit və kb
+C) fayl
+D) fayl və bit
+E) kb
+43. Dəyişdirilməsi lazım gələn yazılışlar massivinə deyilir
+A) əsas yazılışlar massivi
+B) əlavə yazılışlar massivi
+C) sabit yazılışlar massivi
+D) kənar yazılışlar massivi
+E) dəyişdirilmiş massiv
+44. Məlumatlar adətən bu formada yaranır
+A) nizamlandırılmış
+B) müəyyənləşdirilmiş
+C) eyniləşdirilmiş
+D) strukturlaşdırılmış
+E) massivlər
+45. Birinci ağacların nizamlılığı anlayışını müəyyən etmək hansı anlayışı daxil etmək tələb olunur
+A) bir sıra ilkin anlayışlar
+B) bir sıra müxtəlif anlayışlar
+C) bir sıra eynitipli anlayışlar
+D) müxtəlif anlayışlar
+E) heç biri
+46. Məlumatların ardıcıl təşkili bir qayda olaraq bu anlayışlardan birinə uyğun gəlir
+A) massiv və fayl
+B) massiv
+C) fayl
+D) fayl və bit
+E) kb
+47. Sistemləri neçə əlamətə görə təsnifləşdirmək olar
+A) 2
+B) 3
+C) 5
+D) 4
+E) 6
+48. Sistemləri hansı əlamətlərə görə təsnifləşdirmək olar 1. fəaliyyət şərtlərinə görə 2. mürəkkəblik dərəcəsinə görə 3. ehtimal şərtlərinə görə
+A) 1 və 2
+B) 2 və 3
+C) 1 və 3
+D) 1, 2, 3
+E) heç biri
+49. Fəaliyyət şərtlərinə görə sistemlər hansılara bölünür
+A) determinə olunmuş və ehtimallı
+B) determinə olunmuş və stoxastik
+C) determinə olunmuş sistemlər
+D) droselli və şırnaqlı
+E) droselli
+50. Mürəkkəblik dərəcəsinə görə sistemlər bu sistemlərə bölünür
+A) sadə, mürəkkəb, çox mürəkkəb
+B) sadə və mürəkkəb
+C) sadə, orta, mürəkkəb
+D) sadə, mürəkkəb, cox sadə
+E) mürəkkəb və çox mürəkkəb
+51. Obyektin xüsusiyyətindən asılı olaraq funksional alt sistemlərin sayı neçə ola bilər
+A) 10 addan çox
+B) 1 addan çox
+C) 5 addan çox
+D) 100 addan çox
+E) 15 addan çox
+52. İnformasiya sistemlərini tətbiq sahəhərinə görə neçə əsas sinifə bölmək olar
+A) 4
+B) 2
+C) 3
+D) 5
+E) 6
+53. Özündən əvvəlki sistemlərin üstünlüklərini səmərəli şəkildə birləşdirən nə texnologiyasına xüsusi diqqət yetirilir
+A) müstəvi-server
+B) server
+C) modelləşdirmə
+D) informasiya
+E) kompyuter
+54. İnformasiya sisteminin böyük modelinin başlıca xüsusiyyətləri onun hansı şəbəkədən ibarət olmasıdır
+A) iki səviyyəli
+B) qlobal
+C) iyerarxik
+D) lokal
+E) lokal və qlobal
+55. Texnologiya termini yunan sözü olub hansı sözdən götürülüb
+A) techne
+B) texnos
+C) texno
+D) texnolog
+E) texnolos
+56. Texnologiya terminin mənası nədir
+A) bacarıq və ustalıq
+B) texnika
+C) informasiya
+D) termin
+E) oxunuş
+57. İnformasiya texnologiyasının qərar qəbulunun təmin edilməsi sistemin tərkibinə neçə əsas komponent daxildir
+A) 3
+B) 5
+C) 2
+D) 4
+E) 1
+58. Mərkəzləşdirilmiş texnologiyanın neçə müsbət cəhəti var
+A) bir sıra
+B) 2
+C) 3
+D) 4
+E) 5
+59. Müşahidələr göstərir ki idarəetmə sferalarında çalışan mütəxəssislərin vaxtının orta hesabla neçə faizi sənədlərlə işə sərf olunur?
+A) 31%
+B) 50%
+C) 75%
+D) 100%
+E) 90%
+60. İdarəetmə sferalarinda çalışan mütəxəssislərin vaxtinin neçə faizi iqtisadi təhlil işinə sərf edilir?
+A) 8%
+B) 5%
+C) 10%
+D) 50%
+E) 40%
+61. Çoxproqramlı rejimdə birinci və ikinci proqramin daxil edilməsi hansı vaxtda aparıla bilər?
+A) eyni vaxtda
+B) birinci proqram icra edildikdən sonra
+C) istənilən vaxt
+D) hər bir dəqiqə keçdikdən sonra
+E) aralarinda müəyyən vaxt məhtudiyyətiylə
+62. Məlumatın avtomatlaşdırılmış işlənməsi sistemlərinin ehtiyacları baxımından bu prosesin neçə cəhətin fərqləndirmək lazımdır
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+63. Periferiya avadanlıqıarı içərisində nəqdsiz pul dövriyyəsinin təşkili vasitələri xüsusi yer tutur. Həmin vasitələri şərti olaraq nə adlandırırlar
+A) plastik pullar və elektron pullar
+B) plastik pullar və kağız pullar
+C) elektron pullar kağız pullar inetal pullar 
+D) kağız pullar
+E) inetalpullar kagız pullar
+64. Qlobal komputer şəbəkələri ticarət və istehsal müəssələri üçün bütün gün ərzində fasiləsiz işləyən nə funksiyasını yerinə yetirir
+A) reklamçı 
+B) istifadəçi
+C) sayt
+D) istehsalçı
+E) anons
+65. Şəbəkənin funksiyası müəyyən informasiyanın nəyindən ibarətdir
+A) bir komputerdən digərinə ötrülməsindən
+B) informasiyanın internet vasitəsiylə ötürülməsindən
+C) informasiyanın @ mail vasitəsiylə ötrülməsindən
+D) informasiyanın yaddaş kartı vasitəsiylə digər komputerə ötürülməsindən
+E) ölçüsündən
+66. Doğru variantı seçin. İnformatika elmi öyrənir
+A) informasiya, texniki proqram və s. təminatı məsələlərini
+B) biliklərin komputerdə əks olunması 
+C) riyazi məsələlərin həllini
+D) texniki proqramların və alqoritmik məsələlərin həllini 
+E) alqoritmik məsələlərin həllini
+67. Hər hansı bir təşkilat vahidini neçə hissəyə ayırmaq olar
+A) 3
+B) 5
+C) 4
+D) 7
+E) 6
+68. Bu sistem idarəedici və idarə edilən sistemlər arasında əlaqələndirici rolunu oynayır
+A) informasiya
+B) astotik
+C) statik
+D) stoxastik
+E) analitik
+69. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq translyator neçə yerə ayrılır
+A) 2
+B) 5
+C) 6
+D) 4
+E) 8
+70. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq translyator hansılara bölünür 1. konpliyatorlar 2. interpetatorlara 3. generatorlara
+A) 1 və 2
+B) 1,2 və3
+C) 1və3
+D) 2və3
+E) yalnız 3
+71. Proqramlaşdırmanın giriş dilindən tərcümə edilməsi üsulundan asılı olaraq traslyator hansılara bölünür
+A) konpliyator və interpertator
+B) konpliyator və fazifikator
+C) kanpliyator translyator interpertator
+D) interpertaror generator
+E) interpertator və fazifikator
+72. Məlumatların məntiqi təşkilini elementar vahidi olmaqla informasiyanın bölünməyən quruluş vahidi hesab edilən rekvizitinə uyğun gələni
+A) sahə
+B) fayl
+C) açar
+D) menyu
+E) model
+73. Bir-birilə məntiqi əlaqədə olan rekvizitlərə uyğun sahələrin toplusudur
+A) yazılış
+B) fayl
+C) açar
+D) model
+E) menyu
+74. Doğru variantı seçin: Bir-birilə məntiqi əlaqədə olan rekvizitlərə uyğun sahələrin toplusudur
+A) yazılış
+B) fayl
+C) açar
+D) model
+E) menyu
+75. Ayrı-ayrı sahələrdə qiymətləri göstərilən eyni quruluşa malik yazılış nüsxələrinin çoxluğudur
+A) fayl
+B) açar
+C) menyu
+D) model
+E) elektron qurğu
+76. Müxtəlif sahələrdə qiymətləri göstərilən eyni quruluşa malik yazılış nüsxələrinin çoxluğudur
+A) fayl
+B) açar
+C) menyu
+D) model
+E) elektron qurğu
+77. Ümumi halda yazılış açarları neçə növ olur
+A) 2
+B) 3
+C) 5
+D) 4
+E) 6
+78. Ümumi halda yazılış açarlarının düzgün sırasını göstərin
+A) birinci və ikinci açar
+B) ikinci və üçüncü açar
+C) əvvəlinci və sonuncu açar
+D) sonuncu açar
+E) birinci və sonuncu açar
+79. Məlumat bordlarındakı çoxməqsədli qaydada istifadəni məlumatların mühafizəsini təmin edir
+A) MBİS
+B) Sİ
+C) EHM
+D) SİS
+E) KM
+80. MB-nin quruluşu formalaşdıqdan sonra informasiya mənbəyi olan sənədlərdən MB-nin nəyi həyata keçirilir
+A) yüklənməsi
+B) oxunması
+C) ötürülməsi
+D) silinməsi
+E) tətbiqi
+81. Bu sistem məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+82. Hansı sistem məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+83. Sistemlərdən biri məlumatların işlənməsi məqsədləri üçün layihələndirilmişdir
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+84. Burada məlumatlar xüsusi obyektlərdə saxlanılır
+A) ACSSES
+B) WORD
+C) EXCELL
+D) POWER POINT
+E) COREL DRAW
+85. İstifadəçi iş yerində yalnız müxtəlif rejimlərdə hansı əməliyyatları yerinə yetirmək imkanına malikdir
+A) giriş və çıxış
+B) lokal və qlobal
+C) daxili və xarici
+D) daxili
+E) xarici
+86. Harada fərdi komyuterlərdən istifadənin texnoloji baxımdan özünəməxsus xüsusiyyətləri və üstünlükləri var
+A) avtomatlaşdırılmış informasiya texnologiyalarında
+B) kompyuter modelləşdirilməsində
+C) EHM-lərdə
+D) süni intellekt sistemlərində
+E) avtomatik idarəetmə sistemlərində və EHM-lərdə
+87. Bunlardan biri yeni informasiya texnikasının inkişafının aparıcı meyli hesab edilir
+A) qloballaşdırma
+B) canlandırma
+C) modelləşdirmə
+D) kompyuter
+E) avtomatlaşdırma
+89. Texnoloji əməliyyatları neçə əlamətə görə təsnifləşdirmək olar
+A) müxtəlif
+B) iki
+C) üç
+D) beş
+E) on
+90. Hansı texnologiya məsələlərin qoyuluşu və onların həlli alqoritmləri ilə birbaşa əlaqədardır
+A) maşındaxili
+B) elektron
+C) terminal
+D) informasiya
+E) xüsusi
+91. Aşağıdakılardan hansı tranzaksiyaların idarə olunması sisteminə qoyulan əsas tələbdir
+A) Ədalətlilik prinsipi 
+B) Bloklaşdırma 
+C) Ratifikasiya 
+D) Vaxt nişanı 
+E) Uzun ömürlülük 
+92. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur 
+A) Bloklaşdırma 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+93. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur? 
+A) Vaxt nişanı 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+94. Aşağıdakılardan hansı informasiyanın tamlığının təmin olunması üsuludur? 
+A) Ratifikasiya 
+B) Uzun ömürlülük 
+C) Atomarlıq 
+D) İzolə olunma 
+E) Seriallanma 
+95. Tranzaksiyaların seriallanan olması üçün əsas şərt nədir? 
+A) Qrafda dövrün olmaması 
+B) Qrafda dövrün olması 
+C) Qrafda təpə nöqtələrinin sayının 10-dan az olması 
+D) Qrafda təpə nöqtələrinin sayının 10-dan çox olması 
+E) Tranzaksiyanın uzun olması 
+96. İki fazalı bloklaşdırma mexanizmində ikinci fazada hansı əmr yerinə yetirilir 
+A) Unlock 
+B) Update 
+C) Write 
+D) Lock 
+E) Delete 
+97. D-qrafda nə yoxlanılır 
+A) Dövrün olub-olmaması 
+B) Tranzaksiyaların sayı 
+C) Tranzaksiyaların istiqaməti 
+D) Tranzaksiyaların ötürülməsi 
+E) Tillərin istiqaməti 
+98. Tranzaksiyaların idarə olunmasının baza alqoritmində DO əmri nəyi bildirir?
+A) Aktiv vəziyyət 
+B) Passiv vəziyyət 
+C) Hazır vəziyyət 
+D) Tranzaksiyanı aktivləşdirmək 
+E) Alttranzaksiyanı yerinə yetirmək 
+99. Tranzaksiyaların idarə olunmasının baza alqoritmində INIT əmri nəyi bildirir 
+A) Passiv vəziyyət 
+B) Hazır vəziyyət 
+C) Aktiv vəziyyət 
+D) Tranzaksiyanı aktivləşdirmək 
+E) Alttranzaksiyanı yerinə yetirmək 
+100. Tranzaksiyaların idarə olunmasının baza alqoritmində Ready əmri nəyi bildirir 
+A) Hazır vəziyyət 
+B) Aktiv vəziyyət 
+C) Tranzaksiyanı aktivləşdirmək 
+D) Passiv vəziyyət 
+E) Alttranzaksiyanı yerinə yetirmək 
